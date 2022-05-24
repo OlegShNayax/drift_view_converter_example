@@ -1,0 +1,1 @@
+{"isEntrypoint":true,"deps":["collection|lib/collection.dart","floor_generator|lib/value_object/field.dart"],"parts":[],"conditionalDeps":[],"sdkDeps":[],"hasMain":false}

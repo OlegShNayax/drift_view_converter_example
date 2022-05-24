@@ -1,0 +1,1 @@
+{"isEntrypoint":false,"deps":["build_daemon|lib/change_provider.dart","build_runner_core|lib/src/asset_graph/graph.dart","build_runner_core|lib/src/generate/build_definition.dart","watcher|lib/watcher.dart"],"parts":[],"conditionalDeps":[],"sdkDeps":[],"hasMain":false}

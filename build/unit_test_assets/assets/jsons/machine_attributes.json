@@ -1,0 +1,538 @@
+[
+  {
+    "attributeId": 4361,
+    "attributeValue": "0",
+    "attributeCodeIdBit": false,
+    "attributeName": "Contactless delay start",
+    "attributeGroupId": 10,
+    "attributeGroupName": "Card Readers"
+  },
+  {
+    "attributeId": 523,
+    "attributeCodeId": 2,
+    "attributeCodeIdBit": true,
+    "attributeName": "Decimal Place",
+    "attributeGroupId": 10,
+    "attributeGroupName": "Card Readers"
+  },
+  {
+    "attributeId": 4098,
+    "attributeValue": "0",
+    "attributeCodeIdBit": false,
+    "attributeName": "EMV Contact Floor Limit",
+    "attributeGroupId": 10,
+    "attributeGroupName": "Card Readers"
+  },
+  {
+    "attributeId": 4097,
+    "attributeValue": "0",
+    "attributeCodeIdBit": false,
+    "attributeName": "EMV Contactless Floor Limit",
+    "attributeGroupId": 10,
+    "attributeGroupName": "Card Readers"
+  },
+  {
+    "attributeId": 4359,
+    "attributeValue": "2000",
+    "attributeCodeIdBit": false,
+    "attributeName": "EMV Contactless Transaction Limit",
+    "attributeGroupId": 10,
+    "attributeGroupName": "Card Readers"
+  },
+  {
+    "attributeId": 535,
+    "attributeCodeId": 100,
+    "attributeCodeIdBit": true,
+    "attributeName": "Extended Cards Support",
+    "attributeGroupId": 10,
+    "attributeGroupName": "Card Readers"
+  },
+  {
+    "attributeId": 4354,
+    "attributeCodeId": 0,
+    "attributeCodeIdBit": true,
+    "attributeName": "LED Configuration",
+    "attributeGroupId": 10,
+    "attributeGroupName": "Card Readers"
+  },
+  {
+    "attributeId": 4358,
+    "attributeCodeId": 1,
+    "attributeCodeIdBit": true,
+    "attributeName": "Oberthur Payment",
+    "attributeGroupId": 10,
+    "attributeGroupName": "Card Readers"
+  },
+  {
+    "attributeId": 313,
+    "attributeCodeId": 0,
+    "attributeCodeIdBit": true,
+    "attributeName": "Transaction Start Ignore List",
+    "attributeGroupId": 10,
+    "attributeGroupName": "Card Readers"
+  },
+  {
+    "attributeId": 312,
+    "attributeCodeId": 255,
+    "attributeCodeIdBit": true,
+    "attributeName": "Transaction Start Method",
+    "attributeGroupId": 10,
+    "attributeGroupName": "Card Readers"
+  },
+  {
+    "attributeId": 328,
+    "attributeCodeId": 5,
+    "attributeCodeIdBit": true,
+    "attributeName": "VPOS Button Function",
+    "attributeGroupId": 10,
+    "attributeGroupName": "Card Readers"
+  },
+  {
+    "attributeId": 525,
+    "attributeCodeId": 12,
+    "attributeCodeIdBit": true,
+    "attributeName": "VPOS Card Options",
+    "attributeGroupId": 10,
+    "attributeGroupName": "Card Readers"
+  },
+  {
+    "attributeId": 4352,
+    "attributeCodeId": 0,
+    "attributeCodeIdBit": true,
+    "attributeName": "VPOS LCD Language",
+    "attributeGroupId": 10,
+    "attributeGroupName": "Card Readers"
+  },
+  {
+    "attributeId": 311,
+    "attributeCodeId": 0,
+    "attributeCodeIdBit": true,
+    "attributeName": "VPOS Read Source Enabled",
+    "attributeGroupId": 10,
+    "attributeGroupName": "Card Readers"
+  },
+  {
+    "attributeId": 101,
+    "attributeCodeId": 1,
+    "attributeCodeIdBit": true,
+    "attributeName": "Communication Mode",
+    "attributeGroupId": 80,
+    "attributeGroupName": "Communication"
+  },
+  {
+    "attributeId": 132,
+    "attributeValue": "2500",
+    "attributeCodeIdBit": false,
+    "attributeName": "Keep Alive Poll Interval (sec)",
+    "attributeGroupId": 80,
+    "attributeGroupName": "Communication"
+  },
+  {
+    "attributeId": 144,
+    "attributeValue": "1",
+    "attributeCodeIdBit": false,
+    "attributeName": "Restart device",
+    "attributeGroupId": 80,
+    "attributeGroupName": "Communication"
+  },
+  {
+    "attributeId": 748,
+    "attributeCodeId": 3,
+    "attributeCodeIdBit": true,
+    "attributeName": "VPN - Backup Address",
+    "attributeGroupId": 80,
+    "attributeGroupName": "Communication"
+  },
+  {
+    "attributeId": 739,
+    "attributeCodeId": 1,
+    "attributeCodeIdBit": true,
+    "attributeName": "VPN - Primary Address",
+    "attributeGroupId": 80,
+    "attributeGroupName": "Communication"
+  },
+  {
+    "attributeId": 746,
+    "attributeCodeId": 2,
+    "attributeCodeIdBit": true,
+    "attributeName": "VPN - Secondary Address",
+    "attributeGroupId": 80,
+    "attributeGroupName": "Communication"
+  },
+  {
+    "attributeId": 750,
+    "attributeCodeId": 2,
+    "attributeCodeIdBit": true,
+    "attributeName": "WPN - Backup Address",
+    "attributeGroupId": 80,
+    "attributeGroupName": "Communication"
+  },
+  {
+    "attributeId": 730,
+    "attributeCodeId": 1,
+    "attributeCodeIdBit": true,
+    "attributeName": "WPN - Primary Address",
+    "attributeGroupId": 80,
+    "attributeGroupName": "Communication"
+  },
+  {
+    "attributeId": 732,
+    "attributeCodeId": 1,
+    "attributeCodeIdBit": true,
+    "attributeName": "WPN - Secondary Address",
+    "attributeGroupId": 80,
+    "attributeGroupName": "Communication"
+  },
+  {
+    "attributeId": 96,
+    "attributeCodeId": 6,
+    "attributeCodeIdBit": true,
+    "attributeName": "BT1 Red button Long press ",
+    "attributeGroupId": 160,
+    "attributeGroupName": "Device Features"
+  },
+  {
+    "attributeId": 80,
+    "attributeCodeId": 10,
+    "attributeCodeIdBit": true,
+    "attributeName": "BT1 Red button Short press",
+    "attributeGroupId": 160,
+    "attributeGroupName": "Device Features"
+  },
+  {
+    "attributeId": 97,
+    "attributeCodeId": 101,
+    "attributeCodeIdBit": true,
+    "attributeName": "BT2 Yellow button Long press ",
+    "attributeGroupId": 160,
+    "attributeGroupName": "Device Features"
+  },
+  {
+    "attributeId": 81,
+    "attributeCodeId": 101,
+    "attributeCodeIdBit": true,
+    "attributeName": "BT2 Yellow button Short press",
+    "attributeGroupId": 160,
+    "attributeGroupName": "Device Features"
+  },
+  {
+    "attributeId": 84,
+    "attributeCodeId": 17,
+    "attributeCodeIdBit": true,
+    "attributeName": "Data Reduction",
+    "attributeGroupId": 160,
+    "attributeGroupName": "Device Features"
+  },
+  {
+    "attributeId": 128,
+    "attributeValue": "4.13",
+    "attributeCodeIdBit": false,
+    "attributeName": "Device PCB Revision",
+    "attributeGroupId": 160,
+    "attributeGroupName": "Device Features"
+  },
+  {
+    "attributeId": 145,
+    "attributeValue": "4.8.0.21-RC5 - Mar  4 2021",
+    "attributeCodeIdBit": false,
+    "attributeName": "Device software version",
+    "attributeGroupId": 160,
+    "attributeGroupName": "Device Features"
+  },
+  {
+    "attributeId": 740,
+    "attributeValue": "1",
+    "attributeCodeIdBit": false,
+    "attributeName": "Firmware update",
+    "attributeGroupId": 160,
+    "attributeGroupName": "Device Features"
+  },
+  {
+    "attributeId": 83,
+    "attributeCodeId": 3000,
+    "attributeCodeIdBit": true,
+    "attributeName": "Gtrace Request",
+    "attributeGroupId": 160,
+    "attributeGroupName": "Device Features"
+  },
+  {
+    "attributeId": 404,
+    "attributeCodeId": 1,
+    "attributeCodeIdBit": true,
+    "attributeName": "Online Trace",
+    "attributeGroupId": 160,
+    "attributeGroupName": "Device Features"
+  },
+  {
+    "attributeId": 10,
+    "attributeValue": "100",
+    "attributeCodeIdBit": false,
+    "attributeName": "Power Down Timeout in ms",
+    "attributeGroupId": 160,
+    "attributeGroupName": "Device Features"
+  },
+  {
+    "attributeId": 941,
+    "attributeValue": "3",
+    "attributeCodeIdBit": false,
+    "attributeName": "RTC Time Zone",
+    "attributeGroupId": 160,
+    "attributeGroupName": "Device Features"
+  },
+  {
+    "attributeId": 681,
+    "attributeCodeId": 0,
+    "attributeCodeIdBit": true,
+    "attributeName": "Dex Type",
+    "attributeGroupId": 70,
+    "attributeGroupName": "DEX/DDCMP"
+  },
+  {
+    "attributeId": 680,
+    "attributeValue": "15",
+    "attributeCodeIdBit": false,
+    "attributeName": "Offline Dex Alerts Read Timeout (sec)",
+    "attributeGroupId": 70,
+    "attributeGroupName": "DEX/DDCMP"
+  },
+  {
+    "attributeId": 201,
+    "attributeCodeId": 1,
+    "attributeCodeIdBit": true,
+    "attributeName": "Audio Language",
+    "attributeGroupId": 110,
+    "attributeGroupName": "Language / Audio"
+  },
+  {
+    "attributeId": 403,
+    "attributeValue": "85",
+    "attributeCodeIdBit": false,
+    "attributeName": "Audio Volume",
+    "attributeGroupId": 110,
+    "attributeGroupName": "Language / Audio"
+  },
+  {
+    "attributeId": 190,
+    "attributeCodeId": 0,
+    "attributeCodeIdBit": true,
+    "attributeName": "LCD Primary Language",
+    "attributeGroupId": 110,
+    "attributeGroupName": "Language / Audio"
+  },
+  {
+    "attributeId": 191,
+    "attributeCodeId": 0,
+    "attributeCodeIdBit": true,
+    "attributeName": "LCD Secondary Language ",
+    "attributeGroupId": 110,
+    "attributeGroupName": "Language / Audio"
+  },
+  {
+    "attributeId": 180,
+    "attributeCodeId": 20,
+    "attributeCodeIdBit": true,
+    "attributeName": "SRV to LCD lang",
+    "attributeGroupId": 110,
+    "attributeGroupName": "Language / Audio"
+  },
+  {
+    "attributeId": 192,
+    "attributeValue": "@$",
+    "attributeCodeIdBit": false,
+    "attributeName": "Cash Only Message",
+    "attributeGroupId": 90,
+    "attributeGroupName": "LCD"
+  },
+  {
+    "attributeId": 188,
+    "attributeValue": "M.ID 3115726 Monyx",
+    "attributeCodeIdBit": false,
+    "attributeName": "Welcome Message",
+    "attributeGroupId": 90,
+    "attributeGroupName": "LCD"
+  },
+  {
+    "attributeId": 98,
+    "attributeCodeId": 0,
+    "attributeCodeIdBit": true,
+    "attributeName": "Cashless MDB address",
+    "attributeGroupId": 40,
+    "attributeGroupName": "MDB"
+  },
+  {
+    "attributeId": 610,
+    "attributeValue": "1",
+    "attributeCodeIdBit": false,
+    "attributeName": "Ignore Start State",
+    "attributeGroupId": 40,
+    "attributeGroupName": "MDB"
+  },
+  {
+    "attributeId": 611,
+    "attributeValue": "1",
+    "attributeCodeIdBit": false,
+    "attributeName": "Ignore VMC Configuration",
+    "attributeGroupId": 40,
+    "attributeGroupName": "MDB"
+  },
+  {
+    "attributeId": 524,
+    "attributeValue": "7",
+    "attributeCodeIdBit": false,
+    "attributeName": "Maximum Response Time",
+    "attributeGroupId": 40,
+    "attributeGroupName": "MDB"
+  },
+  {
+    "attributeId": 618,
+    "attributeValue": "0",
+    "attributeCodeIdBit": false,
+    "attributeName": "MDB Communication time delay (ms)",
+    "attributeGroupId": 40,
+    "attributeGroupName": "MDB"
+  },
+  {
+    "attributeId": 621,
+    "attributeCodeId": 0,
+    "attributeCodeIdBit": true,
+    "attributeName": "MDB flags",
+    "attributeGroupId": 40,
+    "attributeGroupName": "MDB"
+  },
+  {
+    "attributeId": 615,
+    "attributeValue": "60",
+    "attributeCodeIdBit": false,
+    "attributeName": "MDB Rx Timeout (sec)",
+    "attributeGroupId": 40,
+    "attributeGroupName": "MDB"
+  },
+  {
+    "attributeId": 612,
+    "attributeValue": "500",
+    "attributeCodeIdBit": false,
+    "attributeName": "Poll IRQ Timeout (ms)",
+    "attributeGroupId": 40,
+    "attributeGroupName": "MDB"
+  },
+  {
+    "attributeId": 630,
+    "attributeValue": "******",
+    "attributeCodeIdBit": false,
+    "attributeName": "Poll Stop Event Timeout (sec)",
+    "attributeGroupId": 40,
+    "attributeGroupName": "MDB"
+  },
+  {
+    "attributeId": 616,
+    "attributeValue": "0",
+    "attributeCodeIdBit": false,
+    "attributeName": "Post Cash Sale Timeout",
+    "attributeGroupId": 40,
+    "attributeGroupName": "MDB"
+  },
+  {
+    "attributeId": 640,
+    "attributeValue": "90",
+    "attributeCodeIdBit": false,
+    "attributeName": "Reader State Error Event Timeout (MAX: 255 sec)",
+    "attributeGroupId": 40,
+    "attributeGroupName": "MDB"
+  },
+  {
+    "attributeId": 614,
+    "attributeValue": "500",
+    "attributeCodeIdBit": false,
+    "attributeName": "Session Complete Timeout (ms)",
+    "attributeGroupId": 40,
+    "attributeGroupName": "MDB"
+  },
+  {
+    "attributeId": 613,
+    "attributeValue": "40",
+    "attributeCodeIdBit": false,
+    "attributeName": "Vend Result Timeout (MAX: 65535 sec)",
+    "attributeGroupId": 40,
+    "attributeGroupName": "MDB"
+  },
+  {
+    "attributeId": 51,
+    "attributeValue": "2000",
+    "attributeCodeIdBit": false,
+    "attributeName": "Cash Revalue Enable & Limit",
+    "attributeGroupId": 30,
+    "attributeGroupName": "Payment"
+  },
+  {
+    "attributeId": 617,
+    "attributeValue": "20",
+    "attributeCodeIdBit": false,
+    "attributeName": "Choose Product Timeout(sec)",
+    "attributeGroupId": 30,
+    "attributeGroupName": "Payment"
+  },
+  {
+    "attributeId": 584,
+    "attributeValue": "100",
+    "attributeCodeIdBit": false,
+    "attributeName": "Default Credit",
+    "attributeGroupId": 30,
+    "attributeGroupName": "Payment"
+  },
+  {
+    "attributeId": 591,
+    "attributeValue": "@$",
+    "attributeCodeIdBit": false,
+    "attributeName": "EMV Price Table",
+    "attributeGroupId": 30,
+    "attributeGroupName": "Payment"
+  },
+  {
+    "attributeId": 11,
+    "attributeCodeId": 0,
+    "attributeCodeIdBit": true,
+    "attributeName": "False Multivend",
+    "attributeGroupId": 30,
+    "attributeGroupName": "Payment"
+  },
+  {
+    "attributeId": 12,
+    "attributeCodeId": 0,
+    "attributeCodeIdBit": true,
+    "attributeName": "Multivend",
+    "attributeGroupId": 30,
+    "attributeGroupName": "Payment"
+  },
+  {
+    "attributeId": 588,
+    "attributeCodeId": 1,
+    "attributeCodeIdBit": true,
+    "attributeName": "Payment Flags",
+    "attributeGroupId": 30,
+    "attributeGroupName": "Payment"
+  },
+  {
+    "attributeId": 884,
+    "attributeCodeId": 0,
+    "attributeCodeIdBit": true,
+    "attributeName": "RS232 Connection",
+    "attributeGroupId": 166,
+    "attributeGroupName": "RS232 Control"
+  },
+  {
+    "attributeId": 720,
+    "attributeValue": "89462046041000452140",
+    "attributeCodeIdBit": false,
+    "attributeName": "Sim Serial Number",
+    "attributeGroupId": 162,
+    "attributeGroupName": "Sim Card"
+  },
+  {
+    "attributeId": 567,
+    "attributeValue": "8D455FDF85D073E7AC0486B5BA4C1533",
+    "attributeCodeIdBit": false,
+    "attributeName": "Fiscal Encryption Key",
+    "attributeGroupId": 170,
+    "attributeGroupName": "VPOS Touch"
+  }
+]

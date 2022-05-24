@@ -1,0 +1,1 @@
+{"isEntrypoint":false,"deps":["convert|lib/convert.dart","drift|lib/drift.dart"],"parts":["drift|lib/src/runtime/types/custom_type.dart","drift|lib/src/runtime/types/type_system.dart"],"conditionalDeps":[],"sdkDeps":[],"hasMain":false}

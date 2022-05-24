@@ -1,0 +1,1 @@
+{"isEntrypoint":true,"deps":["drift|lib/native.dart","moor|lib/ffi.dart","moor|lib/moor.dart","path|lib/path.dart","path_provider_windows|lib/path_provider_windows.dart","sqflite|lib/sqflite.dart","moma_core|lib/database/drift/drift_database.dart"],"parts":[],"conditionalDeps":[],"sdkDeps":["io"],"hasMain":false}

@@ -1,0 +1,1 @@
+{"isEntrypoint":true,"deps":["analyzer|lib/dart/element/type.dart","collection|lib/collection.dart","floor_generator|lib/misc/extension/iterable_extension.dart","floor_generator|lib/value_object/type_converter.dart","source_gen|lib/source_gen.dart"],"parts":[],"conditionalDeps":[],"sdkDeps":[],"hasMain":false}

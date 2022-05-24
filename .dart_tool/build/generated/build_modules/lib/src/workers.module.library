@@ -1,0 +1,1 @@
+{"isEntrypoint":false,"deps":["bazel_worker|lib/driver.dart","build|lib/build.dart","path|lib/path.dart","build_modules|lib/src/scratch_space.dart"],"parts":[],"conditionalDeps":[],"sdkDeps":["async","collection","convert","io","math"],"hasMain":false}

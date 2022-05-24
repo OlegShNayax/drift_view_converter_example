@@ -1,0 +1,1 @@
+{"isEntrypoint":true,"deps":["characters|lib/characters.dart","unicode|lib/unicode.dart"],"parts":["strings|lib/src/strings.dart"],"conditionalDeps":[],"sdkDeps":[],"hasMain":false}

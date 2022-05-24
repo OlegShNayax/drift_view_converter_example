@@ -1,0 +1,1 @@
+{"isEntrypoint":false,"deps":["meta|lib/meta.dart","vector_math|lib/vector_math.dart","path_parsing|lib/src/path_segment_type.dart"],"parts":[],"conditionalDeps":[],"sdkDeps":["math"],"hasMain":false}

@@ -1,0 +1,1 @@
+{"isEntrypoint":false,"deps":["build|lib/build.dart","drift_dev|lib/src/backends/build/moor_builder.dart","drift_dev|lib/src/utils/type_utils.dart","drift_dev|lib/writer.dart","source_gen|lib/source_gen.dart","drift_dev|lib/src/model/base_entity.dart"],"parts":[],"conditionalDeps":[],"sdkDeps":[],"hasMain":false}

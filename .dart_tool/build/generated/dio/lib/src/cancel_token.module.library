@@ -1,0 +1,1 @@
+{"isEntrypoint":false,"deps":["dio|lib/src/dio_error.dart","dio|lib/src/options.dart"],"parts":[],"conditionalDeps":[],"sdkDeps":["async"],"hasMain":false}

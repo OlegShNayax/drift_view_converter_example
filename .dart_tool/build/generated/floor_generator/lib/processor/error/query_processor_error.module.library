@@ -1,0 +1,1 @@
+{"isEntrypoint":true,"deps":["analyzer|lib/dart/element/element.dart","floor_generator|lib/processor/error/processor_error.dart"],"parts":[],"conditionalDeps":[],"sdkDeps":[],"hasMain":false}

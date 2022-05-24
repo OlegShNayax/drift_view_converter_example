@@ -1,0 +1,1 @@
+{"p":["glob","lib/src/ast.dart"],"s":[["glob","lib/src/ast.dart"],["glob","lib/src/list_tree.dart"],["glob","lib/src/parser.dart"],["glob","lib/src/utils.dart"]],"d":[["async","lib/async.dart"],["collection","lib/collection.dart"],["file","lib/file.dart"],["path","lib/path.dart"],["string_scanner","lib/src/eager_span_scanner.dart"]],"m":false,"is":true,"pf":"ddc"}

@@ -1,0 +1,1 @@
+{"isEntrypoint":false,"deps":["analyzer|lib/dart/element/element.dart","analyzer|lib/dart/element/type.dart","json_serializable|lib/src/type_helpers/config_types.dart","json_serializable|lib/src/utils.dart"],"parts":[],"conditionalDeps":[],"sdkDeps":[],"hasMain":false}

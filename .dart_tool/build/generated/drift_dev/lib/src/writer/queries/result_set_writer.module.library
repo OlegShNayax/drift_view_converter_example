@@ -1,0 +1,1 @@
+{"isEntrypoint":false,"deps":["drift_dev|lib/src/model/sql_query.dart","drift_dev|lib/src/model/types.dart","drift_dev|lib/src/writer/utils/override_toString.dart","drift_dev|lib/writer.dart"],"parts":[],"conditionalDeps":[],"sdkDeps":[],"hasMain":false}

@@ -1,0 +1,1 @@
+{"isEntrypoint":false,"deps":["build_daemon|lib/constants.dart","path|lib/path.dart"],"parts":[],"conditionalDeps":[],"sdkDeps":["io"],"hasMain":false}

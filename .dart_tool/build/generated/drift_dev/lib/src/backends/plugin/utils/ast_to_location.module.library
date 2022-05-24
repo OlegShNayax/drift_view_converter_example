@@ -1,0 +1,1 @@
+{"isEntrypoint":false,"deps":["analyzer_plugin|lib/protocol/protocol_common.dart","drift_dev|lib/moor_generator.dart","drift_dev|lib/src/analyzer/runner/file_graph.dart","source_gen|lib/source_gen.dart","source_span|lib/source_span.dart","sqlparser|lib/sqlparser.dart"],"parts":[],"conditionalDeps":[],"sdkDeps":[],"hasMain":false}

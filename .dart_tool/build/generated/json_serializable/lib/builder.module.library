@@ -1,0 +1,1 @@
+{"isEntrypoint":true,"deps":["build|lib/build.dart","json_annotation|lib/json_annotation.dart","json_serializable|lib/src/json_part_builder.dart"],"parts":[],"conditionalDeps":[],"sdkDeps":[],"hasMain":false}

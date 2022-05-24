@@ -1,0 +1,1 @@
+{"isEntrypoint":false,"deps":["analyzer_plugin|lib/protocol/protocol_common.dart","analyzer_plugin|lib/protocol/protocol_generated.dart","drift_dev|lib/src/analyzer/session.dart","drift_dev|lib/src/services/ide/assists/assist_service.dart","path|lib/path.dart","drift_dev|lib/src/services/ide/highlights.dart"],"parts":[],"conditionalDeps":[],"sdkDeps":[],"hasMain":false}

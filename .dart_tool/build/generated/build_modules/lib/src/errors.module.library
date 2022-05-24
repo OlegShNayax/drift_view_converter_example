@@ -1,0 +1,1 @@
+{"isEntrypoint":false,"deps":["analyzer|lib/dart/analysis/utilities.dart","analyzer|lib/dart/ast/ast.dart","build|lib/build.dart","collection|lib/collection.dart","build_modules|lib/src/module_library.dart","build_modules|lib/src/module_library_builder.dart","build_modules|lib/src/modules.dart"],"parts":[],"conditionalDeps":[],"sdkDeps":["async"],"hasMain":false}

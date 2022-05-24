@@ -1,0 +1,1 @@
+{"isEntrypoint":false,"deps":["build|lib/build.dart","build_runner_core|lib/build_runner_core.dart","path|lib/path.dart","watcher|lib/watcher.dart"],"parts":[],"conditionalDeps":[],"sdkDeps":[],"hasMain":false}

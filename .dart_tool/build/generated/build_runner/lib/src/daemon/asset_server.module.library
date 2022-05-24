@@ -1,0 +1,1 @@
+{"isEntrypoint":false,"deps":["build_runner|lib/src/entrypoint/options.dart","http_multi_server|lib/http_multi_server.dart","logging|lib/logging.dart","shelf|lib/shelf.dart","shelf|lib/shelf_io.dart","build_runner|lib/src/server/server.dart","build_runner|lib/src/daemon/daemon_builder.dart"],"parts":[],"conditionalDeps":[],"sdkDeps":["async","io"],"hasMain":false}

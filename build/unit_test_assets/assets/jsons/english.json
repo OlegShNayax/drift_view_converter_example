@@ -1,0 +1,12 @@
+{
+  "UpdatedDt": "2022-05-11T11:58:52.667",
+  "TranslationDic": {
+    "notification_center_app_bar_text": "Notifications Center",
+    "login_page_forgot_password_button": "Forgot Password",
+    "login_page_username_editText": "Username or Email",
+    "link_sticker_machines_list_extra_data_title_today_text": "Today (up to 30 min delay)",
+    "machines_list_extra_data_title_today_text": "Today (up to 30 min delay)",
+    "machines_display_by_today_sales_checkbox": "Today (up to 30 min delay)",
+    "general_texts_dashboard_table_period_today_text": "Today"
+  }
+}

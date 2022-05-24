@@ -1,0 +1,1 @@
+{"p":["sqlparser","lib/src/reader/syntactic_entity.dart"],"s":[["sqlparser","lib/src/reader/syntactic_entity.dart"],["sqlparser","lib/src/reader/tokenizer/utils.dart"],["sqlparser","lib/src/utils/meta.dart"]],"d":[["charcode","lib/ascii.dart"],["source_span","lib/source_span.dart"]],"m":false,"is":true,"pf":"ddc"}

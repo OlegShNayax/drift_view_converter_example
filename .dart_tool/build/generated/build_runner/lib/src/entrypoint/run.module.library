@@ -1,0 +1,1 @@
+{"isEntrypoint":false,"deps":["args|lib/command_runner.dart","build_runner_core|lib/build_runner_core.dart","io|lib/ansi.dart","io|lib/io.dart","build_runner|lib/src/build_script_generate/build_script_generate.dart","build_runner|lib/src/entrypoint/clean.dart","build_runner|lib/src/entrypoint/runner.dart"],"parts":[],"conditionalDeps":[],"sdkDeps":["async","io"],"hasMain":false}

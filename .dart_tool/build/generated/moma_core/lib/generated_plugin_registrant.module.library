@@ -1,0 +1,1 @@
+{"isEntrypoint":true,"deps":["flutter_secure_storage_web|lib/flutter_secure_storage_web.dart","package_info_plus_web|lib/package_info_plus_web.dart","shared_preferences_web|lib/shared_preferences_web.dart","flutter_web_plugins|lib/flutter_web_plugins.dart"],"parts":[],"conditionalDeps":[],"sdkDeps":[],"hasMain":false}

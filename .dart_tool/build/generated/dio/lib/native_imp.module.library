@@ -1,0 +1,1 @@
+{"isEntrypoint":true,"deps":["dio|lib/src/entry/dio_for_native.dart"],"parts":[],"conditionalDeps":[],"sdkDeps":[],"hasMain":false}

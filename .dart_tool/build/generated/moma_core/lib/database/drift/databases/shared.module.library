@@ -1,0 +1,1 @@
+{"isEntrypoint":true,"deps":[],"parts":[],"conditionalDeps":[{"$default":"moma_core|lib/database/drift/databases/unsupported.dart","dart.library.html":"moma_core|lib/database/drift/databases/web.dart","dart.library.io":"moma_core|lib/database/drift/databases/mobile.dart"}],"sdkDeps":[],"hasMain":false}

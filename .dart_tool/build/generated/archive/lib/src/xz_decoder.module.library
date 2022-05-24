@@ -1,0 +1,1 @@
+{"isEntrypoint":false,"deps":["crypto|lib/crypto.dart","archive|lib/src/util/archive_exception.dart","archive|lib/src/util/crc32.dart","archive|lib/src/util/crc64.dart","archive|lib/src/util/input_stream.dart","archive|lib/src/lzma/lzma_decoder.dart"],"parts":[],"conditionalDeps":[],"sdkDeps":["typed_data"],"hasMain":false}

@@ -1,0 +1,1 @@
+{"isEntrypoint":false,"deps":["ffi|lib/ffi.dart","package_info_plus_platform_interface|lib/package_info_data.dart","package_info_plus_platform_interface|lib/package_info_platform_interface.dart","win32|lib/win32.dart"],"parts":["package_info_plus_windows|lib/src/file_version_info.dart"],"conditionalDeps":[],"sdkDeps":["io","ffi"],"hasMain":false}

@@ -1,0 +1,1 @@
+{"isEntrypoint":true,"deps":["flutter|lib/foundation.dart","flutter|lib/services.dart","plugin_platform_interface|lib/plugin_platform_interface.dart"],"parts":["flutter_secure_storage_platform_interface|lib/src/method_channel_flutter_secure_storage.dart","flutter_secure_storage_platform_interface|lib/src/options.dart"],"conditionalDeps":[],"sdkDeps":[],"hasMain":false}

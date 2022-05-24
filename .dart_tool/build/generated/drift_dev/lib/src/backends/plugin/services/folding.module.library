@@ -1,0 +1,1 @@
+{"isEntrypoint":false,"deps":["analyzer_plugin|lib/protocol/protocol_common.dart","analyzer_plugin|lib/utilities/folding/folding.dart","drift_dev|lib/src/backends/plugin/services/requests.dart","sqlparser|lib/sqlparser.dart"],"parts":[],"conditionalDeps":[],"sdkDeps":[],"hasMain":false}

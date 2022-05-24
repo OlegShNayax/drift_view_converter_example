@@ -1,0 +1,1 @@
+{"isEntrypoint":true,"deps":["source_helper|lib/src/case_helpers.dart","source_helper|lib/src/dart_type_extension.dart","source_helper|lib/src/escape_dart_string.dart"],"parts":[],"conditionalDeps":[],"sdkDeps":[],"hasMain":false}

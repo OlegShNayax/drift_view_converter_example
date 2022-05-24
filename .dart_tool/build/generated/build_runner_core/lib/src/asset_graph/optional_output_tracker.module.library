@@ -1,0 +1,1 @@
+{"isEntrypoint":false,"deps":["build|lib/build.dart","build_runner_core|lib/build_runner_core.dart","build_runner_core|lib/src/generate/phase.dart","build_runner_core|lib/src/util/build_dirs.dart","build_runner_core|lib/src/asset_graph/graph.dart","build_runner_core|lib/src/asset_graph/node.dart"],"parts":[],"conditionalDeps":[],"sdkDeps":[],"hasMain":false}

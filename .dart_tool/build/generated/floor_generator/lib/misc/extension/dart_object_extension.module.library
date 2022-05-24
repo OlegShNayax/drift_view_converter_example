@@ -1,0 +1,1 @@
+{"isEntrypoint":true,"deps":["analyzer|lib/dart/constant/value.dart","analyzer|lib/dart/element/type.dart","collection|lib/collection.dart","floor_annotation|lib/floor_annotation.dart"],"parts":[],"conditionalDeps":[],"sdkDeps":[],"hasMain":false}

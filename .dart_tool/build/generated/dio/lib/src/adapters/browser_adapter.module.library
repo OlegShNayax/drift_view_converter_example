@@ -1,0 +1,1 @@
+{"isEntrypoint":false,"deps":["dio|lib/src/adapter.dart","dio|lib/src/dio_error.dart","dio|lib/src/headers.dart","dio|lib/src/options.dart"],"parts":[],"conditionalDeps":[],"sdkDeps":["async","convert","html","typed_data"],"hasMain":false}

@@ -1,0 +1,27 @@
+[
+  {
+    "instituteActorId": 2000000510,
+    "operatorActorId": 200003026,
+    "operatorInstituteCode": 105
+  },
+  {
+    "instituteActorId": 2000000511,
+    "operatorActorId": 200003026,
+    "operatorInstituteCode": 106
+  },
+  {
+    "instituteActorId": 2000000512,
+    "operatorActorId": 200003026,
+    "operatorInstituteCode": 107
+  },
+  {
+    "instituteActorId": 2000000513,
+    "operatorActorId": 2000022983,
+    "operatorInstituteCode": 108
+  },
+  {
+    "instituteActorId": 2000000515,
+    "operatorActorId": 200003031,
+    "operatorInstituteCode": 109
+  }
+]

@@ -1,0 +1,165 @@
+[
+  {
+    "deviceId": 164271033,
+    "actorId": 2000022982,
+    "machineId": 86451125,
+    "deviceTypeLutId": 100859061,
+    "hwSerial": "0901014020004269",
+    "isPair": true,
+    "statusId": 1
+  },
+  {
+    "deviceId": 960498243,
+    "actorId": 2000022982,
+    "machineId": 557013569,
+    "deviceTypeLutId": 139,
+    "hwSerial": "0434000320392109",
+    "isPair": true,
+    "statusId": 1
+  },
+  {
+    "deviceId": 771597388,
+    "actorId": 2002199952,
+    "machineId": 363829825,
+    "deviceTypeLutId": 139,
+    "hwSerial": "0000000000500450",
+    "isPair": true,
+    "statusId": 1
+  },
+  {
+    "deviceId": 213389637,
+    "actorId": 2000022982,
+    "deviceTypeLutId": 15,
+    "hwSerial": "0000000000301128",
+    "isPair": false,
+    "statusId": 1
+  },
+  {
+    "deviceId": 309544516,
+    "actorId": 2000022982,
+    "deviceTypeLutId": 139,
+    "hwSerial": "2434002720440005",
+    "isPair": true,
+    "statusId": 1
+  },
+  {
+    "deviceId": 309544517,
+    "actorId": 2000022982,
+    "deviceTypeLutId": 139,
+    "hwSerial": "2434002720440006",
+    "isPair": true,
+    "statusId": 1
+  },
+  {
+    "deviceId": 309544518,
+    "actorId": 2000022982,
+    "deviceTypeLutId": 139,
+    "hwSerial": "2434002720440007",
+    "isPair": true,
+    "statusId": 1
+  },
+  {
+    "deviceId": 309544519,
+    "actorId": 2000022982,
+    "deviceTypeLutId": 139,
+    "hwSerial": "2434002720440008",
+    "isPair": true,
+    "statusId": 1
+  },
+  {
+    "deviceId": 309544520,
+    "actorId": 2000022982,
+    "deviceTypeLutId": 139,
+    "hwSerial": "2434002720440009",
+    "isPair": true,
+    "statusId": 1
+  },
+  {
+    "deviceId": 309544521,
+    "actorId": 2000022982,
+    "deviceTypeLutId": 139,
+    "hwSerial": "2434002720440010",
+    "isPair": true,
+    "statusId": 1
+  },
+  {
+    "deviceId": 309544522,
+    "actorId": 2000022982,
+    "deviceTypeLutId": 139,
+    "hwSerial": "2434002720440011",
+    "isPair": true,
+    "statusId": 1
+  },
+  {
+    "deviceId": 309544523,
+    "actorId": 2000022982,
+    "deviceTypeLutId": 139,
+    "hwSerial": "2434002720440012",
+    "isPair": true,
+    "statusId": 1
+  },
+  {
+    "deviceId": 309544524,
+    "actorId": 2000022982,
+    "deviceTypeLutId": 139,
+    "hwSerial": "2434002720440013",
+    "isPair": true,
+    "statusId": 1
+  },
+  {
+    "deviceId": 309544525,
+    "actorId": 2000022982,
+    "deviceTypeLutId": 139,
+    "hwSerial": "2434002720440014",
+    "isPair": true,
+    "statusId": 1
+  },
+  {
+    "deviceId": 309544526,
+    "actorId": 2000022982,
+    "deviceTypeLutId": 139,
+    "hwSerial": "2434002720440015",
+    "isPair": true,
+    "statusId": 1
+  },
+  {
+    "deviceId": 309544527,
+    "actorId": 2000022982,
+    "deviceTypeLutId": 139,
+    "hwSerial": "2434002720440016",
+    "isPair": true,
+    "statusId": 1
+  },
+  {
+    "deviceId": 309544528,
+    "actorId": 2000022982,
+    "deviceTypeLutId": 139,
+    "hwSerial": "2434002720440017",
+    "isPair": true,
+    "statusId": 1
+  },
+  {
+    "deviceId": 309544529,
+    "actorId": 2000022982,
+    "deviceTypeLutId": 139,
+    "hwSerial": "2434002720440018",
+    "isPair": true,
+    "statusId": 1
+  },
+  {
+    "deviceId": 309544530,
+    "actorId": 2000022982,
+    "deviceTypeLutId": 139,
+    "hwSerial": "2434002720440019",
+    "isPair": true,
+    "statusId": 1
+  },
+  {
+    "deviceId": 309544531,
+    "actorId": 2000022982,
+    "deviceTypeLutId": 139,
+    "hwSerial": "2434002720440020",
+    "isPair": true,
+    "statusId": 1
+  }
+]

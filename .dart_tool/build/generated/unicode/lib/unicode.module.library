@@ -1,0 +1,1 @@
+{"isEntrypoint":true,"deps":["lists|lib/lists.dart"],"parts":[],"conditionalDeps":[],"sdkDeps":["collection"],"hasMain":false}

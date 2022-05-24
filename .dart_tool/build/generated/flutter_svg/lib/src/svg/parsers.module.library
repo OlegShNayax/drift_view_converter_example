@@ -1,0 +1,1 @@
+{"isEntrypoint":false,"deps":["vector_math|lib/vector_math_64.dart","flutter_svg|lib/src/utilities/http.dart","flutter_svg|lib/src/utilities/numbers.dart","flutter_svg|lib/src/vector_drawable.dart"],"parts":[],"conditionalDeps":[],"sdkDeps":["convert","math","typed_data","ui"],"hasMain":false}

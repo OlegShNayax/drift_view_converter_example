@@ -1,0 +1,1 @@
+{"isEntrypoint":false,"deps":[],"parts":[],"conditionalDeps":[{"$default":"archive|lib/src/zlib/_inflate_buffer_stub.dart","dart.library.io":"archive|lib/src/zlib/_inflate_buffer_io.dart","dart.library.js":"archive|lib/src/zlib/_inflate_buffer_html.dart"}],"sdkDeps":[],"hasMain":false}

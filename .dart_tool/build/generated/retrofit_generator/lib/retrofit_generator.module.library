@@ -1,0 +1,1 @@
+{"isEntrypoint":true,"deps":["build|lib/build.dart","retrofit_generator|lib/src/generator.dart"],"parts":[],"conditionalDeps":[],"sdkDeps":[],"hasMain":false}

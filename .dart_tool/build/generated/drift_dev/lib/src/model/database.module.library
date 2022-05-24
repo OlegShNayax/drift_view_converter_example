@@ -1,0 +1,1 @@
+{"isEntrypoint":false,"deps":["analyzer|lib/dart/element/element.dart","analyzer|lib/dart/element/type.dart","drift_dev|lib/moor_generator.dart","drift_dev|lib/src/analyzer/runner/file_graph.dart"],"parts":[],"conditionalDeps":[],"sdkDeps":[],"hasMain":false}

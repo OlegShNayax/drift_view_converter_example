@@ -1,0 +1,1 @@
+{"isEntrypoint":false,"deps":["drift_dev|lib/src/model/used_type_converter.dart","sqlparser|lib/sqlparser.dart"],"parts":[],"conditionalDeps":[],"sdkDeps":[],"hasMain":false}

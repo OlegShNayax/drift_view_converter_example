@@ -1,0 +1,1 @@
+{"isEntrypoint":true,"deps":["flutter_svg|lib/src/picture_provider.dart","flutter_svg|lib/src/picture_stream.dart","flutter_svg|lib/src/svg/default_theme.dart","flutter_svg|lib/src/svg/theme.dart","flutter_svg|lib/src/vector_drawable.dart","flutter_svg|lib/svg.dart"],"parts":[],"conditionalDeps":[],"sdkDeps":[],"hasMain":false}

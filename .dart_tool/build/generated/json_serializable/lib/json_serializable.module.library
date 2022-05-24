@@ -1,0 +1,1 @@
+{"isEntrypoint":true,"deps":["json_serializable|lib/src/json_literal_generator.dart","json_serializable|lib/src/json_serializable_generator.dart"],"parts":[],"conditionalDeps":[],"sdkDeps":[],"hasMain":false}

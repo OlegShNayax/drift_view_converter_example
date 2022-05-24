@@ -1,0 +1,1 @@
+{"isEntrypoint":true,"deps":[],"parts":[],"conditionalDeps":[{"$default":"path_provider_windows|lib/src/folders_stub.dart","dart.library.ffi":"path_provider_windows|lib/src/folders.dart"},{"$default":"path_provider_windows|lib/src/path_provider_windows_stub.dart","dart.library.ffi":"path_provider_windows|lib/src/path_provider_windows_real.dart"}],"sdkDeps":[],"hasMain":false}

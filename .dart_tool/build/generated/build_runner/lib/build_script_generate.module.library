@@ -1,0 +1,1 @@
+{"isEntrypoint":true,"deps":["build_runner|lib/src/build_script_generate/bootstrap.dart","build_runner|lib/src/build_script_generate/build_script_generate.dart"],"parts":[],"conditionalDeps":[],"sdkDeps":[],"hasMain":false}

@@ -1,0 +1,1 @@
+{"isEntrypoint":true,"deps":["moma_core|lib/database/drift/drift_database.dart"],"parts":[],"conditionalDeps":[],"sdkDeps":[],"hasMain":false}

@@ -1,0 +1,1 @@
+{"isEntrypoint":true,"deps":["flutter_web_plugins|lib/src/navigation_common/url_strategy.dart"],"parts":[],"conditionalDeps":[{"$default":"flutter_web_plugins|lib/src/navigation_non_web/url_strategy.dart","dart.library.html":"flutter_web_plugins|lib/src/navigation/url_strategy.dart"}],"sdkDeps":[],"hasMain":false}

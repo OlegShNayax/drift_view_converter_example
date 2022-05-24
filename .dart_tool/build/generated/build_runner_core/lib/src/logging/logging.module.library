@@ -1,0 +1,1 @@
+{"isEntrypoint":false,"deps":["logging|lib/logging.dart","build_runner_core|lib/src/logging/human_readable_duration.dart"],"parts":[],"conditionalDeps":[],"sdkDeps":["async"],"hasMain":false}

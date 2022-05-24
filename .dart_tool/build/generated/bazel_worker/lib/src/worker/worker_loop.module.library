@@ -1,0 +1,1 @@
+{"isEntrypoint":false,"deps":["bazel_worker|lib/src/worker_protocol.pb.dart"],"parts":[],"conditionalDeps":[],"sdkDeps":[],"hasMain":false}

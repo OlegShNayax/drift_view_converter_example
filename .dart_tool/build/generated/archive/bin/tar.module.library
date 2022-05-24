@@ -1,0 +1,1 @@
+{"isEntrypoint":true,"deps":["archive|lib/src/tar/tar_command.dart"],"parts":[],"conditionalDeps":[],"sdkDeps":[],"hasMain":true}

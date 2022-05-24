@@ -1,0 +1,1 @@
+{"isEntrypoint":false,"deps":["build_runner_core|lib/build_runner_core.dart","watcher|lib/watcher.dart","build_runner|lib/src/watcher/asset_change.dart"],"parts":[],"conditionalDeps":[],"sdkDeps":["async"],"hasMain":false}

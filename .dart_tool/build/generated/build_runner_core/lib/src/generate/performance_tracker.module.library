@@ -1,0 +1,1 @@
+{"isEntrypoint":false,"deps":["build|lib/build.dart","json_annotation|lib/json_annotation.dart","meta|lib/meta.dart","timing|lib/timing.dart","build_runner_core|lib/src/generate/phase.dart"],"parts":["build_runner_core|lib/src/generate/performance_tracker.g.dart"],"conditionalDeps":[],"sdkDeps":["async"],"hasMain":false}

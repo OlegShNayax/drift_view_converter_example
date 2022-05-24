@@ -1,0 +1,1 @@
+{"isEntrypoint":false,"deps":["analyzer_plugin|lib/protocol/protocol_common.dart","analyzer_plugin|lib/protocol/protocol_generated.dart","drift_dev|lib/src/analyzer/errors.dart","drift_dev|lib/src/analyzer/runner/file_graph.dart","drift_dev|lib/src/backends/plugin/plugin.dart"],"parts":[],"conditionalDeps":[],"sdkDeps":[],"hasMain":false}

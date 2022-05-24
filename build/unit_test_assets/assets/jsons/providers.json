@@ -1,0 +1,4662 @@
+[
+  {
+    "providerId": 1,
+    "providerTypeLutId": 7,
+    "providerCode": "",
+    "providerName": "DIXI Narco",
+    "providerAddress": "",
+    "providerContact": "",
+    "statusId": 1,
+    "updatedDt": "2011-04-04T07:10:18.383"
+  },
+  {
+    "providerId": 2,
+    "providerTypeLutId": 8,
+    "providerCode": "",
+    "providerName": "Partner",
+    "providerAddress": "",
+    "providerContact": "",
+    "statusId": 1,
+    "updatedDt": "2016-04-12T09:15:54.45",
+    "hasSpecificBin": false
+  },
+  {
+    "providerId": 10,
+    "providerTypeLutId": 7,
+    "providerCode": "",
+    "providerName": "Ventronic",
+    "providerAddress": "",
+    "providerContact": "",
+    "statusId": 2,
+    "updatedDt": "2010-11-15T15:17:32.78"
+  },
+  {
+    "providerId": 14,
+    "providerTypeLutId": 7,
+    "providerCode": "",
+    "providerName": "Royal Vendor",
+    "providerAddress": "",
+    "providerContact": "",
+    "statusId": 1,
+    "updatedDt": "2010-11-23T15:30:56.023"
+  },
+  {
+    "providerId": 16,
+    "providerTypeLutId": 7,
+    "providerCode": "",
+    "providerName": "Jofemar",
+    "providerAddress": "",
+    "providerContact": "משה להב",
+    "statusId": 2,
+    "updatedDt": "2010-11-15T15:18:14.13"
+  },
+  {
+    "providerId": 18,
+    "providerTypeLutId": 7,
+    "providerCode": "",
+    "providerName": "Sielaf",
+    "providerAddress": "",
+    "providerContact": "",
+    "statusId": 2,
+    "updatedDt": "2010-11-15T15:18:23.923"
+  },
+  {
+    "providerId": 24,
+    "providerTypeLutId": 7,
+    "providerCode": "AUT",
+    "providerName": "AMS",
+    "providerAddress": "כפר אזר MR.VEND.",
+    "providerContact": "דני 058393139 ",
+    "statusId": 1,
+    "updatedDt": "2015-03-31T11:59:07.177",
+    "hasSpecificBin": false
+  },
+  {
+    "providerId": 40,
+    "providerTypeLutId": 7,
+    "providerCode": "",
+    "providerName": "WITTENBORG",
+    "providerAddress": "",
+    "providerContact": "",
+    "statusId": 1,
+    "updatedDt": "2015-02-11T18:03:12.3",
+    "hasSpecificBin": false
+  },
+  {
+    "providerId": 41,
+    "providerTypeLutId": 39,
+    "providerCode": "500001",
+    "providerName": "500001",
+    "providerAddress": "",
+    "providerContact": "",
+    "statusId": 2,
+    "updatedDt": "2015-05-12T14:56:58.677",
+    "hasSpecificBin": false
+  },
+  {
+    "providerId": 43,
+    "providerTypeLutId": 7,
+    "providerCode": "",
+    "providerName": "PC Machine",
+    "providerAddress": "",
+    "providerContact": "",
+    "statusId": 1,
+    "updatedDt": "2017-03-06T07:43:30.693",
+    "hasSpecificBin": false
+  },
+  {
+    "providerId": 50,
+    "providerTypeLutId": 7,
+    "providerCode": "",
+    "providerName": "Schaerer",
+    "providerAddress": "Swiss Company",
+    "providerContact": "Jurg",
+    "statusId": 1,
+    "updatedDt": "2011-06-29T07:18:12.323"
+  },
+  {
+    "providerId": 51,
+    "providerTypeLutId": 7,
+    "providerCode": "",
+    "providerName": "Star Food",
+    "providerAddress": "",
+    "providerContact": "",
+    "statusId": 1,
+    "updatedDt": "2015-02-11T18:02:54.593",
+    "hasSpecificBin": false
+  },
+  {
+    "providerId": 58,
+    "providerTypeLutId": 7,
+    "providerCode": "123",
+    "providerName": "Gibson",
+    "providerAddress": "Germany",
+    "providerContact": "Norbert Lohre",
+    "statusId": 1,
+    "updatedDt": "2010-11-15T14:48:59.243"
+  },
+  {
+    "providerId": 63,
+    "providerTypeLutId": 123,
+    "providerCode": "",
+    "providerName": "Visa IL",
+    "providerAddress": "",
+    "providerContact": "",
+    "statusId": 1,
+    "updatedDt": "2018-08-07T14:37:14.23",
+    "brandId": 6,
+    "hasSpecificBin": true
+  },
+  {
+    "providerId": 64,
+    "providerTypeLutId": 123,
+    "providerCode": "99",
+    "providerName": "Mastercard IL",
+    "providerAddress": "test",
+    "providerContact": "test",
+    "statusId": 1,
+    "updatedDt": "2021-04-14T07:45:30.553",
+    "brandId": 8,
+    "hasSpecificBin": true
+  },
+  {
+    "providerId": 72,
+    "providerTypeLutId": 125,
+    "providerCode": "",
+    "providerName": "Infobip",
+    "providerAddress": "",
+    "providerContact": "",
+    "statusId": 1,
+    "updatedDt": "2011-06-27T12:27:49.35"
+  },
+  {
+    "providerId": 128,
+    "providerTypeLutId": 39,
+    "providerCode": "123",
+    "providerName": "Hurtownia ABC",
+    "providerAddress": "",
+    "providerContact": "",
+    "statusId": 1,
+    "updatedDt": "2011-07-27T17:44:21.213"
+  },
+  {
+    "providerId": 136,
+    "providerTypeLutId": 8,
+    "providerCode": "",
+    "providerName": "T-mobile Polska",
+    "providerAddress": "",
+    "providerContact": "",
+    "statusId": 1,
+    "updatedDt": "2011-06-29T15:29:13.847"
+  },
+  {
+    "providerId": 137,
+    "providerTypeLutId": 8,
+    "providerCode": "",
+    "providerName": "Play Polska",
+    "providerAddress": "",
+    "providerContact": "",
+    "statusId": 1,
+    "updatedDt": "2011-02-10T08:45:41.77"
+  },
+  {
+    "providerId": 148,
+    "providerTypeLutId": 8,
+    "providerCode": "",
+    "providerName": "Plus Polska",
+    "providerAddress": "",
+    "providerContact": "",
+    "statusId": 1,
+    "updatedDt": "2011-02-10T08:45:51.53"
+  },
+  {
+    "providerId": 150,
+    "providerTypeLutId": 123,
+    "providerCode": "",
+    "providerName": "Postepay Visa Elec. - Standard",
+    "providerAddress": "",
+    "providerContact": "",
+    "statusId": 1,
+    "updatedDt": "2012-06-27T13:02:01.73",
+    "brandId": 6,
+    "hasSpecificBin": true
+  },
+  {
+    "providerId": 152,
+    "providerTypeLutId": 8,
+    "providerCode": "",
+    "providerName": "Orange Polska",
+    "providerAddress": "",
+    "providerContact": "",
+    "statusId": 1,
+    "updatedDt": "2011-02-10T08:46:57.8"
+  },
+  {
+    "providerId": 158,
+    "providerTypeLutId": 7,
+    "providerCode": "619",
+    "providerName": "Leisure Coin Australia",
+    "providerAddress": "Queensland",
+    "providerContact": "",
+    "statusId": 1,
+    "updatedDt": "2010-10-25T02:38:57.31"
+  },
+  {
+    "providerId": 163,
+    "providerTypeLutId": 7,
+    "providerCode": "AUS",
+    "providerName": "Australia",
+    "providerAddress": "Broadoaks St ",
+    "providerContact": "Bernard",
+    "statusId": 1,
+    "updatedDt": "2010-10-26T04:25:49.833"
+  },
+  {
+    "providerId": 164,
+    "providerTypeLutId": 7,
+    "providerCode": "USI",
+    "providerName": "U-Select-It",
+    "providerAddress": "",
+    "providerContact": "",
+    "statusId": 1,
+    "updatedDt": "2010-11-01T23:18:38.993"
+  },
+  {
+    "providerId": 165,
+    "providerTypeLutId": 39,
+    "providerCode": "",
+    "providerName": "Olaberria Gestion",
+    "providerAddress": "",
+    "providerContact": "",
+    "statusId": 1,
+    "updatedDt": "2010-11-02T10:14:28.047"
+  },
+  {
+    "providerId": 166,
+    "providerTypeLutId": 39,
+    "providerCode": "",
+    "providerName": "Ciranda Cultural",
+    "providerAddress": "Rua",
+    "providerContact": "Jonatha / Donaldo",
+    "statusId": 1,
+    "updatedDt": "2010-11-15T14:46:12.017"
+  },
+  {
+    "providerId": 167,
+    "providerTypeLutId": 39,
+    "providerCode": "Esc",
+    "providerName": "Escala",
+    "providerAddress": "Cajamar",
+    "providerContact": "Diego",
+    "statusId": 1,
+    "updatedDt": "2010-11-15T14:49:42.61"
+  },
+  {
+    "providerId": 168,
+    "providerTypeLutId": 39,
+    "providerCode": "",
+    "providerName": "BIC",
+    "providerAddress": "Cajamar",
+    "providerContact": "Leandro",
+    "statusId": 1,
+    "updatedDt": "2010-11-15T15:14:25.62"
+  },
+  {
+    "providerId": 169,
+    "providerTypeLutId": 7,
+    "providerCode": "",
+    "providerName": "Wurlitzer",
+    "providerAddress": "",
+    "providerContact": "Norbert",
+    "statusId": 1,
+    "updatedDt": "2010-11-15T15:15:42.62"
+  },
+  {
+    "providerId": 170,
+    "providerTypeLutId": 7,
+    "providerCode": "",
+    "providerName": "NRI",
+    "providerAddress": "Alemanha",
+    "providerContact": "",
+    "statusId": 1,
+    "updatedDt": "2010-11-15T15:19:17.163"
+  },
+  {
+    "providerId": 172,
+    "providerTypeLutId": 123,
+    "providerCode": "213",
+    "providerName": "teva",
+    "providerAddress": "",
+    "providerContact": "",
+    "statusId": 1,
+    "updatedDt": "2010-11-18T15:05:17.143"
+  },
+  {
+    "providerId": 173,
+    "providerTypeLutId": 8,
+    "providerCode": "",
+    "providerName": "Claro BR",
+    "providerAddress": "",
+    "providerContact": "",
+    "statusId": 1,
+    "updatedDt": "2010-11-28T16:27:22.19"
+  },
+  {
+    "providerId": 174,
+    "providerTypeLutId": 8,
+    "providerCode": "",
+    "providerName": "Oi",
+    "providerAddress": "",
+    "providerContact": "",
+    "statusId": 1,
+    "updatedDt": "2010-11-28T16:27:41.46"
+  },
+  {
+    "providerId": 175,
+    "providerTypeLutId": 8,
+    "providerCode": "",
+    "providerName": "Vivo",
+    "providerAddress": "",
+    "providerContact": "",
+    "statusId": 1,
+    "updatedDt": "2010-11-28T16:27:57.023"
+  },
+  {
+    "providerId": 176,
+    "providerTypeLutId": 8,
+    "providerCode": "",
+    "providerName": "TIM",
+    "providerAddress": "",
+    "providerContact": "",
+    "statusId": 1,
+    "updatedDt": "2010-11-28T16:28:12.773"
+  },
+  {
+    "providerId": 177,
+    "providerTypeLutId": 39,
+    "providerCode": "1",
+    "providerName": "BAQUE",
+    "providerAddress": "",
+    "providerContact": "",
+    "statusId": 1,
+    "updatedDt": "2010-12-01T15:11:57.82"
+  },
+  {
+    "providerId": 178,
+    "providerTypeLutId": 39,
+    "providerCode": "Icone",
+    "providerName": "Icone Editora",
+    "providerAddress": "",
+    "providerContact": "",
+    "statusId": 1,
+    "updatedDt": "2010-12-08T12:18:28.373"
+  },
+  {
+    "providerId": 179,
+    "providerTypeLutId": 39,
+    "providerCode": "Digerati",
+    "providerName": "Digerati",
+    "providerAddress": "",
+    "providerContact": "",
+    "statusId": 1,
+    "updatedDt": "2010-12-08T12:19:45.233"
+  },
+  {
+    "providerId": 180,
+    "providerTypeLutId": 39,
+    "providerCode": "Melhoramentos",
+    "providerName": "Melhoramentos",
+    "providerAddress": "",
+    "providerContact": "",
+    "statusId": 1,
+    "updatedDt": "2010-12-08T12:20:45.053"
+  },
+  {
+    "providerId": 181,
+    "providerTypeLutId": 39,
+    "providerCode": "24X7",
+    "providerName": "24X7 Cultural",
+    "providerAddress": "",
+    "providerContact": "",
+    "statusId": 1,
+    "updatedDt": "2010-12-08T12:21:25.76"
+  },
+  {
+    "providerId": 182,
+    "providerTypeLutId": 8,
+    "providerCode": "",
+    "providerName": "T-Mobile",
+    "providerAddress": "",
+    "providerContact": "",
+    "statusId": 1,
+    "updatedDt": "2010-12-13T10:43:02.203"
+  },
+  {
+    "providerId": 183,
+    "providerTypeLutId": 8,
+    "providerCode": "",
+    "providerName": "orange",
+    "providerAddress": "",
+    "providerContact": "",
+    "statusId": 1,
+    "updatedDt": "2010-12-14T10:00:57.257"
+  },
+  {
+    "providerId": 184,
+    "providerTypeLutId": 39,
+    "providerCode": "Elma",
+    "providerName": "Elma Chips",
+    "providerAddress": "Rua Elma Chips",
+    "providerContact": "",
+    "statusId": 1,
+    "updatedDt": "2010-12-22T10:22:59.923"
+  },
+  {
+    "providerId": 185,
+    "providerTypeLutId": 39,
+    "providerCode": "Lucky 01",
+    "providerName": "Lucky",
+    "providerAddress": "Rua Lucky",
+    "providerContact": "",
+    "statusId": 1,
+    "updatedDt": "2010-12-22T10:23:54.56"
+  },
+  {
+    "providerId": 186,
+    "providerTypeLutId": 39,
+    "providerCode": "Clico 01",
+    "providerName": "Glico",
+    "providerAddress": "Rua Glico",
+    "providerContact": "",
+    "statusId": 1,
+    "updatedDt": "2010-12-22T10:24:33.777"
+  },
+  {
+    "providerId": 187,
+    "providerTypeLutId": 39,
+    "providerCode": "Kiutti 1",
+    "providerName": "Kiutti",
+    "providerAddress": "Rua Kiutti",
+    "providerContact": "",
+    "statusId": 1,
+    "updatedDt": "2010-12-22T10:25:38.85"
+  },
+  {
+    "providerId": 188,
+    "providerTypeLutId": 39,
+    "providerCode": "Amembra 01",
+    "providerName": "Amembra",
+    "providerAddress": "Rua Amembra",
+    "providerContact": "",
+    "statusId": 1,
+    "updatedDt": "2010-12-22T10:26:21.64"
+  },
+  {
+    "providerId": 189,
+    "providerTypeLutId": 39,
+    "providerCode": "Bauduco 01",
+    "providerName": "Bauduco",
+    "providerAddress": "Rua Bauduco",
+    "providerContact": "",
+    "statusId": 1,
+    "updatedDt": "2010-12-22T10:27:15.753"
+  },
+  {
+    "providerId": 190,
+    "providerTypeLutId": 39,
+    "providerCode": "Adams 01",
+    "providerName": "Adams",
+    "providerAddress": "Rua Adams",
+    "providerContact": "",
+    "statusId": 1,
+    "updatedDt": "2010-12-22T10:27:47.97"
+  },
+  {
+    "providerId": 191,
+    "providerTypeLutId": 39,
+    "providerCode": "Lacta 1",
+    "providerName": "Lacta",
+    "providerAddress": "Rua Lacta",
+    "providerContact": "",
+    "statusId": 1,
+    "updatedDt": "2010-12-22T11:16:24.59"
+  },
+  {
+    "providerId": 192,
+    "providerTypeLutId": 39,
+    "providerCode": "Trio 1",
+    "providerName": "Trio",
+    "providerAddress": "Rua Trio",
+    "providerContact": "",
+    "statusId": 1,
+    "updatedDt": "2010-12-22T11:17:03.783"
+  },
+  {
+    "providerId": 193,
+    "providerTypeLutId": 39,
+    "providerCode": "Halls 1",
+    "providerName": "Halls",
+    "providerAddress": "Rua Halls",
+    "providerContact": "",
+    "statusId": 1,
+    "updatedDt": "2010-12-22T11:17:52.46"
+  },
+  {
+    "providerId": 194,
+    "providerTypeLutId": 39,
+    "providerCode": "Viva Brasil 1",
+    "providerName": "Viva Brasil",
+    "providerAddress": "Rua Viva Brasil",
+    "providerContact": "",
+    "statusId": 1,
+    "updatedDt": "2010-12-22T11:18:37.31"
+  },
+  {
+    "providerId": 195,
+    "providerTypeLutId": 39,
+    "providerCode": "Kerto Coco",
+    "providerName": "Kero Coco",
+    "providerAddress": "",
+    "providerContact": "",
+    "statusId": 1,
+    "updatedDt": "2010-12-22T11:19:23.79"
+  },
+  {
+    "providerId": 196,
+    "providerTypeLutId": 39,
+    "providerCode": "Pepsico 1",
+    "providerName": "Pepsico",
+    "providerAddress": "",
+    "providerContact": "",
+    "statusId": 1,
+    "updatedDt": "2010-12-22T11:19:54.53"
+  },
+  {
+    "providerId": 197,
+    "providerTypeLutId": 39,
+    "providerCode": "Del Valle 1",
+    "providerName": "Dell Valle",
+    "providerAddress": "",
+    "providerContact": "",
+    "statusId": 1,
+    "updatedDt": "2010-12-22T11:20:22"
+  },
+  {
+    "providerId": 198,
+    "providerTypeLutId": 39,
+    "providerCode": "Spal",
+    "providerName": "Spal",
+    "providerAddress": "",
+    "providerContact": "",
+    "statusId": 1,
+    "updatedDt": "2011-01-06T18:00:34.417"
+  },
+  {
+    "providerId": 199,
+    "providerTypeLutId": 7,
+    "providerCode": "",
+    "providerName": "Excel",
+    "providerAddress": "",
+    "providerContact": "",
+    "statusId": 1,
+    "updatedDt": "2014-04-03T19:51:08.973",
+    "hasSpecificBin": false
+  },
+  {
+    "providerId": 200,
+    "providerTypeLutId": 8,
+    "providerCode": "",
+    "providerName": "Siminn Iceland",
+    "providerAddress": "",
+    "providerContact": "",
+    "statusId": 1,
+    "updatedDt": "2011-01-06T09:53:42.21"
+  },
+  {
+    "providerId": 201,
+    "providerTypeLutId": 39,
+    "providerCode": "",
+    "providerName": "Marsil",
+    "providerAddress": "",
+    "providerContact": "",
+    "statusId": 1,
+    "updatedDt": "2011-01-06T17:52:30.833"
+  },
+  {
+    "providerId": 202,
+    "providerTypeLutId": 39,
+    "providerCode": "PNDR",
+    "providerName": "Pandurata",
+    "providerAddress": "",
+    "providerContact": "",
+    "statusId": 1,
+    "updatedDt": "2011-01-06T17:58:44.93"
+  },
+  {
+    "providerId": 203,
+    "providerTypeLutId": 39,
+    "providerCode": "Mega ",
+    "providerName": "Mega Sabor",
+    "providerAddress": "",
+    "providerContact": "",
+    "statusId": 1,
+    "updatedDt": "2011-01-06T17:59:31.08"
+  },
+  {
+    "providerId": 204,
+    "providerTypeLutId": 39,
+    "providerCode": "Ambev",
+    "providerName": "Ambev",
+    "providerAddress": "",
+    "providerContact": "",
+    "statusId": 1,
+    "updatedDt": "2011-01-06T18:04:21.64"
+  },
+  {
+    "providerId": 205,
+    "providerTypeLutId": 7,
+    "providerCode": "",
+    "providerName": "TM – Technischer",
+    "providerAddress": "",
+    "providerContact": "",
+    "statusId": 1,
+    "updatedDt": "2011-01-18T07:53:35.437"
+  },
+  {
+    "providerId": 206,
+    "providerTypeLutId": 39,
+    "providerCode": "2",
+    "providerName": "Cobega",
+    "providerAddress": "",
+    "providerContact": "",
+    "statusId": 1,
+    "updatedDt": "2011-01-25T11:05:07.187"
+  },
+  {
+    "providerId": 207,
+    "providerTypeLutId": 8,
+    "providerCode": "",
+    "providerName": "T-mobile Germany",
+    "providerAddress": "",
+    "providerContact": "",
+    "statusId": 1,
+    "updatedDt": "2011-06-29T15:29:36.62"
+  },
+  {
+    "providerId": 209,
+    "providerTypeLutId": 39,
+    "providerCode": "",
+    "providerName": "Exped",
+    "providerAddress": "",
+    "providerContact": "",
+    "statusId": 1,
+    "updatedDt": "2011-02-24T01:09:14.287"
+  },
+  {
+    "providerId": 210,
+    "providerTypeLutId": 39,
+    "providerCode": "",
+    "providerName": "Minuano",
+    "providerAddress": "",
+    "providerContact": "",
+    "statusId": 1,
+    "updatedDt": "2011-02-24T07:44:43.147"
+  },
+  {
+    "providerId": 211,
+    "providerTypeLutId": 39,
+    "providerCode": "",
+    "providerName": "Saraiva",
+    "providerAddress": "",
+    "providerContact": "",
+    "statusId": 1,
+    "updatedDt": "2011-02-24T07:54:56.02"
+  },
+  {
+    "providerId": 213,
+    "providerTypeLutId": 39,
+    "providerCode": "",
+    "providerName": "Indeterminado",
+    "providerAddress": "",
+    "providerContact": "",
+    "statusId": 1,
+    "updatedDt": "2011-02-28T17:37:20.157"
+  },
+  {
+    "providerId": 214,
+    "providerTypeLutId": 39,
+    "providerCode": "",
+    "providerName": "Letras Jur?dicas",
+    "providerAddress": "",
+    "providerContact": "",
+    "statusId": 1,
+    "updatedDt": "2011-02-28T17:40:50.47"
+  },
+  {
+    "providerId": 215,
+    "providerTypeLutId": 39,
+    "providerCode": "",
+    "providerName": "Maria Clara L Machado",
+    "providerAddress": "",
+    "providerContact": "Maria Clara",
+    "statusId": 1,
+    "updatedDt": "2011-02-28T17:53:38.793"
+  },
+  {
+    "providerId": 216,
+    "providerTypeLutId": 39,
+    "providerCode": "",
+    "providerName": "Publifolha",
+    "providerAddress": "",
+    "providerContact": "",
+    "statusId": 1,
+    "updatedDt": "2011-03-02T01:10:32.427"
+  },
+  {
+    "providerId": 217,
+    "providerTypeLutId": 39,
+    "providerCode": "",
+    "providerName": "Planeta",
+    "providerAddress": "",
+    "providerContact": "",
+    "statusId": 1,
+    "updatedDt": "2011-03-03T11:55:14.87"
+  },
+  {
+    "providerId": 218,
+    "providerTypeLutId": 39,
+    "providerCode": "",
+    "providerName": "Arte Moderna",
+    "providerAddress": "",
+    "providerContact": "",
+    "statusId": 1,
+    "updatedDt": "2011-03-10T21:37:04.15"
+  },
+  {
+    "providerId": 219,
+    "providerTypeLutId": 39,
+    "providerCode": "",
+    "providerName": "Reflexao",
+    "providerAddress": "",
+    "providerContact": "",
+    "statusId": 1,
+    "updatedDt": "2013-03-16T13:11:24.083",
+    "hasSpecificBin": false
+  },
+  {
+    "providerId": 220,
+    "providerTypeLutId": 39,
+    "providerCode": "",
+    "providerName": "Seame ",
+    "providerAddress": "",
+    "providerContact": "",
+    "statusId": 1,
+    "updatedDt": "2011-03-15T12:50:27.45"
+  },
+  {
+    "providerId": 221,
+    "providerTypeLutId": 7,
+    "providerCode": "",
+    "providerName": "Sitos Srl.",
+    "providerAddress": "",
+    "providerContact": "",
+    "statusId": 1,
+    "updatedDt": "2011-03-16T09:33:34.05"
+  },
+  {
+    "providerId": 222,
+    "providerTypeLutId": 7,
+    "providerCode": "",
+    "providerName": "Sitos",
+    "providerAddress": "",
+    "providerContact": "",
+    "statusId": 1,
+    "updatedDt": "2011-03-21T14:03:22.947"
+  },
+  {
+    "providerId": 223,
+    "providerTypeLutId": 7,
+    "providerCode": "",
+    "providerName": "Zummo",
+    "providerAddress": "",
+    "providerContact": "",
+    "statusId": 1,
+    "updatedDt": "2011-03-27T16:27:12.387"
+  },
+  {
+    "providerId": 224,
+    "providerTypeLutId": 39,
+    "providerCode": "PFR",
+    "providerName": "Prefeitura do Rio",
+    "providerAddress": "Rio de Janeiro - RJ",
+    "providerContact": "Almir Dias",
+    "statusId": 1,
+    "updatedDt": "2011-03-31T23:52:17.267"
+  },
+  {
+    "providerId": 225,
+    "providerTypeLutId": 39,
+    "providerCode": "NF",
+    "providerName": "Nova Fronteira",
+    "providerAddress": "Rio",
+    "providerContact": "",
+    "statusId": 1,
+    "updatedDt": "2011-04-02T19:37:18.003"
+  },
+  {
+    "providerId": 226,
+    "providerTypeLutId": 39,
+    "providerCode": "DP",
+    "providerName": "Didatica Paulista",
+    "providerAddress": "Sao Paulo",
+    "providerContact": "Alvaro",
+    "statusId": 1,
+    "updatedDt": "2011-10-01T10:20:59.263"
+  },
+  {
+    "providerId": 227,
+    "providerTypeLutId": 39,
+    "providerCode": "",
+    "providerName": "Verus",
+    "providerAddress": "Campinas",
+    "providerContact": "",
+    "statusId": 1,
+    "updatedDt": "2011-04-02T19:39:31.837"
+  },
+  {
+    "providerId": 228,
+    "providerTypeLutId": 7,
+    "providerCode": "",
+    "providerName": "Gerhardt",
+    "providerAddress": "",
+    "providerContact": "",
+    "statusId": 1,
+    "updatedDt": "2011-04-06T12:20:00.183"
+  },
+  {
+    "providerId": 229,
+    "providerTypeLutId": 7,
+    "providerCode": "",
+    "providerName": "Saeco",
+    "providerAddress": "",
+    "providerContact": "",
+    "statusId": 1,
+    "updatedDt": "2011-04-19T08:38:51.47"
+  },
+  {
+    "providerId": 230,
+    "providerTypeLutId": 8,
+    "providerCode": "",
+    "providerName": "Telcel",
+    "providerAddress": "",
+    "providerContact": "",
+    "statusId": 1,
+    "updatedDt": "2011-05-04T16:54:49.79"
+  },
+  {
+    "providerId": 231,
+    "providerTypeLutId": 7,
+    "providerCode": "",
+    "providerName": "Fuji富士",
+    "providerAddress": "",
+    "providerContact": "",
+    "statusId": 1,
+    "updatedDt": "2013-06-07T10:12:44.393",
+    "hasSpecificBin": false
+  },
+  {
+    "providerId": 232,
+    "providerTypeLutId": 8,
+    "providerCode": "",
+    "providerName": "Iusasel",
+    "providerAddress": "",
+    "providerContact": "",
+    "statusId": 1,
+    "updatedDt": "2011-05-09T14:58:20.09"
+  },
+  {
+    "providerId": 233,
+    "providerTypeLutId": 7,
+    "providerCode": "1345654",
+    "providerName": "Manea Vending",
+    "providerAddress": "Via Pasubio,121 36010 Zan? (VI) Italy",
+    "providerContact": "NON",
+    "statusId": 1,
+    "updatedDt": "2011-05-16T11:29:50.97"
+  },
+  {
+    "providerId": 234,
+    "providerTypeLutId": 39,
+    "providerCode": "",
+    "providerName": "Gadisven",
+    "providerAddress": "",
+    "providerContact": "",
+    "statusId": 1,
+    "updatedDt": "2011-05-31T14:46:50.113"
+  },
+  {
+    "providerId": 235,
+    "providerTypeLutId": 8,
+    "providerCode": "",
+    "providerName": "R",
+    "providerAddress": "Calle Real, 85 - A Coru?a, Galicia, Spain",
+    "providerContact": "",
+    "statusId": 1,
+    "updatedDt": "2011-06-08T14:48:04.85"
+  },
+  {
+    "providerId": 237,
+    "providerTypeLutId": 39,
+    "providerCode": "",
+    "providerName": "??",
+    "providerAddress": "",
+    "providerContact": "",
+    "statusId": 1,
+    "updatedDt": "2011-06-27T10:09:51.613"
+  },
+  {
+    "providerId": 238,
+    "providerTypeLutId": 39,
+    "providerCode": "",
+    "providerName": "百事可乐有限公司",
+    "providerAddress": "",
+    "providerContact": "",
+    "statusId": 1,
+    "updatedDt": "2011-07-01T05:21:30.757"
+  },
+  {
+    "providerId": 239,
+    "providerTypeLutId": 39,
+    "providerCode": "",
+    "providerName": "巴黎时韵",
+    "providerAddress": "",
+    "providerContact": "",
+    "statusId": 1,
+    "updatedDt": "2011-06-27T13:59:25.233"
+  },
+  {
+    "providerId": 240,
+    "providerTypeLutId": 7,
+    "providerCode": "565",
+    "providerName": "GPE vendors",
+    "providerAddress": "",
+    "providerContact": "",
+    "statusId": 1,
+    "updatedDt": "2011-07-07T22:09:26.01"
+  },
+  {
+    "providerId": 241,
+    "providerTypeLutId": 39,
+    "providerCode": "2",
+    "providerName": "可口可乐",
+    "providerAddress": "",
+    "providerContact": "",
+    "statusId": 1,
+    "updatedDt": "2011-07-12T08:38:47.773"
+  },
+  {
+    "providerId": 242,
+    "providerTypeLutId": 8,
+    "providerCode": "1",
+    "providerName": "China Mobile",
+    "providerAddress": "",
+    "providerContact": "",
+    "statusId": 1,
+    "updatedDt": "2011-07-14T14:55:53.647"
+  },
+  {
+    "providerId": 243,
+    "providerTypeLutId": 8,
+    "providerCode": "2",
+    "providerName": "China Unicom",
+    "providerAddress": "",
+    "providerContact": "Mr. Chen Gang",
+    "statusId": 1,
+    "updatedDt": "2011-07-15T03:26:28.597"
+  },
+  {
+    "providerId": 244,
+    "providerTypeLutId": 39,
+    "providerCode": "3",
+    "providerName": "康师傅",
+    "providerAddress": "",
+    "providerContact": "",
+    "statusId": 1,
+    "updatedDt": "2011-07-19T12:49:56.663"
+  },
+  {
+    "providerId": 245,
+    "providerTypeLutId": 39,
+    "providerCode": "4",
+    "providerName": "三得利",
+    "providerAddress": "",
+    "providerContact": "",
+    "statusId": 1,
+    "updatedDt": "2011-07-19T12:56:44.923"
+  },
+  {
+    "providerId": 246,
+    "providerTypeLutId": 39,
+    "providerCode": "5",
+    "providerName": "农夫山泉",
+    "providerAddress": "",
+    "providerContact": "",
+    "statusId": 1,
+    "updatedDt": "2011-07-19T13:35:39.287"
+  },
+  {
+    "providerId": 247,
+    "providerTypeLutId": 7,
+    "providerCode": "",
+    "providerName": "Kimma",
+    "providerAddress": "",
+    "providerContact": "Wen Shen or Jin Yu Xin",
+    "statusId": 1,
+    "updatedDt": "2011-07-21T04:00:14.55"
+  },
+  {
+    "providerId": 248,
+    "providerTypeLutId": 39,
+    "providerCode": "Vdin",
+    "providerName": "Vendin",
+    "providerAddress": "SP",
+    "providerContact": "",
+    "statusId": 1,
+    "updatedDt": "2011-07-27T17:09:50.867"
+  },
+  {
+    "providerId": 249,
+    "providerTypeLutId": 39,
+    "providerCode": "Inv",
+    "providerName": "Inverno d It",
+    "providerAddress": "SP",
+    "providerContact": "",
+    "statusId": 1,
+    "updatedDt": "2011-07-27T17:10:55.72"
+  },
+  {
+    "providerId": 250,
+    "providerTypeLutId": 39,
+    "providerCode": "Qmax",
+    "providerName": "Qualimax",
+    "providerAddress": "SP",
+    "providerContact": "",
+    "statusId": 1,
+    "updatedDt": "2011-07-27T17:11:43.363"
+  },
+  {
+    "providerId": 251,
+    "providerTypeLutId": 39,
+    "providerCode": "IC",
+    "providerName": "Italian Coffee",
+    "providerAddress": "SP",
+    "providerContact": "Wander",
+    "statusId": 1,
+    "updatedDt": "2011-07-27T17:18:15.033"
+  },
+  {
+    "providerId": 252,
+    "providerTypeLutId": 39,
+    "providerCode": "",
+    "providerName": "Coca Cola",
+    "providerAddress": "",
+    "providerContact": "",
+    "statusId": 1,
+    "updatedDt": "2011-07-28T15:27:36.11"
+  },
+  {
+    "providerId": 253,
+    "providerTypeLutId": 39,
+    "providerCode": "",
+    "providerName": "Nestle",
+    "providerAddress": "",
+    "providerContact": "",
+    "statusId": 2,
+    "updatedDt": "2015-05-12T14:56:46.703",
+    "hasSpecificBin": false
+  },
+  {
+    "providerId": 254,
+    "providerTypeLutId": 39,
+    "providerCode": "",
+    "providerName": "Isonic",
+    "providerAddress": "",
+    "providerContact": "Carlos / Felipe",
+    "statusId": 1,
+    "updatedDt": "2011-07-30T11:37:56.12"
+  },
+  {
+    "providerId": 255,
+    "providerTypeLutId": 7,
+    "providerCode": "",
+    "providerName": "SAECO",
+    "providerAddress": "",
+    "providerContact": "",
+    "statusId": 1,
+    "updatedDt": "2011-07-31T09:28:21.83"
+  },
+  {
+    "providerId": 256,
+    "providerTypeLutId": 8,
+    "providerCode": "",
+    "providerName": "Poste Italiane",
+    "providerAddress": "",
+    "providerContact": "",
+    "statusId": 1,
+    "updatedDt": "2011-08-03T12:20:26.037"
+  },
+  {
+    "providerId": 257,
+    "providerTypeLutId": 39,
+    "providerCode": "092",
+    "providerName": "Black",
+    "providerAddress": "ATL",
+    "providerContact": "JPL",
+    "statusId": 1,
+    "updatedDt": "2011-08-17T22:41:00.36"
+  },
+  {
+    "providerId": 258,
+    "providerTypeLutId": 7,
+    "providerCode": "",
+    "providerName": "NEXUS",
+    "providerAddress": "",
+    "providerContact": "",
+    "statusId": 1,
+    "updatedDt": "2011-08-23T14:27:02.893"
+  },
+  {
+    "providerId": 259,
+    "providerTypeLutId": 7,
+    "providerCode": "",
+    "providerName": "Oranfresh",
+    "providerAddress": "",
+    "providerContact": "",
+    "statusId": 1,
+    "updatedDt": "2011-08-23T14:27:26.617"
+  },
+  {
+    "providerId": 260,
+    "providerTypeLutId": 39,
+    "providerCode": "501",
+    "providerName": "REBIC",
+    "providerAddress": "Goiania",
+    "providerContact": "Francisco",
+    "statusId": 1,
+    "updatedDt": "2011-10-08T09:33:42.433"
+  },
+  {
+    "providerId": 261,
+    "providerTypeLutId": 39,
+    "providerCode": "101",
+    "providerName": "Diversos",
+    "providerAddress": "",
+    "providerContact": "",
+    "statusId": 1,
+    "updatedDt": "2011-09-25T22:52:18.783"
+  },
+  {
+    "providerId": 262,
+    "providerTypeLutId": 7,
+    "providerCode": "123",
+    "providerName": "Prius Srl",
+    "providerAddress": "",
+    "providerContact": "",
+    "statusId": 1,
+    "updatedDt": "2014-10-21T07:55:32.91",
+    "hasSpecificBin": false
+  },
+  {
+    "providerId": 263,
+    "providerTypeLutId": 7,
+    "providerCode": "151",
+    "providerName": "Bunn",
+    "providerAddress": "USA",
+    "providerContact": "Andre",
+    "statusId": 1,
+    "updatedDt": "2011-10-01T10:23:49.24"
+  },
+  {
+    "providerId": 264,
+    "providerTypeLutId": 7,
+    "providerCode": "151",
+    "providerName": "Bunn",
+    "providerAddress": "USA",
+    "providerContact": "Andre",
+    "statusId": 1,
+    "updatedDt": "2011-10-01T10:23:57.63"
+  },
+  {
+    "providerId": 265,
+    "providerTypeLutId": 39,
+    "providerCode": "222",
+    "providerName": "Globo",
+    "providerAddress": "SP",
+    "providerContact": "Luis ou ",
+    "statusId": 1,
+    "updatedDt": "2011-10-02T15:09:01.617"
+  },
+  {
+    "providerId": 266,
+    "providerTypeLutId": 7,
+    "providerCode": "",
+    "providerName": "Pulse Machines",
+    "providerAddress": "",
+    "providerContact": "",
+    "statusId": 1,
+    "updatedDt": "2011-10-06T20:41:41.11"
+  },
+  {
+    "providerId": 267,
+    "providerTypeLutId": 39,
+    "providerCode": "500",
+    "providerName": "Coca Cola",
+    "providerAddress": "",
+    "providerContact": "",
+    "statusId": 1,
+    "updatedDt": "2011-10-08T09:32:10.707"
+  },
+  {
+    "providerId": 268,
+    "providerTypeLutId": 39,
+    "providerCode": "888",
+    "providerName": "Larousse",
+    "providerAddress": "",
+    "providerContact": "",
+    "statusId": 1,
+    "updatedDt": "2011-10-29T20:27:09.76"
+  },
+  {
+    "providerId": 269,
+    "providerTypeLutId": 8,
+    "providerCode": "3",
+    "providerName": "CSL Mobile HK",
+    "providerAddress": "Unit 401-408, 4/F, Cyberport 3, 100 Cyberport Road, Hong Kong",
+    "providerContact": "Alan Wong <Alan.SL.Wong@hkcsl.com>",
+    "statusId": 1,
+    "updatedDt": "2011-11-02T06:50:12.943"
+  },
+  {
+    "providerId": 270,
+    "providerTypeLutId": 39,
+    "providerCode": "6",
+    "providerName": "波仔 Sun Generation ",
+    "providerAddress": "",
+    "providerContact": "Kenson Lo",
+    "statusId": 1,
+    "updatedDt": "2011-11-12T11:58:06.507"
+  },
+  {
+    "providerId": 272,
+    "providerTypeLutId": 39,
+    "providerCode": "",
+    "providerName": "Bimbo",
+    "providerAddress": "",
+    "providerContact": "",
+    "statusId": 1,
+    "updatedDt": "2011-11-22T07:31:29.243"
+  },
+  {
+    "providerId": 273,
+    "providerTypeLutId": 39,
+    "providerCode": "",
+    "providerName": "Mabel",
+    "providerAddress": "",
+    "providerContact": "",
+    "statusId": 1,
+    "updatedDt": "2011-11-22T07:31:58.55"
+  },
+  {
+    "providerId": 274,
+    "providerTypeLutId": 39,
+    "providerCode": "",
+    "providerName": "Milho de Ouro",
+    "providerAddress": "",
+    "providerContact": "",
+    "statusId": 1,
+    "updatedDt": "2011-11-22T07:32:34.617"
+  },
+  {
+    "providerId": 275,
+    "providerTypeLutId": 39,
+    "providerCode": "",
+    "providerName": "Nidup",
+    "providerAddress": "",
+    "providerContact": "",
+    "statusId": 1,
+    "updatedDt": "2011-11-22T07:33:00.017"
+  },
+  {
+    "providerId": 276,
+    "providerTypeLutId": 39,
+    "providerCode": "",
+    "providerName": "Perfetti",
+    "providerAddress": "",
+    "providerContact": "",
+    "statusId": 1,
+    "updatedDt": "2011-11-22T07:33:22.223"
+  },
+  {
+    "providerId": 277,
+    "providerTypeLutId": 39,
+    "providerCode": "",
+    "providerName": "Santa Helena",
+    "providerAddress": "",
+    "providerContact": "",
+    "statusId": 1,
+    "updatedDt": "2011-11-22T07:34:09.79"
+  },
+  {
+    "providerId": 278,
+    "providerTypeLutId": 39,
+    "providerCode": "",
+    "providerName": "Nestle",
+    "providerAddress": "",
+    "providerContact": "",
+    "statusId": 1,
+    "updatedDt": "2011-11-22T07:34:55.53"
+  },
+  {
+    "providerId": 279,
+    "providerTypeLutId": 39,
+    "providerCode": "",
+    "providerName": "Mix do Brasil",
+    "providerAddress": "",
+    "providerContact": "",
+    "statusId": 1,
+    "updatedDt": "2011-11-22T07:35:50.18"
+  },
+  {
+    "providerId": 280,
+    "providerTypeLutId": 8,
+    "providerCode": "4",
+    "providerName": "Peoples HK",
+    "providerAddress": "www.peoples.com.hk/",
+    "providerContact": "",
+    "statusId": 1,
+    "updatedDt": "2011-12-02T11:41:58.737"
+  },
+  {
+    "providerId": 281,
+    "providerTypeLutId": 7,
+    "providerCode": "0022",
+    "providerName": "Noines - USA",
+    "providerAddress": "USA",
+    "providerContact": "",
+    "statusId": 1,
+    "updatedDt": "2011-12-07T16:01:21.753"
+  },
+  {
+    "providerId": 282,
+    "providerTypeLutId": 7,
+    "providerCode": "0022",
+    "providerName": "Noines - USA",
+    "providerAddress": "USA",
+    "providerContact": "",
+    "statusId": 1,
+    "updatedDt": "2011-12-07T16:01:29.45"
+  },
+  {
+    "providerId": 283,
+    "providerTypeLutId": 39,
+    "providerCode": "Parati",
+    "providerName": "Parati",
+    "providerAddress": "",
+    "providerContact": "",
+    "statusId": 1,
+    "updatedDt": "2011-12-07T17:38:04.69"
+  },
+  {
+    "providerId": 284,
+    "providerTypeLutId": 39,
+    "providerCode": "Nab",
+    "providerName": "Nabisco",
+    "providerAddress": "",
+    "providerContact": "",
+    "statusId": 1,
+    "updatedDt": "2011-12-07T17:12:54.35"
+  },
+  {
+    "providerId": 285,
+    "providerTypeLutId": 39,
+    "providerCode": "",
+    "providerName": "Glico Alimentos",
+    "providerAddress": "",
+    "providerContact": "",
+    "statusId": 1,
+    "updatedDt": "2011-12-07T17:38:52.087"
+  },
+  {
+    "providerId": 286,
+    "providerTypeLutId": 39,
+    "providerCode": "",
+    "providerName": "Portuense",
+    "providerAddress": "",
+    "providerContact": "",
+    "statusId": 1,
+    "updatedDt": "2011-12-07T17:39:15.23"
+  },
+  {
+    "providerId": 287,
+    "providerTypeLutId": 39,
+    "providerCode": "",
+    "providerName": "Bom Baiano",
+    "providerAddress": "",
+    "providerContact": "",
+    "statusId": 1,
+    "updatedDt": "2011-12-07T17:40:03.473"
+  },
+  {
+    "providerId": 288,
+    "providerTypeLutId": 39,
+    "providerCode": "",
+    "providerName": "Manos Doces",
+    "providerAddress": "",
+    "providerContact": "",
+    "statusId": 1,
+    "updatedDt": "2011-12-07T17:40:24.85"
+  },
+  {
+    "providerId": 289,
+    "providerTypeLutId": 39,
+    "providerCode": "",
+    "providerName": "Fehen",
+    "providerAddress": "",
+    "providerContact": "",
+    "statusId": 1,
+    "updatedDt": "2011-12-07T17:41:10.557"
+  },
+  {
+    "providerId": 290,
+    "providerTypeLutId": 39,
+    "providerCode": "",
+    "providerName": "Garcea",
+    "providerAddress": "",
+    "providerContact": "",
+    "statusId": 1,
+    "updatedDt": "2011-12-07T17:41:29.42"
+  },
+  {
+    "providerId": 291,
+    "providerTypeLutId": 39,
+    "providerCode": "",
+    "providerName": "On Line",
+    "providerAddress": "",
+    "providerContact": "",
+    "statusId": 1,
+    "updatedDt": "2012-01-05T19:02:48.337"
+  },
+  {
+    "providerId": 292,
+    "providerTypeLutId": 39,
+    "providerCode": "",
+    "providerName": "Novo Conceito",
+    "providerAddress": "Ribeirao Preto",
+    "providerContact": "",
+    "statusId": 1,
+    "updatedDt": "2012-01-21T22:34:02.327"
+  },
+  {
+    "providerId": 293,
+    "providerTypeLutId": 39,
+    "providerCode": "",
+    "providerName": "Sextante",
+    "providerAddress": "",
+    "providerContact": "",
+    "statusId": 1,
+    "updatedDt": "2012-01-21T22:34:34.653"
+  },
+  {
+    "providerId": 294,
+    "providerTypeLutId": 39,
+    "providerCode": "",
+    "providerName": "Vida e Consciência",
+    "providerAddress": "",
+    "providerContact": "",
+    "statusId": 1,
+    "updatedDt": "2012-01-21T22:36:51.987"
+  },
+  {
+    "providerId": 295,
+    "providerTypeLutId": 39,
+    "providerCode": "",
+    "providerName": "Ediouro",
+    "providerAddress": "",
+    "providerContact": "",
+    "statusId": 1,
+    "updatedDt": "2012-01-22T08:47:33.957"
+  },
+  {
+    "providerId": 296,
+    "providerTypeLutId": 39,
+    "providerCode": "",
+    "providerName": "LBB",
+    "providerAddress": "",
+    "providerContact": "Claudio",
+    "statusId": 1,
+    "updatedDt": "2012-01-23T12:57:53.233"
+  },
+  {
+    "providerId": 298,
+    "providerTypeLutId": 39,
+    "providerCode": "",
+    "providerName": "Natura",
+    "providerAddress": "",
+    "providerContact": "",
+    "statusId": 1,
+    "updatedDt": "2012-02-14T00:07:02.337"
+  },
+  {
+    "providerId": 299,
+    "providerTypeLutId": 8,
+    "providerCode": "",
+    "providerName": "Telenor IRL",
+    "providerAddress": "",
+    "providerContact": "",
+    "statusId": 1,
+    "updatedDt": "2012-02-29T19:23:23.667"
+  },
+  {
+    "providerId": 301,
+    "providerTypeLutId": 7,
+    "providerCode": "",
+    "providerName": "LeiYunFeng",
+    "providerAddress": "",
+    "providerContact": "Tom Lee",
+    "statusId": 1,
+    "updatedDt": "2012-03-07T08:51:12.903"
+  },
+  {
+    "providerId": 302,
+    "providerTypeLutId": 39,
+    "providerCode": "",
+    "providerName": "光明乳业",
+    "providerAddress": "",
+    "providerContact": "",
+    "statusId": 1,
+    "updatedDt": "2012-03-08T02:59:59.27"
+  },
+  {
+    "providerId": 303,
+    "providerTypeLutId": 7,
+    "providerCode": "",
+    "providerName": "LAVAZZA",
+    "providerAddress": "",
+    "providerContact": "",
+    "statusId": 1,
+    "updatedDt": "2012-03-27T10:40:27.593"
+  },
+  {
+    "providerId": 304,
+    "providerTypeLutId": 39,
+    "providerCode": "",
+    "providerName": "海河",
+    "providerAddress": "",
+    "providerContact": "",
+    "statusId": 1,
+    "updatedDt": "2012-03-28T02:11:07.31"
+  },
+  {
+    "providerId": 306,
+    "providerTypeLutId": 8,
+    "providerCode": "",
+    "providerName": "Telit",
+    "providerAddress": "",
+    "providerContact": "",
+    "statusId": 1,
+    "updatedDt": "2012-03-29T07:33:16.433"
+  },
+  {
+    "providerId": 307,
+    "providerTypeLutId": 7,
+    "providerCode": "",
+    "providerName": "Harvin",
+    "providerAddress": "",
+    "providerContact": "",
+    "statusId": 1,
+    "updatedDt": "2012-03-30T09:04:54.973"
+  },
+  {
+    "providerId": 308,
+    "providerTypeLutId": 8,
+    "providerCode": "",
+    "providerName": "Airtel",
+    "providerAddress": "",
+    "providerContact": "",
+    "statusId": 1,
+    "updatedDt": "2012-04-08T08:28:03.32"
+  },
+  {
+    "providerId": 309,
+    "providerTypeLutId": 7,
+    "providerCode": "",
+    "providerName": "SSR Sanden上海三电",
+    "providerAddress": "Shanghai",
+    "providerContact": "Luke Fang",
+    "statusId": 1,
+    "updatedDt": "2014-04-25T07:40:12.883",
+    "hasSpecificBin": false
+  },
+  {
+    "providerId": 310,
+    "providerTypeLutId": 7,
+    "providerCode": "",
+    "providerName": "Gorba",
+    "providerAddress": "",
+    "providerContact": "",
+    "statusId": 1,
+    "updatedDt": "2012-04-19T13:07:21.063"
+  },
+  {
+    "providerId": 311,
+    "providerTypeLutId": 7,
+    "providerCode": "",
+    "providerName": "BaiXue白雪",
+    "providerAddress": "",
+    "providerContact": "David Chen",
+    "statusId": 1,
+    "updatedDt": "2013-08-08T13:43:00.6",
+    "hasSpecificBin": false
+  },
+  {
+    "providerId": 312,
+    "providerTypeLutId": 8,
+    "providerCode": "",
+    "providerName": "THREE HK",
+    "providerAddress": "",
+    "providerContact": "CL Lun",
+    "statusId": 1,
+    "updatedDt": "2012-05-24T01:02:08.057"
+  },
+  {
+    "providerId": 313,
+    "providerTypeLutId": 7,
+    "providerCode": "",
+    "providerName": "TCN中吉",
+    "providerAddress": "Hunan",
+    "providerContact": "",
+    "statusId": 1,
+    "updatedDt": "2015-11-16T05:26:22.217",
+    "hasSpecificBin": false
+  },
+  {
+    "providerId": 315,
+    "providerTypeLutId": 7,
+    "providerCode": "",
+    "providerName": "Bicom",
+    "providerAddress": "",
+    "providerContact": "",
+    "statusId": 1,
+    "updatedDt": "2012-06-25T12:38:51.25"
+  },
+  {
+    "providerId": 316,
+    "providerTypeLutId": 39,
+    "providerCode": "",
+    "providerName": "统一企业",
+    "providerAddress": "",
+    "providerContact": "",
+    "statusId": 1,
+    "updatedDt": "2012-06-26T12:26:45"
+  },
+  {
+    "providerId": 317,
+    "providerTypeLutId": 123,
+    "providerCode": "",
+    "providerName": "Mastercard QA",
+    "providerAddress": "",
+    "providerContact": "",
+    "statusId": 2,
+    "updatedDt": "2018-08-07T14:34:06.88",
+    "brandId": 8,
+    "hasSpecificBin": true
+  },
+  {
+    "providerId": 318,
+    "providerTypeLutId": 123,
+    "providerCode": "",
+    "providerName": "asasd",
+    "providerAddress": "",
+    "providerContact": "",
+    "statusId": 1,
+    "updatedDt": "2012-06-27T12:50:04.207",
+    "brandId": 8,
+    "hasSpecificBin": true
+  },
+  {
+    "providerId": 319,
+    "providerTypeLutId": 123,
+    "providerCode": "",
+    "providerName": "Postepay MasterCard",
+    "providerAddress": "",
+    "providerContact": "",
+    "statusId": 1,
+    "updatedDt": "2012-06-27T12:56:18.95",
+    "brandId": 8,
+    "hasSpecificBin": true
+  },
+  {
+    "providerId": 320,
+    "providerTypeLutId": 123,
+    "providerCode": "",
+    "providerName": "Postepay Visa - Cobranded",
+    "providerAddress": "",
+    "providerContact": "",
+    "statusId": 1,
+    "updatedDt": "2012-06-27T13:00:08.817",
+    "brandId": 6,
+    "hasSpecificBin": true
+  },
+  {
+    "providerId": 321,
+    "providerTypeLutId": 123,
+    "providerCode": "",
+    "providerName": "Postepay Visa Elec - Incentive",
+    "providerAddress": "",
+    "providerContact": "",
+    "statusId": 1,
+    "updatedDt": "2012-06-27T13:02:57.42",
+    "brandId": 6,
+    "hasSpecificBin": true
+  },
+  {
+    "providerId": 322,
+    "providerTypeLutId": 123,
+    "providerCode": "",
+    "providerName": "Postepay Visa - Impresa",
+    "providerAddress": "",
+    "providerContact": "",
+    "statusId": 1,
+    "updatedDt": "2012-06-27T13:00:30.28",
+    "brandId": 6,
+    "hasSpecificBin": true
+  },
+  {
+    "providerId": 326,
+    "providerTypeLutId": 7,
+    "providerCode": "",
+    "providerName": "Guard",
+    "providerAddress": "",
+    "providerContact": "",
+    "statusId": 1,
+    "updatedDt": "2012-07-19T06:30:12.233"
+  },
+  {
+    "providerId": 327,
+    "providerTypeLutId": 39,
+    "providerCode": "1",
+    "providerName": "Dulmadrid",
+    "providerAddress": "",
+    "providerContact": "",
+    "statusId": 1,
+    "updatedDt": "2012-08-08T06:35:06.633"
+  },
+  {
+    "providerId": 328,
+    "providerTypeLutId": 39,
+    "providerCode": "2",
+    "providerName": "Codan",
+    "providerAddress": "",
+    "providerContact": "",
+    "statusId": 1,
+    "updatedDt": "2012-08-08T12:53:40.213"
+  },
+  {
+    "providerId": 329,
+    "providerTypeLutId": 39,
+    "providerCode": "3",
+    "providerName": "Aurea Foods (Azucar)",
+    "providerAddress": "",
+    "providerContact": "",
+    "statusId": 1,
+    "updatedDt": "2012-08-08T12:54:44.69"
+  },
+  {
+    "providerId": 330,
+    "providerTypeLutId": 39,
+    "providerCode": "4",
+    "providerName": "Bimbo",
+    "providerAddress": "",
+    "providerContact": "",
+    "statusId": 1,
+    "updatedDt": "2012-08-08T12:55:25.43"
+  },
+  {
+    "providerId": 331,
+    "providerTypeLutId": 39,
+    "providerCode": "5",
+    "providerName": "Casbega",
+    "providerAddress": "",
+    "providerContact": "",
+    "statusId": 1,
+    "updatedDt": "2012-08-08T12:56:14.55"
+  },
+  {
+    "providerId": 332,
+    "providerTypeLutId": 39,
+    "providerCode": "6",
+    "providerName": "Conway",
+    "providerAddress": "",
+    "providerContact": "",
+    "statusId": 1,
+    "updatedDt": "2012-08-08T13:22:16.883"
+  },
+  {
+    "providerId": 333,
+    "providerTypeLutId": 39,
+    "providerCode": "7",
+    "providerName": "Distribuciones Hernandez",
+    "providerAddress": "",
+    "providerContact": "",
+    "statusId": 1,
+    "updatedDt": "2012-08-08T13:23:28.15"
+  },
+  {
+    "providerId": 334,
+    "providerTypeLutId": 39,
+    "providerCode": "8",
+    "providerName": "La Tahona del Pan",
+    "providerAddress": "",
+    "providerContact": "",
+    "statusId": 1,
+    "updatedDt": "2012-08-08T13:24:40.41"
+  },
+  {
+    "providerId": 335,
+    "providerTypeLutId": 39,
+    "providerCode": "7",
+    "providerName": "Gruvexma",
+    "providerAddress": "",
+    "providerContact": "",
+    "statusId": 1,
+    "updatedDt": "2012-08-08T13:25:53.687"
+  },
+  {
+    "providerId": 336,
+    "providerTypeLutId": 39,
+    "providerCode": "",
+    "providerName": "Huhtamaki",
+    "providerAddress": "",
+    "providerContact": "",
+    "statusId": 1,
+    "updatedDt": "2012-08-08T13:27:25.19"
+  },
+  {
+    "providerId": 337,
+    "providerTypeLutId": 39,
+    "providerCode": "",
+    "providerName": "Frtch Ravit",
+    "providerAddress": "",
+    "providerContact": "",
+    "statusId": 1,
+    "updatedDt": "2012-08-08T13:28:31.16"
+  },
+  {
+    "providerId": 338,
+    "providerTypeLutId": 39,
+    "providerCode": "",
+    "providerName": "Industrias Marjo",
+    "providerAddress": "",
+    "providerContact": "",
+    "statusId": 1,
+    "updatedDt": "2012-08-08T13:29:14.777"
+  },
+  {
+    "providerId": 339,
+    "providerTypeLutId": 39,
+    "providerCode": "",
+    "providerName": "Panrico",
+    "providerAddress": "",
+    "providerContact": "",
+    "statusId": 1,
+    "updatedDt": "2012-08-08T13:30:34.723"
+  },
+  {
+    "providerId": 340,
+    "providerTypeLutId": 39,
+    "providerCode": "",
+    "providerName": "Comercial Glass",
+    "providerAddress": "",
+    "providerContact": "",
+    "statusId": 1,
+    "updatedDt": "2012-08-08T13:31:18.863"
+  },
+  {
+    "providerId": 341,
+    "providerTypeLutId": 39,
+    "providerCode": "",
+    "providerName": "STI Foods",
+    "providerAddress": "",
+    "providerContact": "",
+    "statusId": 1,
+    "updatedDt": "2012-08-08T13:31:57.03"
+  },
+  {
+    "providerId": 342,
+    "providerTypeLutId": 39,
+    "providerCode": "",
+    "providerName": "Vending",
+    "providerAddress": "",
+    "providerContact": "",
+    "statusId": 1,
+    "updatedDt": "2012-08-08T13:32:36.063"
+  },
+  {
+    "providerId": 343,
+    "providerTypeLutId": 39,
+    "providerCode": "",
+    "providerName": "Algaba",
+    "providerAddress": "",
+    "providerContact": "",
+    "statusId": 1,
+    "updatedDt": "2012-08-08T13:33:12.813"
+  },
+  {
+    "providerId": 344,
+    "providerTypeLutId": 39,
+    "providerCode": "",
+    "providerName": "Quely",
+    "providerAddress": "",
+    "providerContact": "",
+    "statusId": 1,
+    "updatedDt": "2012-08-08T13:33:47.84"
+  },
+  {
+    "providerId": 345,
+    "providerTypeLutId": 39,
+    "providerCode": "",
+    "providerName": "Kraft",
+    "providerAddress": "",
+    "providerContact": "",
+    "statusId": 1,
+    "updatedDt": "2012-08-08T13:34:28.977"
+  },
+  {
+    "providerId": 346,
+    "providerTypeLutId": 39,
+    "providerCode": "",
+    "providerName": "ALC",
+    "providerAddress": "",
+    "providerContact": "",
+    "statusId": 1,
+    "updatedDt": "2012-08-08T13:35:44.473"
+  },
+  {
+    "providerId": 347,
+    "providerTypeLutId": 39,
+    "providerCode": "",
+    "providerName": "Mister Sandwich",
+    "providerAddress": "",
+    "providerContact": "",
+    "statusId": 1,
+    "updatedDt": "2012-08-08T13:36:29.737"
+  },
+  {
+    "providerId": 348,
+    "providerTypeLutId": 39,
+    "providerCode": "",
+    "providerName": "Gastro Lunch",
+    "providerAddress": "",
+    "providerContact": "",
+    "statusId": 1,
+    "updatedDt": "2012-08-08T13:37:10.68"
+  },
+  {
+    "providerId": 349,
+    "providerTypeLutId": 39,
+    "providerCode": "",
+    "providerName": "Sandwichs Jet Catering",
+    "providerAddress": "",
+    "providerContact": "",
+    "statusId": 1,
+    "updatedDt": "2012-08-08T13:38:17.917"
+  },
+  {
+    "providerId": 350,
+    "providerTypeLutId": 7,
+    "providerCode": "",
+    "providerName": "Kubota",
+    "providerAddress": "",
+    "providerContact": "Kurihara San t-kuri@kubota.co.jp",
+    "statusId": 1,
+    "updatedDt": "2012-09-06T08:55:46.097"
+  },
+  {
+    "providerId": 352,
+    "providerTypeLutId": 7,
+    "providerCode": "",
+    "providerName": "Braumann",
+    "providerAddress": "",
+    "providerContact": "",
+    "statusId": 1,
+    "updatedDt": "2012-10-16T06:51:15.79"
+  },
+  {
+    "providerId": 353,
+    "providerTypeLutId": 8,
+    "providerCode": "",
+    "providerName": "Cell-C",
+    "providerAddress": "",
+    "providerContact": "",
+    "statusId": 1,
+    "updatedDt": "2012-10-22T14:39:20.293"
+  },
+  {
+    "providerId": 355,
+    "providerTypeLutId": 39,
+    "providerCode": "",
+    "providerName": "Kirin 麒麟",
+    "providerAddress": "",
+    "providerContact": "",
+    "statusId": 1,
+    "updatedDt": "2012-10-24T09:39:03.757",
+    "hasSpecificBin": false
+  },
+  {
+    "providerId": 356,
+    "providerTypeLutId": 39,
+    "providerCode": "",
+    "providerName": "大冢",
+    "providerAddress": "",
+    "providerContact": "",
+    "statusId": 1,
+    "updatedDt": "2012-10-24T09:41:30.447"
+  },
+  {
+    "providerId": 357,
+    "providerTypeLutId": 39,
+    "providerCode": "",
+    "providerName": "乐天",
+    "providerAddress": "",
+    "providerContact": "",
+    "statusId": 1,
+    "updatedDt": "2012-10-24T09:41:52.33"
+  },
+  {
+    "providerId": 358,
+    "providerTypeLutId": 39,
+    "providerCode": "",
+    "providerName": "银鹭",
+    "providerAddress": "",
+    "providerContact": "",
+    "statusId": 1,
+    "updatedDt": "2012-10-24T09:42:20.693"
+  },
+  {
+    "providerId": 359,
+    "providerTypeLutId": 39,
+    "providerCode": "",
+    "providerName": "汇源",
+    "providerAddress": "",
+    "providerContact": "",
+    "statusId": 1,
+    "updatedDt": "2012-10-24T09:42:38.16"
+  },
+  {
+    "providerId": 360,
+    "providerTypeLutId": 39,
+    "providerCode": "",
+    "providerName": "天喔",
+    "providerAddress": "",
+    "providerContact": "",
+    "statusId": 1,
+    "updatedDt": "2012-10-24T09:43:56.77"
+  },
+  {
+    "providerId": 361,
+    "providerTypeLutId": 39,
+    "providerCode": "",
+    "providerName": "滢爽",
+    "providerAddress": "",
+    "providerContact": "",
+    "statusId": 1,
+    "updatedDt": "2012-10-24T09:44:23.053"
+  },
+  {
+    "providerId": 362,
+    "providerTypeLutId": 39,
+    "providerCode": "",
+    "providerName": "加多宝",
+    "providerAddress": "",
+    "providerContact": "",
+    "statusId": 1,
+    "updatedDt": "2012-10-24T09:44:55.45"
+  },
+  {
+    "providerId": 363,
+    "providerTypeLutId": 39,
+    "providerCode": "",
+    "providerName": "牵手",
+    "providerAddress": "",
+    "providerContact": "",
+    "statusId": 1,
+    "updatedDt": "2012-10-24T09:55:26.47"
+  },
+  {
+    "providerId": 365,
+    "providerTypeLutId": 7,
+    "providerCode": "",
+    "providerName": "Automatique",
+    "providerAddress": "",
+    "providerContact": "",
+    "statusId": 1,
+    "updatedDt": "2012-11-20T09:51:52.27"
+  },
+  {
+    "providerId": 366,
+    "providerTypeLutId": 8,
+    "providerCode": "",
+    "providerName": "Telit-Telefonica",
+    "providerAddress": "",
+    "providerContact": "",
+    "statusId": 1,
+    "updatedDt": "2013-03-28T16:22:36.403",
+    "hasSpecificBin": false
+  },
+  {
+    "providerId": 368,
+    "providerTypeLutId": 7,
+    "providerCode": "",
+    "providerName": "Afa organisation SA",
+    "providerAddress": "Portstraase 35",
+    "providerContact": "J.M?rillat",
+    "statusId": 1,
+    "updatedDt": "2013-01-22T13:00:26.073"
+  },
+  {
+    "providerId": 369,
+    "providerTypeLutId": 39,
+    "providerCode": "",
+    "providerName": "COMEARTESANO",
+    "providerAddress": "",
+    "providerContact": "JOSE BRAVO",
+    "statusId": 1,
+    "updatedDt": "2013-02-06T18:42:10.643"
+  },
+  {
+    "providerId": 370,
+    "providerTypeLutId": 8,
+    "providerCode": "",
+    "providerName": "Telefonica(Telit)",
+    "providerAddress": "",
+    "providerContact": "",
+    "statusId": 1,
+    "updatedDt": "2013-02-19T08:14:49.253"
+  },
+  {
+    "providerId": 372,
+    "providerTypeLutId": 7,
+    "providerCode": "",
+    "providerName": "Adimac",
+    "providerAddress": "",
+    "providerContact": "",
+    "statusId": 1,
+    "updatedDt": "2014-10-21T07:43:07.213",
+    "hasSpecificBin": false
+  },
+  {
+    "providerId": 373,
+    "providerTypeLutId": 7,
+    "providerCode": "",
+    "providerName": "SEAGA",
+    "providerAddress": "",
+    "providerContact": "",
+    "statusId": 1,
+    "updatedDt": "2013-03-10T08:11:27.713"
+  },
+  {
+    "providerId": 374,
+    "providerTypeLutId": 8,
+    "providerCode": "",
+    "providerName": "Telefonica",
+    "providerAddress": "",
+    "providerContact": "",
+    "statusId": 1,
+    "updatedDt": "2013-03-19T10:04:02.133"
+  },
+  {
+    "providerId": 376,
+    "providerTypeLutId": 7,
+    "providerCode": "",
+    "providerName": "HOTFOODMATIC",
+    "providerAddress": "",
+    "providerContact": "",
+    "statusId": 1,
+    "updatedDt": "2013-03-25T14:10:04.97"
+  },
+  {
+    "providerId": 377,
+    "providerTypeLutId": 8,
+    "providerCode": "",
+    "providerName": "Telia",
+    "providerAddress": "",
+    "providerContact": "",
+    "statusId": 1,
+    "updatedDt": "2013-03-27T13:04:48.62"
+  },
+  {
+    "providerId": 378,
+    "providerTypeLutId": 7,
+    "providerCode": "",
+    "providerName": "MANEA",
+    "providerAddress": "",
+    "providerContact": "",
+    "statusId": 1,
+    "updatedDt": "2013-04-04T20:01:36.647"
+  },
+  {
+    "providerId": 379,
+    "providerTypeLutId": 8,
+    "providerCode": "",
+    "providerName": "Dtac Thailand",
+    "providerAddress": "",
+    "providerContact": "",
+    "statusId": 1,
+    "updatedDt": "2013-04-11T03:37:19.3"
+  },
+  {
+    "providerId": 380,
+    "providerTypeLutId": 7,
+    "providerCode": "",
+    "providerName": "Oranfresh",
+    "providerAddress": "",
+    "providerContact": "",
+    "statusId": 1,
+    "updatedDt": "2013-04-30T02:21:19.31"
+  },
+  {
+    "providerId": 381,
+    "providerTypeLutId": 39,
+    "providerCode": "",
+    "providerName": "Sabritas",
+    "providerAddress": "",
+    "providerContact": "",
+    "statusId": 1,
+    "updatedDt": "2013-05-05T01:53:43.47",
+    "hasSpecificBin": false
+  },
+  {
+    "providerId": 382,
+    "providerTypeLutId": 39,
+    "providerCode": "",
+    "providerName": "Barcel ",
+    "providerAddress": "",
+    "providerContact": "",
+    "statusId": 1,
+    "updatedDt": "2013-05-05T01:54:32.727",
+    "hasSpecificBin": false
+  },
+  {
+    "providerId": 383,
+    "providerTypeLutId": 39,
+    "providerCode": "",
+    "providerName": "Bimbo",
+    "providerAddress": "",
+    "providerContact": "",
+    "statusId": 1,
+    "updatedDt": "2013-05-05T01:54:26.49",
+    "hasSpecificBin": false
+  },
+  {
+    "providerId": 384,
+    "providerTypeLutId": 39,
+    "providerCode": "",
+    "providerName": "La Integral",
+    "providerAddress": "",
+    "providerContact": "",
+    "statusId": 1,
+    "updatedDt": "2013-05-05T01:53:51.97",
+    "hasSpecificBin": false
+  },
+  {
+    "providerId": 385,
+    "providerTypeLutId": 39,
+    "providerCode": "",
+    "providerName": "Gamesa",
+    "providerAddress": "",
+    "providerContact": "",
+    "statusId": 1,
+    "updatedDt": "2013-05-05T01:54:00.69",
+    "hasSpecificBin": false
+  },
+  {
+    "providerId": 386,
+    "providerTypeLutId": 39,
+    "providerCode": "",
+    "providerName": "Cadbury",
+    "providerAddress": "",
+    "providerContact": "",
+    "statusId": 1,
+    "updatedDt": "2013-05-05T01:54:19.873",
+    "hasSpecificBin": false
+  },
+  {
+    "providerId": 387,
+    "providerTypeLutId": 39,
+    "providerCode": "",
+    "providerName": "Fritos Azteca",
+    "providerAddress": "",
+    "providerContact": "",
+    "statusId": 1,
+    "updatedDt": "2013-05-05T01:54:06.73",
+    "hasSpecificBin": false
+  },
+  {
+    "providerId": 388,
+    "providerTypeLutId": 39,
+    "providerCode": "",
+    "providerName": "Jumex",
+    "providerAddress": "",
+    "providerContact": "",
+    "statusId": 1,
+    "updatedDt": "2013-05-05T01:53:28.963",
+    "hasSpecificBin": false
+  },
+  {
+    "providerId": 389,
+    "providerTypeLutId": 39,
+    "providerCode": "",
+    "providerName": "Costco ",
+    "providerAddress": "",
+    "providerContact": "",
+    "statusId": 1,
+    "updatedDt": "2013-05-05T01:54:12.657",
+    "hasSpecificBin": false
+  },
+  {
+    "providerId": 390,
+    "providerTypeLutId": 39,
+    "providerCode": "",
+    "providerName": "Sams Club Mexico",
+    "providerAddress": "",
+    "providerContact": "",
+    "statusId": 1,
+    "updatedDt": "2013-05-05T01:53:35.073",
+    "hasSpecificBin": false
+  },
+  {
+    "providerId": 391,
+    "providerTypeLutId": 39,
+    "providerCode": "0010",
+    "providerName": "Sams Club USA",
+    "providerAddress": "",
+    "providerContact": "",
+    "statusId": 1,
+    "updatedDt": "2013-05-05T01:51:20.837"
+  },
+  {
+    "providerId": 392,
+    "providerTypeLutId": 39,
+    "providerCode": "",
+    "providerName": "Peñefiel ",
+    "providerAddress": "",
+    "providerContact": "",
+    "statusId": 1,
+    "updatedDt": "2013-05-06T15:16:42.987"
+  },
+  {
+    "providerId": 393,
+    "providerTypeLutId": 39,
+    "providerCode": "",
+    "providerName": "Agua Scandik",
+    "providerAddress": "",
+    "providerContact": "",
+    "statusId": 1,
+    "updatedDt": "2013-05-06T18:37:30.88"
+  },
+  {
+    "providerId": 394,
+    "providerTypeLutId": 39,
+    "providerCode": "",
+    "providerName": "Jaztea",
+    "providerAddress": "",
+    "providerContact": "Hector",
+    "statusId": 1,
+    "updatedDt": "2013-05-06T19:13:00.527",
+    "hasSpecificBin": false
+  },
+  {
+    "providerId": 395,
+    "providerTypeLutId": 39,
+    "providerCode": "",
+    "providerName": "Pepsi",
+    "providerAddress": "",
+    "providerContact": "",
+    "statusId": 1,
+    "updatedDt": "2013-05-06T18:54:35.633"
+  },
+  {
+    "providerId": 396,
+    "providerTypeLutId": 39,
+    "providerCode": "",
+    "providerName": "Lala",
+    "providerAddress": "",
+    "providerContact": "Jose Luis Tiznado",
+    "statusId": 1,
+    "updatedDt": "2013-05-12T19:05:05.91"
+  },
+  {
+    "providerId": 397,
+    "providerTypeLutId": 7,
+    "providerCode": "",
+    "providerName": "Seaga",
+    "providerAddress": "",
+    "providerContact": "",
+    "statusId": 1,
+    "updatedDt": "2013-05-25T07:54:46.977"
+  },
+  {
+    "providerId": 398,
+    "providerTypeLutId": 8,
+    "providerCode": "",
+    "providerName": "Vinaphone",
+    "providerAddress": "",
+    "providerContact": "",
+    "statusId": 1,
+    "updatedDt": "2013-06-11T02:34:46.917"
+  },
+  {
+    "providerId": 399,
+    "providerTypeLutId": 8,
+    "providerCode": "01",
+    "providerName": "TMDATA - Claro",
+    "providerAddress": "",
+    "providerContact": "",
+    "statusId": 1,
+    "updatedDt": "2013-06-12T14:58:53.94"
+  },
+  {
+    "providerId": 400,
+    "providerTypeLutId": 8,
+    "providerCode": "02",
+    "providerName": "TMDATA - TIM",
+    "providerAddress": "",
+    "providerContact": "",
+    "statusId": 1,
+    "updatedDt": "2013-06-12T14:59:19.36"
+  },
+  {
+    "providerId": 401,
+    "providerTypeLutId": 8,
+    "providerCode": "03",
+    "providerName": "TMDATA Vivo",
+    "providerAddress": "",
+    "providerContact": "",
+    "statusId": 1,
+    "updatedDt": "2013-06-12T14:59:44.79"
+  },
+  {
+    "providerId": 402,
+    "providerTypeLutId": 39,
+    "providerCode": "",
+    "providerName": "宏达",
+    "providerAddress": "",
+    "providerContact": "",
+    "statusId": 1,
+    "updatedDt": "2013-06-13T02:08:02.81"
+  },
+  {
+    "providerId": 404,
+    "providerTypeLutId": 8,
+    "providerCode": "11",
+    "providerName": "Oi Mix",
+    "providerAddress": "SP",
+    "providerContact": "Pedro Zanela",
+    "statusId": 1,
+    "updatedDt": "2013-06-30T18:20:50.143"
+  },
+  {
+    "providerId": 405,
+    "providerTypeLutId": 8,
+    "providerCode": "",
+    "providerName": "Vinaphone Vietnam",
+    "providerAddress": "",
+    "providerContact": "",
+    "statusId": 1,
+    "updatedDt": "2013-07-08T09:50:32.303"
+  },
+  {
+    "providerId": 406,
+    "providerTypeLutId": 7,
+    "providerCode": "",
+    "providerName": "ZhongShan",
+    "providerAddress": "",
+    "providerContact": "Yolanda Wang",
+    "statusId": 1,
+    "updatedDt": "2013-07-25T03:53:29.043"
+  },
+  {
+    "providerId": 408,
+    "providerTypeLutId": 8,
+    "providerCode": "39",
+    "providerName": "Nextel BR",
+    "providerAddress": "Sao Paulo 11 7894 0263",
+    "providerContact": "Ewerton",
+    "statusId": 1,
+    "updatedDt": "2013-07-26T10:57:08.457"
+  },
+  {
+    "providerId": 409,
+    "providerTypeLutId": 7,
+    "providerCode": "",
+    "providerName": "Nicevend",
+    "providerAddress": "",
+    "providerContact": "",
+    "statusId": 1,
+    "updatedDt": "2013-07-30T08:17:22.253"
+  },
+  {
+    "providerId": 410,
+    "providerTypeLutId": 7,
+    "providerCode": "",
+    "providerName": "Sapoe新诺",
+    "providerAddress": "",
+    "providerContact": "Michal Zhang",
+    "statusId": 1,
+    "updatedDt": "2013-08-13T08:38:17.933"
+  },
+  {
+    "providerId": 412,
+    "providerTypeLutId": 7,
+    "providerCode": "445669",
+    "providerName": "Magex",
+    "providerAddress": "",
+    "providerContact": "",
+    "statusId": 1,
+    "updatedDt": "2013-08-16T06:41:55.22"
+  },
+  {
+    "providerId": 414,
+    "providerTypeLutId": 7,
+    "providerCode": "",
+    "providerName": "HuQiu虎丘",
+    "providerAddress": "",
+    "providerContact": "",
+    "statusId": 1,
+    "updatedDt": "2013-08-29T06:57:37.763"
+  },
+  {
+    "providerId": 416,
+    "providerTypeLutId": 7,
+    "providerCode": "",
+    "providerName": "ECube",
+    "providerAddress": "",
+    "providerContact": "",
+    "statusId": 1,
+    "updatedDt": "2013-09-12T06:03:15.18"
+  },
+  {
+    "providerId": 417,
+    "providerTypeLutId": 7,
+    "providerCode": "",
+    "providerName": "FRANKE",
+    "providerAddress": "Frankestrasse 9",
+    "providerContact": "Herr Roten",
+    "statusId": 1,
+    "updatedDt": "2013-09-23T12:00:20.23"
+  },
+  {
+    "providerId": 418,
+    "providerTypeLutId": 39,
+    "providerCode": "",
+    "providerName": "Hevam Foods",
+    "providerAddress": "",
+    "providerContact": "",
+    "statusId": 1,
+    "updatedDt": "2013-09-26T03:07:54.713"
+  },
+  {
+    "providerId": 420,
+    "providerTypeLutId": 8,
+    "providerCode": "",
+    "providerName": "Vodacom",
+    "providerAddress": "",
+    "providerContact": "",
+    "statusId": 1,
+    "updatedDt": "2013-10-22T09:21:26.667"
+  },
+  {
+    "providerId": 421,
+    "providerTypeLutId": 39,
+    "providerCode": "500",
+    "providerName": "Conta Super",
+    "providerAddress": "",
+    "providerContact": "Toninho",
+    "statusId": 1,
+    "updatedDt": "2013-11-01T14:00:19.48"
+  },
+  {
+    "providerId": 422,
+    "providerTypeLutId": 123,
+    "providerCode": "",
+    "providerName": "BancoPosta ",
+    "providerAddress": "",
+    "providerContact": "",
+    "statusId": 1,
+    "updatedDt": "2013-11-12T11:44:44.12",
+    "brandId": 9,
+    "hasSpecificBin": true
+  },
+  {
+    "providerId": 423,
+    "providerTypeLutId": 123,
+    "providerCode": "",
+    "providerName": "BanciPostaClick ",
+    "providerAddress": "",
+    "providerContact": "",
+    "statusId": 1,
+    "updatedDt": "2013-11-12T11:46:36.947",
+    "brandId": 8,
+    "hasSpecificBin": true
+  },
+  {
+    "providerId": 424,
+    "providerTypeLutId": 8,
+    "providerCode": "",
+    "providerName": "China Mobile 3rd",
+    "providerAddress": "",
+    "providerContact": "",
+    "statusId": 1,
+    "updatedDt": "2013-11-14T08:01:53.47"
+  },
+  {
+    "providerId": 425,
+    "providerTypeLutId": 7,
+    "providerCode": "",
+    "providerName": "POPITAS",
+    "providerAddress": "",
+    "providerContact": "",
+    "statusId": 1,
+    "updatedDt": "2013-12-01T13:01:37.4"
+  },
+  {
+    "providerId": 426,
+    "providerTypeLutId": 39,
+    "providerCode": "",
+    "providerName": "Nestle",
+    "providerAddress": "",
+    "providerContact": "",
+    "statusId": 1,
+    "updatedDt": "2013-12-06T23:02:15.553"
+  },
+  {
+    "providerId": 427,
+    "providerTypeLutId": 7,
+    "providerCode": "",
+    "providerName": "Franke",
+    "providerAddress": "",
+    "providerContact": "",
+    "statusId": 1,
+    "updatedDt": "2013-12-11T16:15:32.463"
+  },
+  {
+    "providerId": 428,
+    "providerTypeLutId": 8,
+    "providerCode": "",
+    "providerName": "Telit",
+    "providerAddress": "",
+    "providerContact": "",
+    "statusId": 1,
+    "updatedDt": "2013-12-26T14:03:26.337"
+  },
+  {
+    "providerId": 431,
+    "providerTypeLutId": 7,
+    "providerCode": "",
+    "providerName": "Ditech",
+    "providerAddress": "",
+    "providerContact": "",
+    "statusId": 1,
+    "updatedDt": "2014-03-05T10:05:02.203"
+  },
+  {
+    "providerId": 432,
+    "providerTypeLutId": 7,
+    "providerCode": "",
+    "providerName": "Ditech",
+    "providerAddress": "",
+    "providerContact": "",
+    "statusId": 1,
+    "updatedDt": "2014-03-12T18:09:35.337"
+  },
+  {
+    "providerId": 433,
+    "providerTypeLutId": 123,
+    "providerCode": "",
+    "providerName": "Universita PayPass",
+    "providerAddress": "",
+    "providerContact": "",
+    "statusId": 2,
+    "updatedDt": "2018-08-07T14:33:38.23",
+    "brandId": 8,
+    "hasSpecificBin": true
+  },
+  {
+    "providerId": 434,
+    "providerTypeLutId": 39,
+    "providerCode": "",
+    "providerName": "Product",
+    "providerAddress": "",
+    "providerContact": "",
+    "statusId": 1,
+    "updatedDt": "2014-04-23T12:23:04.203"
+  },
+  {
+    "providerId": 435,
+    "providerTypeLutId": 7,
+    "providerCode": "",
+    "providerName": "EATON",
+    "providerAddress": "",
+    "providerContact": "",
+    "statusId": 1,
+    "updatedDt": "2014-04-29T10:31:19.007"
+  },
+  {
+    "providerId": 436,
+    "providerTypeLutId": 125,
+    "providerCode": "1948",
+    "providerName": "TELIT",
+    "providerAddress": "",
+    "providerContact": "",
+    "statusId": 1,
+    "updatedDt": "2014-04-29T13:44:55.513"
+  },
+  {
+    "providerId": 438,
+    "providerTypeLutId": 7,
+    "providerCode": "",
+    "providerName": "VP Cashless",
+    "providerAddress": "",
+    "providerContact": "",
+    "statusId": 1,
+    "updatedDt": "2014-04-30T06:46:29.88"
+  },
+  {
+    "providerId": 439,
+    "providerTypeLutId": 39,
+    "providerCode": "444",
+    "providerName": "Fornecedor de AeB",
+    "providerAddress": "SP",
+    "providerContact": "SP",
+    "statusId": 1,
+    "updatedDt": "2014-05-05T22:56:08.64"
+  },
+  {
+    "providerId": 440,
+    "providerTypeLutId": 39,
+    "providerCode": "",
+    "providerName": "PILOTO BIMBO",
+    "providerAddress": "",
+    "providerContact": "",
+    "statusId": 1,
+    "updatedDt": "2014-05-06T01:08:12.78"
+  },
+  {
+    "providerId": 442,
+    "providerTypeLutId": 30000511,
+    "providerCode": "485Port",
+    "providerName": "485Port Unit",
+    "providerAddress": "$6.00",
+    "providerContact": "5.45%",
+    "statusId": 1,
+    "updatedDt": "2014-05-11T17:27:01.983",
+    "hasSpecificBin": false
+  },
+  {
+    "providerId": 443,
+    "providerTypeLutId": 7,
+    "providerCode": "100101",
+    "providerName": "Istobal",
+    "providerAddress": "Avda. Conde Serrallo 10 46250 L Alcudia Valencia Spain",
+    "providerContact": "Carlos Valls",
+    "statusId": 1,
+    "updatedDt": "2014-05-20T10:58:00.877",
+    "hasSpecificBin": false
+  },
+  {
+    "providerId": 444,
+    "providerTypeLutId": 39,
+    "providerCode": "",
+    "providerName": "Pepsi",
+    "providerAddress": "",
+    "providerContact": "",
+    "statusId": 1,
+    "updatedDt": "2014-05-20T19:52:09.3"
+  },
+  {
+    "providerId": 445,
+    "providerTypeLutId": 39,
+    "providerCode": "1",
+    "providerName": "Font Vella S.A.",
+    "providerAddress": "",
+    "providerContact": "",
+    "statusId": 1,
+    "updatedDt": "2014-05-23T07:01:16.1"
+  },
+  {
+    "providerId": 446,
+    "providerTypeLutId": 7,
+    "providerCode": "889666",
+    "providerName": "Ricchello-Wash-Systems AG",
+    "providerAddress": "Rosenbergsaustrasse /9434 Au",
+    "providerContact": "",
+    "statusId": 1,
+    "updatedDt": "2014-06-10T06:00:43.097"
+  },
+  {
+    "providerId": 447,
+    "providerTypeLutId": 7,
+    "providerCode": "",
+    "providerName": "ProAcqua",
+    "providerAddress": "",
+    "providerContact": "",
+    "statusId": 1,
+    "updatedDt": "2014-06-10T09:52:27.69"
+  },
+  {
+    "providerId": 448,
+    "providerTypeLutId": 7,
+    "providerCode": "1",
+    "providerName": "IBERICA",
+    "providerAddress": "",
+    "providerContact": "",
+    "statusId": 1,
+    "updatedDt": "2014-07-01T15:07:01.84"
+  },
+  {
+    "providerId": 449,
+    "providerTypeLutId": 123,
+    "providerCode": "",
+    "providerName": "Amex Business Card",
+    "providerAddress": "",
+    "providerContact": "",
+    "statusId": 1,
+    "updatedDt": "2014-07-01T19:05:01.11",
+    "brandId": 11,
+    "hasSpecificBin": true
+  },
+  {
+    "providerId": 452,
+    "providerTypeLutId": 8,
+    "providerCode": "",
+    "providerName": "UNOTEL",
+    "providerAddress": "",
+    "providerContact": "",
+    "statusId": 1,
+    "updatedDt": "2014-09-03T12:01:22.3"
+  },
+  {
+    "providerId": 453,
+    "providerTypeLutId": 8,
+    "providerCode": "",
+    "providerName": "Fullrate",
+    "providerAddress": "",
+    "providerContact": "",
+    "statusId": 1,
+    "updatedDt": "2014-09-08T15:13:59.807"
+  },
+  {
+    "providerId": 454,
+    "providerTypeLutId": 8,
+    "providerCode": "",
+    "providerName": "Verizon",
+    "providerAddress": "",
+    "providerContact": "",
+    "statusId": 1,
+    "updatedDt": "2014-09-23T13:01:04.283"
+  },
+  {
+    "providerId": 456,
+    "providerTypeLutId": 7,
+    "providerCode": "",
+    "providerName": "Selecta",
+    "providerAddress": "",
+    "providerContact": "",
+    "statusId": 1,
+    "updatedDt": "2014-10-21T07:56:42.563"
+  },
+  {
+    "providerId": 457,
+    "providerTypeLutId": 39,
+    "providerCode": "XE 001",
+    "providerName": "EBC ",
+    "providerAddress": "",
+    "providerContact": "",
+    "statusId": 1,
+    "updatedDt": "2014-10-25T13:42:04.547"
+  },
+  {
+    "providerId": 458,
+    "providerTypeLutId": 39,
+    "providerCode": "",
+    "providerName": "Bentevi",
+    "providerAddress": "",
+    "providerContact": "",
+    "statusId": 1,
+    "updatedDt": "2014-10-25T13:42:34.683"
+  },
+  {
+    "providerId": 459,
+    "providerTypeLutId": 39,
+    "providerCode": "",
+    "providerName": "Cirillo",
+    "providerAddress": "",
+    "providerContact": "",
+    "statusId": 1,
+    "updatedDt": "2014-10-25T13:43:04.32"
+  },
+  {
+    "providerId": 460,
+    "providerTypeLutId": 39,
+    "providerCode": "",
+    "providerName": "PH Limp",
+    "providerAddress": "",
+    "providerContact": "",
+    "statusId": 1,
+    "updatedDt": "2014-10-25T13:43:26.52"
+  },
+  {
+    "providerId": 461,
+    "providerTypeLutId": 39,
+    "providerCode": "",
+    "providerName": "Riquesas da Terra",
+    "providerAddress": "",
+    "providerContact": "",
+    "statusId": 1,
+    "updatedDt": "2014-10-25T13:43:57.64"
+  },
+  {
+    "providerId": 462,
+    "providerTypeLutId": 39,
+    "providerCode": "",
+    "providerName": "Nikokit",
+    "providerAddress": "",
+    "providerContact": "",
+    "statusId": 1,
+    "updatedDt": "2014-10-25T13:46:13.54"
+  },
+  {
+    "providerId": 463,
+    "providerTypeLutId": 39,
+    "providerCode": "",
+    "providerName": "Armarinhos Fernandes",
+    "providerAddress": "",
+    "providerContact": "",
+    "statusId": 1,
+    "updatedDt": "2014-10-25T14:11:19.29"
+  },
+  {
+    "providerId": 464,
+    "providerTypeLutId": 39,
+    "providerCode": "",
+    "providerName": "Beto Embalagens",
+    "providerAddress": "",
+    "providerContact": "",
+    "statusId": 1,
+    "updatedDt": "2014-10-25T14:11:49.98"
+  },
+  {
+    "providerId": 465,
+    "providerTypeLutId": 39,
+    "providerCode": "",
+    "providerName": "Estrela América do Sul",
+    "providerAddress": "",
+    "providerContact": "",
+    "statusId": 1,
+    "updatedDt": "2014-10-25T14:12:18.743"
+  },
+  {
+    "providerId": 466,
+    "providerTypeLutId": 39,
+    "providerCode": "",
+    "providerName": "Pack Pack Embalagens Ltda",
+    "providerAddress": "",
+    "providerContact": "",
+    "statusId": 1,
+    "updatedDt": "2014-10-25T14:13:04.92"
+  },
+  {
+    "providerId": 467,
+    "providerTypeLutId": 39,
+    "providerCode": "",
+    "providerName": "Beauty Look",
+    "providerAddress": "",
+    "providerContact": "",
+    "statusId": 1,
+    "updatedDt": "2014-10-25T14:13:39.037"
+  },
+  {
+    "providerId": 468,
+    "providerTypeLutId": 39,
+    "providerCode": "",
+    "providerName": "Matsumoto",
+    "providerAddress": "",
+    "providerContact": "",
+    "statusId": 1,
+    "updatedDt": "2014-10-25T14:13:59.937"
+  },
+  {
+    "providerId": 469,
+    "providerTypeLutId": 39,
+    "providerCode": "",
+    "providerName": "Viva - EBC",
+    "providerAddress": "",
+    "providerContact": "",
+    "statusId": 1,
+    "updatedDt": "2014-10-25T14:14:28.48"
+  },
+  {
+    "providerId": 470,
+    "providerTypeLutId": 8,
+    "providerCode": "",
+    "providerName": "Vinafone",
+    "providerAddress": "",
+    "providerContact": "",
+    "statusId": 1,
+    "updatedDt": "2014-10-27T08:24:37.393"
+  },
+  {
+    "providerId": 472,
+    "providerTypeLutId": 8,
+    "providerCode": "",
+    "providerName": "Lyra",
+    "providerAddress": "Av. Queiroz filho,1700  torre sky 8 andar Cj.803",
+    "providerContact": "551133369200",
+    "statusId": 1,
+    "updatedDt": "2014-11-01T10:05:06.207"
+  },
+  {
+    "providerId": 473,
+    "providerTypeLutId": 39,
+    "providerCode": "",
+    "providerName": "Tara",
+    "providerAddress": "",
+    "providerContact": "",
+    "statusId": 1,
+    "updatedDt": "2014-11-05T08:36:03.22"
+  },
+  {
+    "providerId": 474,
+    "providerTypeLutId": 39,
+    "providerCode": "",
+    "providerName": "Tnuva",
+    "providerAddress": "",
+    "providerContact": "",
+    "statusId": 1,
+    "updatedDt": "2014-11-05T08:36:38.717"
+  },
+  {
+    "providerId": 475,
+    "providerTypeLutId": 39,
+    "providerCode": "",
+    "providerName": "Tempo",
+    "providerAddress": "",
+    "providerContact": "",
+    "statusId": 1,
+    "updatedDt": "2014-11-05T08:37:09.923"
+  },
+  {
+    "providerId": 476,
+    "providerTypeLutId": 39,
+    "providerCode": "",
+    "providerName": "Spring",
+    "providerAddress": "",
+    "providerContact": "",
+    "statusId": 1,
+    "updatedDt": "2014-11-05T08:37:53.083"
+  },
+  {
+    "providerId": 477,
+    "providerTypeLutId": 7,
+    "providerCode": "",
+    "providerName": "Winnsen",
+    "providerAddress": "",
+    "providerContact": "John Liu",
+    "statusId": 1,
+    "updatedDt": "2014-11-12T06:25:10.007"
+  },
+  {
+    "providerId": 478,
+    "providerTypeLutId": 125,
+    "providerName": "Twilio",
+    "statusId": 1,
+    "updatedDt": "2014-11-13T17:23:27.657",
+    "providerLanguages": "[\r\n  {\r\n    \"languageId\": 7,\r\n    \"languageCode\": \"en\"\r\n  },\r\n  {\r\n    \"languageId\": 8,\r\n    \"languageCode\": \"fr-FR\"\r\n  },\r\n  {\r\n    \"languageId\": 12,\r\n    \"languageCode\": \"ru-RU\"\r\n  },\r\n  {\r\n    \"languageId\": 28,\r\n    \"languageCode\": \"de-DE\"\r\n  },\r\n  {\r\n    \"languageId\": 15,\r\n    \"languageCode\": \"es-ES\"\r\n  },\r\n  {\r\n    \"languageId\": 16,\r\n    \"languageCode\": \"it-IT\"\r\n  },\r\n   {\r\n    \"languageId\": 10,\r\n    \"languageCode\": \"sv-SE\"\r\n  },\r\n   {\r\n    \"languageId\": 11,\r\n    \"languageCode\": \"nb-NO\"\r\n  },\r\n   {\r\n    \"languageId\": 18,\r\n    \"languageCode\": \"pl-PL\"\r\n  },\r\n   {\r\n    \"languageId\": 14,\r\n    \"languageCode\": \"pt-PT\"\r\n  },\r\n   {\r\n    \"languageId\": 22,\r\n    \"languageCode\": \"zh-CN\"\r\n  },\r\n  {\r\n    \"languageId\": 21,\r\n    \"languageCode\": \"nl-NL\"\r\n  },\r\n  {\r\n    \"languageId\": 29,\r\n    \"languageCode\": \"ja-JP\"\r\n  }\r\n]"
+  },
+  {
+    "providerId": 479,
+    "providerTypeLutId": 125,
+    "providerName": "Mandao",
+    "statusId": 1,
+    "updatedDt": "2014-11-13T17:23:46.623"
+  },
+  {
+    "providerId": 480,
+    "providerTypeLutId": 8,
+    "providerCode": "5603",
+    "providerName": "Claro Chile",
+    "providerAddress": "Chile",
+    "providerContact": "",
+    "statusId": 1,
+    "updatedDt": "2014-12-16T21:02:18.06"
+  },
+  {
+    "providerId": 481,
+    "providerTypeLutId": 8,
+    "providerCode": "5601",
+    "providerName": "Entel Chile",
+    "providerAddress": "",
+    "providerContact": "",
+    "statusId": 1,
+    "updatedDt": "2014-12-16T21:02:57.66"
+  },
+  {
+    "providerId": 486,
+    "providerTypeLutId": 123,
+    "providerCode": "",
+    "providerName": "test",
+    "providerAddress": "",
+    "providerContact": "",
+    "statusId": 2,
+    "updatedDt": "2015-01-12T11:59:48.71",
+    "brandId": 4,
+    "hasSpecificBin": false
+  },
+  {
+    "providerId": 487,
+    "providerTypeLutId": 7,
+    "providerCode": "LG",
+    "providerName": "LG Washer/Dryer",
+    "providerAddress": "",
+    "providerContact": "",
+    "statusId": 1,
+    "updatedDt": "2015-01-21T09:13:02.667",
+    "hasSpecificBin": false
+  },
+  {
+    "providerId": 488,
+    "providerTypeLutId": 39,
+    "providerCode": "",
+    "providerName": "OSHEE Polska Sp. z o.o",
+    "providerAddress": "",
+    "providerContact": "",
+    "statusId": 1,
+    "updatedDt": "2015-01-23T13:10:46.23"
+  },
+  {
+    "providerId": 489,
+    "providerTypeLutId": 39,
+    "providerCode": "",
+    "providerName": "Frito Lay Poland sp. z o.o. (p",
+    "providerAddress": "",
+    "providerContact": "",
+    "statusId": 1,
+    "updatedDt": "2015-01-23T13:10:59.95"
+  },
+  {
+    "providerId": 490,
+    "providerTypeLutId": 39,
+    "providerCode": "",
+    "providerName": "SANTE A.Kowalski Sp. J",
+    "providerAddress": "",
+    "providerContact": "",
+    "statusId": 1,
+    "updatedDt": "2015-01-23T13:11:16.97"
+  },
+  {
+    "providerId": 491,
+    "providerTypeLutId": 39,
+    "providerCode": "",
+    "providerName": "Olimp Sport Nutrition® ",
+    "providerAddress": "",
+    "providerContact": "",
+    "statusId": 1,
+    "updatedDt": "2015-01-23T13:11:29.457"
+  },
+  {
+    "providerId": 492,
+    "providerTypeLutId": 39,
+    "providerCode": "",
+    "providerName": "F.H.U. \"LIBA\" Piotr Liczbański",
+    "providerAddress": "",
+    "providerContact": "",
+    "statusId": 1,
+    "updatedDt": "2015-01-23T13:11:42.02"
+  },
+  {
+    "providerId": 493,
+    "providerTypeLutId": 39,
+    "providerCode": "",
+    "providerName": "LOB",
+    "providerAddress": "",
+    "providerContact": "",
+    "statusId": 1,
+    "updatedDt": "2015-01-23T13:11:51.87"
+  },
+  {
+    "providerId": 494,
+    "providerTypeLutId": 39,
+    "providerCode": "",
+    "providerName": "NIVEA Polska Sp. z o.o. ",
+    "providerAddress": "",
+    "providerContact": "",
+    "statusId": 1,
+    "updatedDt": "2015-01-23T13:12:11.577"
+  },
+  {
+    "providerId": 495,
+    "providerTypeLutId": 39,
+    "providerCode": "",
+    "providerName": "AWA24.pl ",
+    "providerAddress": "",
+    "providerContact": "",
+    "statusId": 1,
+    "updatedDt": "2015-01-23T13:12:21.583"
+  },
+  {
+    "providerId": 496,
+    "providerTypeLutId": 7,
+    "providerCode": "125",
+    "providerName": "Kawe 咖宇",
+    "providerAddress": "",
+    "providerContact": "David Ji",
+    "statusId": 1,
+    "updatedDt": "2015-02-03T07:34:49.153"
+  },
+  {
+    "providerId": 497,
+    "providerTypeLutId": 39,
+    "providerCode": "00019",
+    "providerName": "DBTrends",
+    "providerAddress": "Vinhedo",
+    "providerContact": "",
+    "statusId": 1,
+    "updatedDt": "2015-02-04T17:30:49.2"
+  },
+  {
+    "providerId": 498,
+    "providerTypeLutId": 7,
+    "providerCode": "",
+    "providerName": "Baixue",
+    "providerAddress": "",
+    "providerContact": "",
+    "statusId": 1,
+    "updatedDt": "2015-02-12T23:33:48.997"
+  },
+  {
+    "providerId": 499,
+    "providerTypeLutId": 8,
+    "providerCode": "",
+    "providerName": "Mobiphone",
+    "providerAddress": "Vietnam",
+    "providerContact": "",
+    "statusId": 1,
+    "updatedDt": "2015-03-18T08:19:20.18"
+  },
+  {
+    "providerId": 500,
+    "providerTypeLutId": 8,
+    "providerCode": "",
+    "providerName": "Viettel ",
+    "providerAddress": "Vietnam",
+    "providerContact": "",
+    "statusId": 1,
+    "updatedDt": "2015-03-18T08:19:49.623"
+  },
+  {
+    "providerId": 501,
+    "providerTypeLutId": 7,
+    "providerCode": "041",
+    "providerName": "Power Vending-BR",
+    "providerAddress": "CWB",
+    "providerContact": "Maycon",
+    "statusId": 1,
+    "updatedDt": "2015-10-24T11:43:23.433",
+    "hasSpecificBin": false
+  },
+  {
+    "providerId": 502,
+    "providerTypeLutId": 39,
+    "providerCode": "02701",
+    "providerName": "Agrosabor",
+    "providerAddress": "Vit?ria - ES",
+    "providerContact": "Alejandro Duenas",
+    "statusId": 1,
+    "updatedDt": "2015-04-03T12:49:26.087"
+  },
+  {
+    "providerId": 505,
+    "providerTypeLutId": 39,
+    "providerCode": "000111",
+    "providerName": "Diletto",
+    "providerAddress": "",
+    "providerContact": "Flavio Sartori",
+    "statusId": 1,
+    "updatedDt": "2015-04-29T14:48:24.577"
+  },
+  {
+    "providerId": 506,
+    "providerTypeLutId": 39,
+    "providerCode": "8002883050",
+    "providerName": "Vistar",
+    "providerAddress": "PO BOX 784866, Philadephia, PA 19178-4866",
+    "providerContact": "Richard Conrad",
+    "statusId": 1,
+    "updatedDt": "2015-05-12T14:53:50.263"
+  },
+  {
+    "providerId": 507,
+    "providerTypeLutId": 39,
+    "providerCode": "8009994271",
+    "providerName": "Thayer",
+    "providerAddress": "333 Swedesboro Ave., Gibbstown, NJ 08027",
+    "providerContact": "Bob Thren",
+    "statusId": 1,
+    "updatedDt": "2015-05-12T14:56:29.763"
+  },
+  {
+    "providerId": 508,
+    "providerTypeLutId": 39,
+    "providerCode": "8004271777",
+    "providerName": "Federal Distributors",
+    "providerAddress": "PB BOX 2007, Lewiston, ME 04241-2007",
+    "providerContact": "",
+    "statusId": 1,
+    "updatedDt": "2015-05-12T14:58:27.05"
+  },
+  {
+    "providerId": 509,
+    "providerTypeLutId": 39,
+    "providerCode": "2077844026",
+    "providerName": "Central Distributors",
+    "providerAddress": "15 Foss Rd. PO BOX 1936, Lewiston, ME 04241-1936",
+    "providerContact": "",
+    "statusId": 1,
+    "updatedDt": "2015-05-12T14:59:21.087"
+  },
+  {
+    "providerId": 510,
+    "providerTypeLutId": 7,
+    "providerCode": "",
+    "providerName": "Cashless - BR",
+    "providerAddress": "",
+    "providerContact": "Fabio",
+    "statusId": 1,
+    "updatedDt": "2015-05-14T09:20:29.53"
+  },
+  {
+    "providerId": 511,
+    "providerTypeLutId": 39,
+    "providerCode": "62776",
+    "providerName": "MITSUBISHI",
+    "providerAddress": "",
+    "providerContact": "",
+    "statusId": 1,
+    "updatedDt": "2015-05-18T07:24:28.713"
+  },
+  {
+    "providerId": 512,
+    "providerTypeLutId": 39,
+    "providerCode": "62776",
+    "providerName": "MITSUBISHI",
+    "providerAddress": "",
+    "providerContact": "",
+    "statusId": 1,
+    "updatedDt": "2015-05-18T07:27:33.677"
+  },
+  {
+    "providerId": 513,
+    "providerTypeLutId": 39,
+    "providerCode": "62777",
+    "providerName": "AYMA",
+    "providerAddress": "",
+    "providerContact": "",
+    "statusId": 1,
+    "updatedDt": "2015-05-18T07:28:01.41"
+  },
+  {
+    "providerId": 514,
+    "providerTypeLutId": 39,
+    "providerCode": "62778",
+    "providerName": "CERATIZIT",
+    "providerAddress": "",
+    "providerContact": "",
+    "statusId": 1,
+    "updatedDt": "2015-05-18T07:28:33.75"
+  },
+  {
+    "providerId": 515,
+    "providerTypeLutId": 39,
+    "providerCode": "62779",
+    "providerName": "COOTING TOOLS",
+    "providerAddress": "",
+    "providerContact": "",
+    "statusId": 1,
+    "updatedDt": "2015-05-18T07:29:32.997"
+  },
+  {
+    "providerId": 516,
+    "providerTypeLutId": 39,
+    "providerCode": "62790",
+    "providerName": "HERRAMIENTAS Y UTILES",
+    "providerAddress": "",
+    "providerContact": "",
+    "statusId": 1,
+    "updatedDt": "2015-05-18T07:30:08.167"
+  },
+  {
+    "providerId": 517,
+    "providerTypeLutId": 7,
+    "providerCode": "111",
+    "providerName": "Wurlitzer",
+    "providerAddress": "",
+    "providerContact": "",
+    "statusId": 1,
+    "updatedDt": "2015-06-04T06:23:28.07"
+  },
+  {
+    "providerId": 518,
+    "providerTypeLutId": 7,
+    "providerCode": "56",
+    "providerName": "G5/N2 Tyre Inflator",
+    "providerAddress": "Zhuhai China",
+    "providerContact": "Mr. Zhao",
+    "statusId": 1,
+    "updatedDt": "2015-07-01T06:02:46.767"
+  },
+  {
+    "providerId": 519,
+    "providerTypeLutId": 7,
+    "providerCode": "",
+    "providerName": "TBS Inc Photo",
+    "providerAddress": "",
+    "providerContact": "",
+    "statusId": 1,
+    "updatedDt": "2015-07-02T17:50:13.053"
+  },
+  {
+    "providerId": 520,
+    "providerTypeLutId": 7,
+    "providerCode": "",
+    "providerName": "ABB",
+    "providerAddress": "",
+    "providerContact": "",
+    "statusId": 1,
+    "updatedDt": "2015-07-14T12:07:32.81"
+  },
+  {
+    "providerId": 521,
+    "providerTypeLutId": 7,
+    "providerCode": "",
+    "providerName": "UVENCO",
+    "providerAddress": "",
+    "providerContact": "",
+    "statusId": 1,
+    "updatedDt": "2015-07-15T10:03:57.837"
+  },
+  {
+    "providerId": 528,
+    "providerTypeLutId": 8,
+    "providerCode": "",
+    "providerName": "Tele 2",
+    "providerAddress": "",
+    "providerContact": "",
+    "statusId": 1,
+    "updatedDt": "2015-07-22T09:55:15.213"
+  },
+  {
+    "providerId": 532,
+    "providerTypeLutId": 39,
+    "providerCode": "",
+    "providerName": "Mini Melts",
+    "providerAddress": "",
+    "providerContact": "",
+    "statusId": 1,
+    "updatedDt": "2015-07-22T13:46:41.527"
+  },
+  {
+    "providerId": 533,
+    "providerTypeLutId": 7,
+    "providerCode": "",
+    "providerName": "MARS UK",
+    "providerAddress": "",
+    "providerContact": "",
+    "statusId": 1,
+    "updatedDt": "2015-07-27T10:22:27.72"
+  },
+  {
+    "providerId": 537,
+    "providerTypeLutId": 7,
+    "providerCode": "",
+    "providerName": "LOCATAM",
+    "providerAddress": "",
+    "providerContact": "",
+    "statusId": 1,
+    "updatedDt": "2015-09-29T08:44:57.61"
+  },
+  {
+    "providerId": 538,
+    "providerTypeLutId": 7,
+    "providerCode": "",
+    "providerName": "LG Services",
+    "providerAddress": "",
+    "providerContact": "",
+    "statusId": 1,
+    "updatedDt": "2015-09-29T13:39:45.853"
+  },
+  {
+    "providerId": 539,
+    "providerTypeLutId": 7,
+    "providerCode": "",
+    "providerName": "LAVOBOX",
+    "providerAddress": "",
+    "providerContact": "",
+    "statusId": 1,
+    "updatedDt": "2015-10-01T14:10:42.473"
+  },
+  {
+    "providerId": 542,
+    "providerTypeLutId": 7,
+    "providerCode": "",
+    "providerName": "Xing Yuan 兴元",
+    "providerAddress": "",
+    "providerContact": "",
+    "statusId": 1,
+    "updatedDt": "2015-10-26T07:46:18.213"
+  },
+  {
+    "providerId": 543,
+    "providerTypeLutId": 7,
+    "providerCode": "",
+    "providerName": "InOne",
+    "providerAddress": "",
+    "providerContact": "",
+    "statusId": 1,
+    "updatedDt": "2016-02-05T18:49:08.93",
+    "hasSpecificBin": false
+  },
+  {
+    "providerId": 546,
+    "providerTypeLutId": 8,
+    "providerCode": "",
+    "providerName": "TELEFONICA M2M",
+    "providerAddress": "",
+    "providerContact": "",
+    "statusId": 1,
+    "updatedDt": "2015-11-23T08:26:17.95"
+  },
+  {
+    "providerId": 547,
+    "providerTypeLutId": 7,
+    "providerCode": "",
+    "providerName": "Nayax Dach",
+    "providerAddress": "",
+    "providerContact": "",
+    "statusId": 1,
+    "updatedDt": "2015-12-09T12:56:28.823"
+  },
+  {
+    "providerId": 548,
+    "providerTypeLutId": 7,
+    "providerCode": "57",
+    "providerName": "U-Select-It",
+    "providerAddress": "",
+    "providerContact": "",
+    "statusId": 1,
+    "updatedDt": "2016-02-11T08:46:40.85"
+  },
+  {
+    "providerId": 549,
+    "providerTypeLutId": 7,
+    "providerCode": "",
+    "providerName": "Turkey",
+    "providerAddress": "",
+    "providerContact": "",
+    "statusId": 1,
+    "updatedDt": "2016-02-17T10:24:48.687"
+  },
+  {
+    "providerId": 550,
+    "providerTypeLutId": 39,
+    "providerCode": "",
+    "providerName": "Costco",
+    "providerAddress": "",
+    "providerContact": "",
+    "statusId": 1,
+    "updatedDt": "2016-04-22T09:10:23.03"
+  },
+  {
+    "providerId": 551,
+    "providerTypeLutId": 39,
+    "providerCode": "",
+    "providerName": "Dan D Pak",
+    "providerAddress": "",
+    "providerContact": "",
+    "statusId": 1,
+    "updatedDt": "2016-04-22T09:10:48.767"
+  },
+  {
+    "providerId": 552,
+    "providerTypeLutId": 39,
+    "providerCode": "",
+    "providerName": "Horizon Organic Distributors",
+    "providerAddress": "",
+    "providerContact": "",
+    "statusId": 1,
+    "updatedDt": "2016-04-22T09:11:17.84"
+  },
+  {
+    "providerId": 553,
+    "providerTypeLutId": 39,
+    "providerCode": "",
+    "providerName": "UNFI Food Distributor",
+    "providerAddress": "",
+    "providerContact": "",
+    "statusId": 1,
+    "updatedDt": "2016-04-22T09:11:36.86"
+  },
+  {
+    "providerId": 554,
+    "providerTypeLutId": 39,
+    "providerCode": "",
+    "providerName": "VendProducts of Canada",
+    "providerAddress": "",
+    "providerContact": "",
+    "statusId": 1,
+    "updatedDt": "2016-04-22T09:12:24.503"
+  },
+  {
+    "providerId": 555,
+    "providerTypeLutId": 39,
+    "providerCode": "",
+    "providerName": "Solo",
+    "providerAddress": "",
+    "providerContact": "",
+    "statusId": 1,
+    "updatedDt": "2016-05-01T08:40:21.96"
+  },
+  {
+    "providerId": 556,
+    "providerTypeLutId": 39,
+    "providerCode": "",
+    "providerName": "Canadian Wholesale",
+    "providerAddress": "",
+    "providerContact": "",
+    "statusId": 1,
+    "updatedDt": "2016-05-01T08:40:51.033"
+  },
+  {
+    "providerId": 557,
+    "providerTypeLutId": 39,
+    "providerCode": "",
+    "providerName": "Superstore",
+    "providerAddress": "",
+    "providerContact": "",
+    "statusId": 1,
+    "updatedDt": "2016-05-01T08:41:07.33"
+  },
+  {
+    "providerId": 558,
+    "providerTypeLutId": 39,
+    "providerCode": "",
+    "providerName": "Star Marketing",
+    "providerAddress": "",
+    "providerContact": "",
+    "statusId": 1,
+    "updatedDt": "2016-05-01T08:41:22.497"
+  },
+  {
+    "providerId": 559,
+    "providerTypeLutId": 8,
+    "providerCode": "",
+    "providerName": "VectoMobile",
+    "providerAddress": "",
+    "providerContact": "Adriano 11 94772 7551",
+    "statusId": 1,
+    "updatedDt": "2016-06-01T21:39:06",
+    "hasSpecificBin": false
+  },
+  {
+    "providerId": 560,
+    "providerTypeLutId": 39,
+    "providerCode": "051",
+    "providerName": "Carolina Herrera",
+    "providerAddress": "RJ e POA",
+    "providerContact": "Marcia",
+    "statusId": 1,
+    "updatedDt": "2016-06-06T16:21:33.707"
+  },
+  {
+    "providerId": 561,
+    "providerTypeLutId": 7,
+    "providerCode": "",
+    "providerName": "Nespresso",
+    "providerAddress": "",
+    "providerContact": "",
+    "statusId": 1,
+    "updatedDt": "2016-06-08T09:04:06.463",
+    "hasSpecificBin": false
+  },
+  {
+    "providerId": 562,
+    "providerTypeLutId": 39,
+    "providerCode": "",
+    "providerName": "キリン",
+    "providerAddress": "",
+    "providerContact": "",
+    "statusId": 1,
+    "updatedDt": "2016-06-09T08:26:37.883"
+  },
+  {
+    "providerId": 563,
+    "providerTypeLutId": 39,
+    "providerCode": "",
+    "providerName": "サントリー",
+    "providerAddress": "",
+    "providerContact": "",
+    "statusId": 1,
+    "updatedDt": "2016-06-09T08:27:39.507"
+  },
+  {
+    "providerId": 564,
+    "providerTypeLutId": 39,
+    "providerCode": "",
+    "providerName": "アサヒ",
+    "providerAddress": "",
+    "providerContact": "",
+    "statusId": 1,
+    "updatedDt": "2016-06-09T08:27:51.58"
+  },
+  {
+    "providerId": 565,
+    "providerTypeLutId": 39,
+    "providerCode": "",
+    "providerName": "伊藤園",
+    "providerAddress": "",
+    "providerContact": "",
+    "statusId": 1,
+    "updatedDt": "2016-06-09T08:28:03.347"
+  },
+  {
+    "providerId": 566,
+    "providerTypeLutId": 39,
+    "providerCode": "",
+    "providerName": "ダイドー",
+    "providerAddress": "",
+    "providerContact": "",
+    "statusId": 1,
+    "updatedDt": "2016-06-09T08:28:14.283"
+  },
+  {
+    "providerId": 567,
+    "providerTypeLutId": 39,
+    "providerCode": "",
+    "providerName": "ポッカ",
+    "providerAddress": "",
+    "providerContact": "",
+    "statusId": 1,
+    "updatedDt": "2016-06-09T08:28:27.95"
+  },
+  {
+    "providerId": 568,
+    "providerTypeLutId": 39,
+    "providerCode": "",
+    "providerName": "サッポロ",
+    "providerAddress": "",
+    "providerContact": "",
+    "statusId": 1,
+    "updatedDt": "2016-06-09T08:28:38.81"
+  },
+  {
+    "providerId": 569,
+    "providerTypeLutId": 39,
+    "providerCode": "",
+    "providerName": "コカコーラ",
+    "providerAddress": "",
+    "providerContact": "",
+    "statusId": 1,
+    "updatedDt": "2016-06-09T08:28:49.8"
+  },
+  {
+    "providerId": 570,
+    "providerTypeLutId": 7,
+    "providerCode": "",
+    "providerName": "EV Meter",
+    "providerAddress": "",
+    "providerContact": "",
+    "statusId": 1,
+    "updatedDt": "2016-06-16T07:56:44.503"
+  },
+  {
+    "providerId": 571,
+    "providerTypeLutId": 7,
+    "providerCode": "51",
+    "providerName": "Froz Ice",
+    "providerAddress": "sp",
+    "providerContact": "Georgina",
+    "statusId": 1,
+    "updatedDt": "2016-06-28T04:54:41.757",
+    "hasSpecificBin": false
+  },
+  {
+    "providerId": 572,
+    "providerTypeLutId": 7,
+    "providerCode": "",
+    "providerName": "Nayax Switzerland",
+    "providerAddress": "",
+    "providerContact": "",
+    "statusId": 1,
+    "updatedDt": "2016-07-04T08:55:50.467"
+  },
+  {
+    "providerId": 573,
+    "providerTypeLutId": 39,
+    "providerCode": "",
+    "providerName": "Canadian Artisan Foods",
+    "providerAddress": "",
+    "providerContact": "",
+    "statusId": 1,
+    "updatedDt": "2016-07-24T07:48:01.12"
+  },
+  {
+    "providerId": 574,
+    "providerTypeLutId": 39,
+    "providerCode": "",
+    "providerName": "PSC Natural Foods",
+    "providerAddress": "",
+    "providerContact": "",
+    "statusId": 1,
+    "updatedDt": "2016-07-24T07:48:29.093"
+  },
+  {
+    "providerId": 575,
+    "providerTypeLutId": 39,
+    "providerCode": "",
+    "providerName": "Walmart",
+    "providerAddress": "",
+    "providerContact": "",
+    "statusId": 1,
+    "updatedDt": "2016-07-27T13:38:05.97"
+  },
+  {
+    "providerId": 576,
+    "providerTypeLutId": 39,
+    "providerCode": "",
+    "providerName": "Walmart",
+    "providerAddress": "",
+    "providerContact": "",
+    "statusId": 1,
+    "updatedDt": "2016-07-27T13:39:24.75"
+  },
+  {
+    "providerId": 577,
+    "providerTypeLutId": 39,
+    "providerCode": "",
+    "providerName": "Other",
+    "providerAddress": "",
+    "providerContact": "",
+    "statusId": 1,
+    "updatedDt": "2016-07-27T13:40:47.803"
+  },
+  {
+    "providerId": 578,
+    "providerTypeLutId": 7,
+    "providerCode": "",
+    "providerName": "Feiloli",
+    "providerAddress": "",
+    "providerContact": "",
+    "statusId": 1,
+    "updatedDt": "2016-09-22T08:44:01.337"
+  },
+  {
+    "providerId": 579,
+    "providerTypeLutId": 7,
+    "providerCode": "",
+    "providerName": "JURA",
+    "providerAddress": "",
+    "providerContact": "",
+    "statusId": 1,
+    "updatedDt": "2016-11-20T08:21:20.167"
+  },
+  {
+    "providerId": 582,
+    "providerTypeLutId": 8,
+    "providerName": "Telenor Connexion",
+    "statusId": 1,
+    "updatedDt": "2019-05-07T13:07:46.353"
+  },
+  {
+    "providerId": 19512645,
+    "providerTypeLutId": 7,
+    "providerCode": "",
+    "providerName": "Bravilor",
+    "providerAddress": "",
+    "providerContact": "",
+    "statusId": 1,
+    "updatedDt": "2017-03-05T08:28:36.043"
+  },
+  {
+    "providerId": 53368757,
+    "providerTypeLutId": 39,
+    "providerName": "CavinKare Pvt Ltd",
+    "statusId": 1,
+    "updatedDt": "2017-03-08T14:57:18.673"
+  },
+  {
+    "providerId": 53546568,
+    "providerTypeLutId": 39,
+    "providerName": "Dabur India Ltd",
+    "statusId": 1,
+    "updatedDt": "2017-03-08T14:57:40.69"
+  },
+  {
+    "providerId": 86569806,
+    "providerTypeLutId": 39,
+    "providerName": "Lotte India Pvt Ltd",
+    "statusId": 1,
+    "updatedDt": "2017-03-08T15:02:44.063"
+  },
+  {
+    "providerId": 88168374,
+    "providerTypeLutId": 39,
+    "providerName": "Nestle India Ltd.",
+    "statusId": 1,
+    "updatedDt": "2017-03-08T15:03:27.63"
+  },
+  {
+    "providerId": 101560000,
+    "providerTypeLutId": 39,
+    "providerName": "Parle Agro Pvt Ltd",
+    "statusId": 1,
+    "updatedDt": "2017-03-08T15:03:36.567"
+  },
+  {
+    "providerId": 103993160,
+    "providerTypeLutId": 39,
+    "providerName": "CG Foods India Pvt. Ltd",
+    "statusId": 1,
+    "updatedDt": "2017-03-08T14:57:29.687"
+  },
+  {
+    "providerId": 115217847,
+    "providerTypeLutId": 123,
+    "providerName": "CampaignTest211475",
+    "statusId": 1,
+    "updatedDt": "2019-03-19T14:00:59.22",
+    "brandId": 1,
+    "hasSpecificBin": true
+  },
+  {
+    "providerId": 117019067,
+    "providerTypeLutId": 7,
+    "providerCode": "",
+    "providerName": "Mtech",
+    "providerAddress": "",
+    "providerContact": "",
+    "statusId": 1,
+    "updatedDt": "2017-04-19T10:36:09.223"
+  },
+  {
+    "providerId": 125336395,
+    "providerTypeLutId": 123,
+    "providerCode": "",
+    "providerName": "david visa",
+    "providerAddress": "",
+    "providerContact": "",
+    "statusId": 1,
+    "updatedDt": "2018-08-05T11:03:14.277",
+    "brandId": 6,
+    "hasSpecificBin": true
+  },
+  {
+    "providerId": 133503818,
+    "providerTypeLutId": 39,
+    "providerName": "Excelus Foodbev Pvt Ltd",
+    "statusId": 1,
+    "updatedDt": "2017-03-08T14:58:21.36"
+  },
+  {
+    "providerId": 135968325,
+    "providerTypeLutId": 35759431,
+    "providerCode": "02",
+    "providerName": "Yello",
+    "providerAddress": "",
+    "providerContact": "",
+    "statusId": 1,
+    "updatedDt": "2019-07-02T11:43:51.1",
+    "hasSpecificBin": false
+  },
+  {
+    "providerId": 136408767,
+    "providerTypeLutId": 39,
+    "providerName": "Redbull Pvt Ltd.",
+    "statusId": 1,
+    "updatedDt": "2017-03-08T15:05:03.247"
+  },
+  {
+    "providerId": 151675569,
+    "providerTypeLutId": 7,
+    "providerCode": "",
+    "providerName": "EV Meter LTD",
+    "providerAddress": "",
+    "providerContact": "",
+    "statusId": 1,
+    "updatedDt": "2021-12-16T07:08:31.57"
+  },
+  {
+    "providerId": 161337422,
+    "providerTypeLutId": 39,
+    "providerName": "Euro Pvt. Ltd",
+    "statusId": 1,
+    "updatedDt": "2017-03-08T14:58:14.547"
+  },
+  {
+    "providerId": 186660419,
+    "providerTypeLutId": 39,
+    "providerName": "Wrigley India Pvt Ltd.",
+    "statusId": 1,
+    "updatedDt": "2017-03-08T15:05:36.033"
+  },
+  {
+    "providerId": 192440503,
+    "providerTypeLutId": 39,
+    "providerName": "Pickwick Hygienic Pdt Pvt Ltd.",
+    "statusId": 1,
+    "updatedDt": "2017-03-08T15:03:59.087"
+  },
+  {
+    "providerId": 203832760,
+    "providerTypeLutId": 123,
+    "providerCode": "",
+    "providerName": "Visa",
+    "providerAddress": "",
+    "providerContact": "",
+    "statusId": 1,
+    "updatedDt": "2020-01-21T12:03:11.08",
+    "brandId": 6,
+    "hasSpecificBin": false
+  },
+  {
+    "providerId": 207952309,
+    "providerTypeLutId": 7,
+    "providerCode": "",
+    "providerName": "Afen",
+    "providerAddress": "",
+    "providerContact": "",
+    "statusId": 1,
+    "updatedDt": "2017-01-23T07:51:54.35"
+  },
+  {
+    "providerId": 246978737,
+    "providerTypeLutId": 8,
+    "providerCode": "",
+    "providerName": "Verizon",
+    "providerAddress": "",
+    "providerContact": "",
+    "statusId": 1,
+    "updatedDt": "2019-06-13T10:43:15.92"
+  },
+  {
+    "providerId": 282945726,
+    "providerTypeLutId": 7,
+    "providerCode": "01",
+    "providerName": "Fujian LANDI",
+    "providerAddress": "",
+    "providerContact": "",
+    "statusId": 1,
+    "updatedDt": "2020-03-12T07:35:10.377",
+    "hasSpecificBin": false
+  },
+  {
+    "providerId": 284597058,
+    "providerTypeLutId": 7,
+    "providerCode": "999",
+    "providerName": "MoMa 2.0 Test",
+    "providerAddress": "Arik Einstein 3",
+    "providerContact": "Test",
+    "statusId": 1,
+    "updatedDt": "2021-04-14T07:41:38.633"
+  },
+  {
+    "providerId": 288644279,
+    "providerTypeLutId": 123,
+    "providerName": "CampaignTest224420",
+    "statusId": 1,
+    "updatedDt": "2018-09-03T10:23:01.24",
+    "brandId": 1,
+    "hasSpecificBin": true
+  },
+  {
+    "providerId": 360576586,
+    "providerTypeLutId": 39,
+    "providerName": "MTR Foods Pvt. Ltd.",
+    "statusId": 1,
+    "updatedDt": "2017-03-08T15:03:17.243"
+  },
+  {
+    "providerId": 364726093,
+    "providerTypeLutId": 39,
+    "providerName": "National Chikki",
+    "statusId": 1,
+    "updatedDt": "2017-03-08T15:03:22.307"
+  },
+  {
+    "providerId": 367561149,
+    "providerTypeLutId": 123,
+    "providerName": "CampaignTest497598",
+    "statusId": 1,
+    "updatedDt": "2020-08-26T11:37:05.513",
+    "brandId": 1,
+    "hasSpecificBin": true
+  },
+  {
+    "providerId": 373562289,
+    "providerTypeLutId": 39,
+    "providerName": "Pepsico India Holding Pvt Ltd",
+    "statusId": 1,
+    "updatedDt": "2017-03-08T15:03:53.567"
+  },
+  {
+    "providerId": 378840756,
+    "providerTypeLutId": 39,
+    "providerName": "Venkatraman Food Specialities Ltd.",
+    "statusId": 1,
+    "updatedDt": "2017-03-08T15:05:29.713"
+  },
+  {
+    "providerId": 403289932,
+    "providerTypeLutId": 39,
+    "providerName": "Britannia Industries Ltd",
+    "statusId": 1,
+    "updatedDt": "2017-03-08T14:57:00.297"
+  },
+  {
+    "providerId": 410102967,
+    "providerTypeLutId": 123,
+    "providerCode": "",
+    "providerName": "Visa",
+    "providerAddress": "",
+    "providerContact": "",
+    "statusId": 1,
+    "updatedDt": "2019-02-26T14:33:33.003",
+    "brandId": 6,
+    "hasSpecificBin": false
+  },
+  {
+    "providerId": 411839159,
+    "providerTypeLutId": 39,
+    "providerName": "Mondelez India Foods Pvt Ltd",
+    "statusId": 1,
+    "updatedDt": "2017-03-08T15:03:06.397"
+  },
+  {
+    "providerId": 422929231,
+    "providerTypeLutId": 7,
+    "providerCode": "",
+    "providerName": "Melitta",
+    "providerAddress": "",
+    "providerContact": "",
+    "statusId": 1,
+    "updatedDt": "2017-05-16T07:02:36.087"
+  },
+  {
+    "providerId": 425938504,
+    "providerTypeLutId": 123,
+    "providerCode": "",
+    "providerName": "david MASTERCARD",
+    "providerAddress": "",
+    "providerContact": "",
+    "statusId": 1,
+    "updatedDt": "2021-10-03T08:05:01.913",
+    "brandId": 8,
+    "hasSpecificBin": true
+  },
+  {
+    "providerId": 429836359,
+    "providerTypeLutId": 39,
+    "providerName": "Life Health Foods India Pvt Ltd",
+    "statusId": 1,
+    "updatedDt": "2017-03-08T15:02:38.207"
+  },
+  {
+    "providerId": 430860109,
+    "providerTypeLutId": 8,
+    "providerCode": "",
+    "providerName": "AT&T",
+    "providerAddress": "",
+    "providerContact": "",
+    "statusId": 1,
+    "updatedDt": "2019-06-13T10:41:04.64"
+  },
+  {
+    "providerId": 432444348,
+    "providerTypeLutId": 8,
+    "providerCode": "",
+    "providerName": "Optus",
+    "providerAddress": "",
+    "providerContact": "",
+    "statusId": 1,
+    "updatedDt": "2017-04-24T06:14:20.783"
+  },
+  {
+    "providerId": 445137087,
+    "providerTypeLutId": 123,
+    "providerName": "CampaignTest660048",
+    "statusId": 1,
+    "updatedDt": "2019-03-18T11:49:27.67",
+    "brandId": 1,
+    "hasSpecificBin": true
+  },
+  {
+    "providerId": 447446455,
+    "providerTypeLutId": 39,
+    "providerName": "Haldiram Prabhuji Pvt Ltd",
+    "statusId": 1,
+    "updatedDt": "2017-03-08T15:01:11.333"
+  },
+  {
+    "providerId": 466332997,
+    "providerTypeLutId": 39,
+    "providerName": "Fresca Foods Pvt. Ltd.",
+    "statusId": 1,
+    "updatedDt": "2017-03-08T14:58:31.793"
+  },
+  {
+    "providerId": 472858550,
+    "providerTypeLutId": 8,
+    "providerCode": "",
+    "providerName": "Hot Mobile",
+    "providerAddress": "",
+    "providerContact": "",
+    "statusId": 1,
+    "updatedDt": "2019-06-13T10:41:56.583"
+  },
+  {
+    "providerId": 483267918,
+    "providerTypeLutId": 39,
+    "providerName": "Green Dot Health Foods Ltd",
+    "statusId": 1,
+    "updatedDt": "2017-03-08T14:58:38.537"
+  },
+  {
+    "providerId": 487764042,
+    "providerTypeLutId": 39,
+    "providerName": "Bikanervala Foods Pvt. Ltd.",
+    "statusId": 1,
+    "updatedDt": "2017-03-08T14:54:03.78"
+  },
+  {
+    "providerId": 491568830,
+    "providerTypeLutId": 35759431,
+    "providerCode": "00",
+    "providerName": "CASTLES Technology",
+    "providerAddress": "",
+    "providerContact": "",
+    "statusId": 1,
+    "updatedDt": "2019-07-02T11:43:22.71",
+    "hasSpecificBin": false
+  },
+  {
+    "providerId": 493793211,
+    "providerTypeLutId": 39,
+    "providerName": "Chheda's Specialities Foods Pvt Ltd",
+    "statusId": 1,
+    "updatedDt": "2017-03-08T14:57:35.33"
+  },
+  {
+    "providerId": 504000448,
+    "providerTypeLutId": 8,
+    "providerCode": "",
+    "providerName": "POST",
+    "providerAddress": "",
+    "providerContact": "",
+    "statusId": 1,
+    "updatedDt": "2019-06-13T10:42:50.38"
+  },
+  {
+    "providerId": 504067905,
+    "providerTypeLutId": 39,
+    "providerName": "Relish Snacks Private Limited",
+    "statusId": 1,
+    "updatedDt": "2017-03-08T15:05:08.917"
+  },
+  {
+    "providerId": 512694863,
+    "providerTypeLutId": 8,
+    "providerCode": "52",
+    "providerName": "AT&T/Cingular",
+    "providerAddress": "",
+    "providerContact": "",
+    "statusId": 1,
+    "updatedDt": "2019-12-05T14:55:15.287",
+    "hasSpecificBin": false
+  },
+  {
+    "providerId": 529668786,
+    "providerTypeLutId": 39,
+    "providerName": "Jabsons Foods",
+    "statusId": 1,
+    "updatedDt": "2017-03-08T15:02:21.357"
+  },
+  {
+    "providerId": 545149255,
+    "providerTypeLutId": 39,
+    "providerName": "Dannone Foods Pvt Ltd.",
+    "statusId": 1,
+    "updatedDt": "2017-03-08T14:58:07.9"
+  },
+  {
+    "providerId": 550620864,
+    "providerTypeLutId": 39,
+    "providerName": "Parle Agro Pvt Ltd.",
+    "statusId": 1,
+    "updatedDt": "2017-03-08T15:03:41.73"
+  },
+  {
+    "providerId": 551629243,
+    "providerTypeLutId": 39,
+    "providerName": "ITC Ltd",
+    "statusId": 1,
+    "updatedDt": "2017-03-08T15:01:50.59"
+  },
+  {
+    "providerId": 576647867,
+    "providerTypeLutId": 39,
+    "providerName": "Hector Beverages Pvt Ltd.",
+    "statusId": 1,
+    "updatedDt": "2017-03-08T15:01:16.827"
+  },
+  {
+    "providerId": 580289863,
+    "providerTypeLutId": 39,
+    "providerName": "Unibic Foods India Pvt Ltd",
+    "statusId": 1,
+    "updatedDt": "2017-03-08T15:05:24.877"
+  },
+  {
+    "providerId": 585497024,
+    "providerTypeLutId": 125,
+    "providerCode": "33696",
+    "providerName": "Provider 180320191348307",
+    "providerAddress": "Provider 33",
+    "providerContact": "33",
+    "statusId": 1,
+    "updatedDt": "2019-03-18T11:48:30.91"
+  },
+  {
+    "providerId": 591880625,
+    "providerTypeLutId": 7,
+    "providerCode": "",
+    "providerName": "EV Meter",
+    "providerAddress": "",
+    "providerContact": "",
+    "statusId": 1,
+    "updatedDt": "2021-12-27T08:22:23.587"
+  },
+  {
+    "providerId": 613105075,
+    "providerTypeLutId": 39,
+    "providerName": "Redbull Pvt Ltd.",
+    "statusId": 1,
+    "updatedDt": "2017-03-08T15:04:28.937"
+  },
+  {
+    "providerId": 616561082,
+    "providerTypeLutId": 39,
+    "providerName": "Kellogg India Pvt Ltd",
+    "statusId": 1,
+    "updatedDt": "2017-03-08T15:02:27.07"
+  },
+  {
+    "providerId": 623990456,
+    "providerTypeLutId": 39,
+    "providerName": "Indo Nissin Foods Ltd.",
+    "statusId": 1,
+    "updatedDt": "2017-03-08T15:01:43.537"
+  },
+  {
+    "providerId": 636786248,
+    "providerTypeLutId": 8,
+    "providerCode": "",
+    "providerName": "TNS",
+    "providerAddress": "",
+    "providerContact": "",
+    "statusId": 1,
+    "updatedDt": "2017-01-17T09:07:31.403"
+  },
+  {
+    "providerId": 650402625,
+    "providerTypeLutId": 39,
+    "providerName": "Monginis Food Pvt Ltd.",
+    "statusId": 1,
+    "updatedDt": "2017-03-08T15:03:11.55"
+  },
+  {
+    "providerId": 650848335,
+    "providerTypeLutId": 39,
+    "providerName": "Mars India Pvt Ltd.",
+    "statusId": 1,
+    "updatedDt": "2017-03-08T15:03:00.943"
+  },
+  {
+    "providerId": 653353793,
+    "providerTypeLutId": 123,
+    "providerName": "CampaignTest730364",
+    "statusId": 1,
+    "updatedDt": "2020-08-26T11:43:53.747",
+    "brandId": 1,
+    "hasSpecificBin": true
+  },
+  {
+    "providerId": 654437816,
+    "providerTypeLutId": 123,
+    "providerName": "CampaignTest459036",
+    "statusId": 1,
+    "updatedDt": "2018-09-03T10:22:40.48",
+    "brandId": 1,
+    "hasSpecificBin": true
+  },
+  {
+    "providerId": 702359480,
+    "providerTypeLutId": 39,
+    "providerName": "Raghuvanshi Industries",
+    "statusId": 1,
+    "updatedDt": "2017-03-08T15:04:18.127"
+  },
+  {
+    "providerId": 714340429,
+    "providerTypeLutId": 39,
+    "providerName": "Gujarat Co-op",
+    "statusId": 1,
+    "updatedDt": "2017-03-08T14:58:49.64"
+  },
+  {
+    "providerId": 732295601,
+    "providerTypeLutId": 39,
+    "providerName": "Parle Products Pvt Ltd.",
+    "statusId": 1,
+    "updatedDt": "2017-03-08T15:03:47"
+  },
+  {
+    "providerId": 736015793,
+    "providerTypeLutId": 39,
+    "providerName": "Sheetal Arch Restaruant Pvt Ltd",
+    "statusId": 1,
+    "updatedDt": "2017-03-08T15:05:14.23"
+  },
+  {
+    "providerId": 747127115,
+    "providerTypeLutId": 123,
+    "providerName": "CampaignTest071404",
+    "statusId": 1,
+    "updatedDt": "2020-11-02T09:33:54.093",
+    "brandId": 1,
+    "hasSpecificBin": true
+  },
+  {
+    "providerId": 752878405,
+    "providerTypeLutId": 8,
+    "providerCode": "182",
+    "providerName": "T-Mobile",
+    "providerAddress": "",
+    "providerContact": "",
+    "statusId": 1,
+    "updatedDt": "2019-12-05T14:55:28.38"
+  },
+  {
+    "providerId": 759057590,
+    "providerTypeLutId": 7,
+    "providerCode": "",
+    "providerName": "Generic",
+    "providerAddress": "",
+    "providerContact": "",
+    "statusId": 1,
+    "updatedDt": "2017-07-23T09:23:42.2"
+  },
+  {
+    "providerId": 766010689,
+    "providerTypeLutId": 39,
+    "providerName": "HSM Foods International",
+    "statusId": 1,
+    "updatedDt": "2017-03-08T15:01:37.003"
+  },
+  {
+    "providerId": 779536463,
+    "providerTypeLutId": 39,
+    "providerName": "Pravin Masalewale",
+    "statusId": 1,
+    "updatedDt": "2017-03-08T15:04:04.61"
+  },
+  {
+    "providerId": 820849472,
+    "providerTypeLutId": 8,
+    "providerCode": "",
+    "providerName": "Provender",
+    "providerAddress": "",
+    "providerContact": "",
+    "statusId": 1,
+    "updatedDt": "2017-01-17T09:08:19.24"
+  },
+  {
+    "providerId": 841303740,
+    "providerTypeLutId": 39,
+    "providerName": "Haldiram Food International Pvt Ltd.",
+    "statusId": 1,
+    "updatedDt": "2017-03-08T14:58:54.563"
+  },
+  {
+    "providerId": 849241015,
+    "providerTypeLutId": 35759431,
+    "providerCode": "03",
+    "providerName": "MIURA Systems",
+    "providerAddress": "",
+    "providerContact": "",
+    "statusId": 1,
+    "updatedDt": "2019-07-02T11:43:44.443",
+    "hasSpecificBin": false
+  },
+  {
+    "providerId": 857824951,
+    "providerTypeLutId": 39,
+    "providerName": "Sunbeam Mercantile Ventures",
+    "statusId": 1,
+    "updatedDt": "2017-03-08T15:05:19.887"
+  },
+  {
+    "providerId": 905866050,
+    "providerTypeLutId": 39,
+    "providerName": "Rajaram & Co.",
+    "statusId": 1,
+    "updatedDt": "2017-03-08T15:04:22.473"
+  },
+  {
+    "providerId": 909805746,
+    "providerTypeLutId": 39,
+    "providerName": "Maiyas Bev & Foods Pvt. Ltd.",
+    "statusId": 1,
+    "updatedDt": "2017-03-08T15:02:50.643"
+  },
+  {
+    "providerId": 913964986,
+    "providerTypeLutId": 39,
+    "providerName": "Ferrero India",
+    "statusId": 1,
+    "updatedDt": "2017-03-08T14:58:27.09"
+  },
+  {
+    "providerId": 916725576,
+    "providerTypeLutId": 39,
+    "providerName": "Marico India",
+    "statusId": 1,
+    "updatedDt": "2017-03-08T15:02:55.8"
+  },
+  {
+    "providerId": 922922059,
+    "providerTypeLutId": 39,
+    "providerName": "Keya Foods Int. Pvt Ltd.",
+    "statusId": 1,
+    "updatedDt": "2017-03-08T15:02:32.757"
+  },
+  {
+    "providerId": 940506697,
+    "providerTypeLutId": 7,
+    "providerCode": "",
+    "providerName": "Flymax",
+    "providerAddress": "",
+    "providerContact": "",
+    "statusId": 1,
+    "updatedDt": "2017-08-16T16:44:17.837"
+  },
+  {
+    "providerId": 951765580,
+    "providerTypeLutId": 7,
+    "providerCode": "",
+    "providerName": "GIRBAU",
+    "providerAddress": "",
+    "providerContact": "",
+    "statusId": 1,
+    "updatedDt": "2017-02-05T10:11:26.45"
+  },
+  {
+    "providerId": 955214782,
+    "providerTypeLutId": 123,
+    "providerName": "CampaignTest722767",
+    "statusId": 1,
+    "updatedDt": "2019-03-18T11:49:39.727",
+    "brandId": 1,
+    "hasSpecificBin": true
+  },
+  {
+    "providerId": 975248196,
+    "providerTypeLutId": 39,
+    "providerName": "Hindustan Coca Cola Beverages Pvt Ltd.",
+    "statusId": 1,
+    "updatedDt": "2017-03-08T15:01:21.74"
+  },
+  {
+    "providerId": 986344256,
+    "providerTypeLutId": 123,
+    "providerName": "CampaignTest439333",
+    "statusId": 1,
+    "updatedDt": "2019-03-19T14:01:00.443",
+    "brandId": 1,
+    "hasSpecificBin": true
+  },
+  {
+    "providerId": 987958461,
+    "providerTypeLutId": 7,
+    "providerCode": "",
+    "providerName": "BaiXue",
+    "providerAddress": "",
+    "providerContact": "",
+    "statusId": 1,
+    "updatedDt": "2017-09-03T16:49:29.45"
+  },
+  {
+    "providerId": 999656373,
+    "providerTypeLutId": 39,
+    "providerName": "Aster Imports",
+    "statusId": 1,
+    "updatedDt": "2017-03-08T14:52:35.18"
+  }
+]

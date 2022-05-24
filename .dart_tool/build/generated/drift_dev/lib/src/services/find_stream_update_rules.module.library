@@ -1,0 +1,1 @@
+{"isEntrypoint":false,"deps":["collection|lib/collection.dart","drift|lib/drift.dart","drift_dev|lib/moor_generator.dart","sqlparser|lib/sqlparser.dart"],"parts":[],"conditionalDeps":[],"sdkDeps":[],"hasMain":false}

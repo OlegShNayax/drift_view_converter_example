@@ -1,0 +1,92 @@
+[
+  {
+    "id": 1,
+    "isEnabled": false,
+    "severityId": 30000510
+  },
+  {
+    "id": 2,
+    "isEnabled": false,
+    "severityId": 30000510
+  },
+  {
+    "id": 3,
+    "isEnabled": false,
+    "severityId": 30000510
+  },
+  {
+    "id": 4,
+    "isEnabled": false,
+    "severityId": 30000510
+  },
+  {
+    "id": 5,
+    "isEnabled": false,
+    "severityId": 30000510
+  },
+  {
+    "id": 6,
+    "isEnabled": false,
+    "severityId": 30000510
+  },
+  {
+    "id": 7,
+    "isEnabled": false,
+    "severityId": 30000510
+  },
+  {
+    "id": 8,
+    "isEnabled": false,
+    "severityId": 30000510
+  },
+  {
+    "id": 9,
+    "isEnabled": false,
+    "severityId": 30000510
+  },
+  {
+    "id": 10,
+    "isEnabled": false,
+    "severityId": 30000510
+  },
+  {
+    "id": 11,
+    "isEnabled": false,
+    "severityId": 30000510
+  },
+  {
+    "id": 12,
+    "isEnabled": false,
+    "severityId": 30000506
+  },
+  {
+    "id": 13,
+    "isEnabled": false,
+    "severityId": 30000506
+  },
+  {
+    "id": 14,
+    "isEnabled": false,
+    "severityId": 30000506
+  },
+  {
+    "id": 15,
+    "isEnabled": false,
+    "severityId": 30000506
+  },
+  {
+    "id": 17,
+    "isEnabled": false,
+    "severityId": 30000506
+  },
+  {
+    "id": 18,
+    "isEnabled": false,
+    "severityId": 30000506
+  },
+  {
+    "id": 19,
+    "isEnabled": false,
+    "severityId": 30000506
+  }
+]

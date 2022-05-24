@@ -1,0 +1,1 @@
+{"isEntrypoint":true,"deps":["flutter_secure_storage_platform_interface|lib/flutter_secure_storage_platform_interface.dart","flutter_web_plugins|lib/flutter_web_plugins.dart","flutter_secure_storage_web|lib/src/subtle.dart"],"parts":[],"conditionalDeps":[],"sdkDeps":["convert","html","typed_data","js_util"],"hasMain":false}

@@ -1,0 +1,1 @@
+{"isEntrypoint":true,"deps":["win32|lib/src/structs.g.dart","win32|lib/src/constants_winsock.dart","win32|lib/src/ws2_32.dart"],"parts":[],"conditionalDeps":[],"sdkDeps":[],"hasMain":false}

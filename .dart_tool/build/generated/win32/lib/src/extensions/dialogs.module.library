@@ -1,0 +1,1 @@
+{"isEntrypoint":false,"deps":["ffi|lib/ffi.dart","win32|lib/src/constants.dart","win32|lib/src/structs.g.dart","win32|lib/src/extensions/set_string.dart"],"parts":[],"conditionalDeps":[],"sdkDeps":["ffi"],"hasMain":false}

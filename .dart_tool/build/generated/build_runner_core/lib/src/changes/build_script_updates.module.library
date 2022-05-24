@@ -1,0 +1,1 @@
+{"isEntrypoint":false,"deps":["build|lib/build.dart","collection|lib/collection.dart","logging|lib/logging.dart","path|lib/path.dart","build_runner_core|lib/src/asset/reader.dart","build_runner_core|lib/src/asset_graph/graph.dart","build_runner_core|lib/src/package_graph/package_graph.dart"],"parts":[],"conditionalDeps":[],"sdkDeps":["async","mirrors"],"hasMain":false}

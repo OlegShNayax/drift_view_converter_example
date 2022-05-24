@@ -1,0 +1,1 @@
+{"isEntrypoint":false,"deps":[],"parts":[],"conditionalDeps":[{"$default":"path_provider_linux|lib/src/get_application_id_stub.dart","dart.library.ffi":"path_provider_linux|lib/src/get_application_id_real.dart"}],"sdkDeps":[],"hasMain":false}

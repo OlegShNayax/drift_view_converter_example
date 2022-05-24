@@ -1,0 +1,1 @@
+{"isEntrypoint":false,"deps":["quiver|lib/iterables.dart","dart_extensions|lib/src/data_stractures/stack.dart","dart_extensions|lib/src/equality.dart"],"parts":[],"conditionalDeps":[],"sdkDeps":["collection","math"],"hasMain":false}

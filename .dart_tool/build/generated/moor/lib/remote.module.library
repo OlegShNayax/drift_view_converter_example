@@ -1,0 +1,1 @@
+{"isEntrypoint":true,"deps":["drift|lib/remote.dart","meta|lib/meta.dart","moor|lib/src/deprecated.dart","stream_channel|lib/stream_channel.dart"],"parts":[],"conditionalDeps":[],"sdkDeps":[],"hasMain":false}

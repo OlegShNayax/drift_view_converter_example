@@ -1,0 +1,1 @@
+{"isEntrypoint":false,"deps":["analyzer|lib/dart/ast/ast.dart","analyzer|lib/dart/element/element.dart","analyzer|lib/dart/element/type.dart","build|lib/build.dart","drift_dev|lib/src/analyzer/options.dart","drift_dev|lib/src/backends/backend.dart","logging|lib/logging.dart"],"parts":[],"conditionalDeps":[],"sdkDeps":["convert"],"hasMain":false}

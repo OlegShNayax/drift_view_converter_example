@@ -1,0 +1,1 @@
+{"isEntrypoint":false,"deps":["meta|lib/meta.dart","xml|lib/src/xml_events/events/start_element.dart","xml|lib/src/xml_events/streams/with_parent.dart"],"parts":[],"conditionalDeps":[],"sdkDeps":[],"hasMain":false}

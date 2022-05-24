@@ -1,0 +1,86 @@
+[
+  {
+    "cityId": 93055,
+    "cityName": "Oranjestad",
+    "shortCity": "Oranjestad",
+    "countryId": 12
+  },
+  {
+    "cityId": 98150,
+    "cityName": "Noord",
+    "shortCity": "Noord",
+    "countryId": 12
+  },
+  {
+    "cityId": 99183,
+    "cityName": "Paradera",
+    "shortCity": "Paradera",
+    "countryId": 12
+  },
+  {
+    "cityId": 110879,
+    "cityName": "Sero Blanco",
+    "shortCity": "Sero Blanco",
+    "countryId": 12
+  },
+  {
+    "cityId": 121516,
+    "cityName": "Boton",
+    "shortCity": "Boton",
+    "countryId": 12
+  },
+  {
+    "cityId": 124617,
+    "cityName": "Savaneta",
+    "shortCity": "Savaneta",
+    "countryId": 12
+  },
+  {
+    "cityId": 128202,
+    "cityName": "Tamarijn",
+    "shortCity": "Tamarijn",
+    "countryId": 12
+  },
+  {
+    "cityId": 128516,
+    "cityName": "Pos Chikito",
+    "shortCity": "Pos Chikito",
+    "countryId": 12
+  },
+  {
+    "cityId": 130871,
+    "cityName": "Dacota",
+    "shortCity": "Dacota",
+    "countryId": 12
+  },
+  {
+    "cityId": 130872,
+    "cityName": "Sint Nicolaas",
+    "shortCity": "Sint Nicolaas",
+    "countryId": 12
+  },
+  {
+    "cityId": 155128,
+    "cityName": "Westpunt",
+    "shortCity": "Westpunt",
+    "countryId": 12
+  },
+  {
+    "cityId": 161222,
+    "cityName": "Tanki Lender",
+    "shortCity": "Tanki Lender",
+    "countryId": 12
+  },
+  {
+    "cityId": 176744,
+    "cityName": "Ponton",
+    "shortCity": "Ponton",
+    "countryId": 12
+  },
+  {
+    "cityId": 176854,
+    "cityName": "San Barbola",
+    "shortCity": "San Barbola",
+    "countryId": 12
+  }
+]

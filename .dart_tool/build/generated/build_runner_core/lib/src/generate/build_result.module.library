@@ -1,0 +1,1 @@
+{"isEntrypoint":false,"deps":["build|lib/build.dart","meta|lib/meta.dart","build_runner_core|lib/src/generate/performance_tracker.dart"],"parts":[],"conditionalDeps":[],"sdkDeps":["async"],"hasMain":false}

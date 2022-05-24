@@ -1,0 +1,1 @@
+{"isEntrypoint":false,"deps":["drift_dev|lib/src/analyzer/moor/moor_ffi_extension.dart","sqlparser|lib/sqlparser.dart","sqlparser|lib/src/utils/ast_equality.dart"],"parts":[],"conditionalDeps":[],"sdkDeps":[],"hasMain":false}

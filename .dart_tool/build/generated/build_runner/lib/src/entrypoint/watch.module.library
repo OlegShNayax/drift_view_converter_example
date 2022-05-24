@@ -1,0 +1,1 @@
+{"isEntrypoint":false,"deps":["build|lib/experiments.dart","build_runner|lib/src/entrypoint/options.dart","build_runner_core|lib/build_runner_core.dart","io|lib/io.dart","build_runner|lib/src/generate/build.dart","build_runner|lib/src/entrypoint/base_command.dart"],"parts":[],"conditionalDeps":[],"sdkDeps":["async"],"hasMain":false}

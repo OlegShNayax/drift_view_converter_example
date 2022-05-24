@@ -1,0 +1,1 @@
+{"isEntrypoint":false,"deps":["xml|lib/src/xml/nodes/attribute.dart","xml|lib/src/xml/utils/name.dart","xml|lib/src/xml/utils/name_matcher.dart","xml|lib/src/xml/utils/namespace.dart","xml|lib/src/xml/utils/node_list.dart"],"parts":[],"conditionalDeps":[],"sdkDeps":[],"hasMain":false}

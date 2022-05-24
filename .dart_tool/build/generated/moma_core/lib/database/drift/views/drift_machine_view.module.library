@@ -1,0 +1,1 @@
+{"isEntrypoint":true,"deps":["drift|lib/drift.dart","moma_core|lib/database/drift/tables/drift_machine_info_table.dart","moma_core|lib/database/drift/tables/drift_machine_table.dart"],"parts":[],"conditionalDeps":[],"sdkDeps":[],"hasMain":false}

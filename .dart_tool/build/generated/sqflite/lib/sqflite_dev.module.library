@@ -1,0 +1,1 @@
+{"isEntrypoint":true,"deps":["flutter|lib/cupertino.dart","sqflite|lib/src/factory.dart","sqflite|lib/src/factory_impl.dart","sqflite_common|lib/sqlite_api.dart"],"parts":[],"conditionalDeps":[],"sdkDeps":[],"hasMain":false}

@@ -1,0 +1,1 @@
+{"isEntrypoint":false,"deps":["drift_dev|lib/src/analyzer/runner/file_graph.dart","drift_dev|lib/src/analyzer/runner/results.dart"],"parts":[],"conditionalDeps":[],"sdkDeps":[],"hasMain":false}

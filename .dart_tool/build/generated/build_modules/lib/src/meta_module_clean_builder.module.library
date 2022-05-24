@@ -1,0 +1,1 @@
+{"isEntrypoint":false,"deps":["build|lib/build.dart","graphs|lib/graphs.dart","build_modules|lib/src/meta_module.dart","build_modules|lib/src/meta_module_builder.dart","build_modules|lib/src/module_cache.dart","build_modules|lib/src/modules.dart","build_modules|lib/src/platform.dart"],"parts":[],"conditionalDeps":[],"sdkDeps":["async","collection","convert"],"hasMain":false}

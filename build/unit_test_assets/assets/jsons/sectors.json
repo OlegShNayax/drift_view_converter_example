@@ -1,0 +1,56 @@
+[
+  {
+    "sectorId": 2000000510,
+    "parentId": 200003026,
+    "name": "sector 1",
+    "code": "105",
+    "actorId": 111
+  },
+  {
+    "sectorId": 2000000511,
+    "parentId": 200003026,
+    "name": "sector 2",
+    "code": "106",
+    "actorId": 111
+  },
+  {
+    "sectorId": 2000000512,
+    "parentId": 200003026,
+    "name": "sector 3",
+    "code": "107",
+    "actorId": 111
+  },
+  {
+    "sectorId": 2000000513,
+    "name": "sector 5",
+    "code": "108",
+    "actorId": 115
+  },
+  {
+    "sectorId": 2000000515,
+    "name": "sector 6",
+    "code": "109",
+    "actorId": 115
+  },
+  {
+    "sectorId": 2000000610,
+    "parentId": 2000030256,
+    "name": "sector 7",
+    "code": "110",
+    "actorId": 120
+  },
+  {
+    "sectorId": 2000000611,
+    "parentId": 2000030256,
+    "name": "sector 8",
+    "code": "111",
+    "actorId": 120
+  },
+  {
+    "sectorId": 2000000612,
+    "parentId": 2000030256,
+    "name": "sector 9",
+    "code": "115",
+    "actorId": 120
+  }
+]

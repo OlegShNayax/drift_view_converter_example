@@ -1,0 +1,1 @@
+{"isEntrypoint":false,"deps":["ffi|lib/ffi.dart","flutter|lib/foundation.dart","path|lib/path.dart","path_provider_platform_interface|lib/path_provider_platform_interface.dart","win32|lib/win32.dart","path_provider_windows|lib/src/folders.dart"],"parts":[],"conditionalDeps":[],"sdkDeps":["ffi","io"],"hasMain":false}

@@ -1,0 +1,1 @@
+{"isEntrypoint":false,"deps":["ffi|lib/ffi.dart","win32|lib/src/constants.dart","win32|lib/src/extensions/int_to_hexstring.dart","win32|lib/src/kernel32.dart","win32|lib/src/utils.dart"],"parts":[],"conditionalDeps":[],"sdkDeps":["ffi"],"hasMain":false}

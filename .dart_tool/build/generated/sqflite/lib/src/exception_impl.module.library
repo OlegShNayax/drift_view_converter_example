@@ -1,0 +1,1 @@
+{"isEntrypoint":false,"deps":["sqflite|lib/src/services_impl.dart","sqflite|lib/src/sqflite_import.dart"],"parts":[],"conditionalDeps":[],"sdkDeps":[],"hasMain":false}

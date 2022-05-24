@@ -1,0 +1,1 @@
+{"isEntrypoint":true,"deps":["retrofit|lib/http.dart","retrofit|lib/dio.dart"],"parts":[],"conditionalDeps":[],"sdkDeps":[],"hasMain":false}

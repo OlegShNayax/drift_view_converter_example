@@ -1,0 +1,1 @@
+{"isEntrypoint":true,"deps":["code_builder|lib/code_builder.dart","floor_generator|lib/misc/change_method_writer_helper.dart","floor_generator|lib/misc/extension/string_extension.dart","floor_generator|lib/value_object/update_method.dart","floor_generator|lib/writer/writer.dart"],"parts":[],"conditionalDeps":[],"sdkDeps":[],"hasMain":false}

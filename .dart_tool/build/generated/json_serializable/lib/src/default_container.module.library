@@ -1,0 +1,1 @@
+{"isEntrypoint":false,"deps":["json_serializable|lib/src/lambda_result.dart","json_serializable|lib/src/utils.dart"],"parts":[],"conditionalDeps":[],"sdkDeps":[],"hasMain":false}

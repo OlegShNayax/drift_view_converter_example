@@ -1,0 +1,1 @@
+{"isEntrypoint":false,"deps":["ffi|lib/ffi.dart","win32|lib/src/combase.dart","win32|lib/src/exceptions.dart","win32|lib/src/guid.dart","win32|lib/src/macros.dart","win32|lib/src/utils.dart"],"parts":[],"conditionalDeps":[],"sdkDeps":["ffi"],"hasMain":false}

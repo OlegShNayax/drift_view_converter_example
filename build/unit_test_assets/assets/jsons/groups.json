@@ -1,0 +1,92 @@
+[
+  {
+    "machineGroupId": 9593,
+    "actorId": 2000022982,
+    "groupDescription": "Testing",
+    "updatedDt": "2015-07-14T08:12:38.53",
+    "statusId": 1
+  },
+  {
+    "machineGroupId": 86166198,
+    "actorId": 2000022982,
+    "groupDescription": "Tom-Group",
+    "updatedDt": "2019-01-01T09:24:32.603",
+    "groupCode": 123456,
+    "statusId": 1,
+    "createdDt": "2019-01-01T09:24:32.603",
+    "createdBy": 526416450,
+    "updatedBy": 526416450
+  },
+  {
+    "machineGroupId": 439674945,
+    "actorId": 2000022982,
+    "groupDescription": "dani",
+    "updatedDt": "2018-08-30T09:23:08.277",
+    "statusId": 1,
+    "createdDt": "2018-08-30T09:23:08.277",
+    "createdBy": 143533890,
+    "updatedBy": 143533890
+  },
+  {
+    "machineGroupId": 455360694,
+    "actorId": 2000022982,
+    "groupDescription": "QA",
+    "updatedDt": "2019-03-12T11:46:16.857",
+    "statusId": 1,
+    "createdDt": "2019-03-12T11:46:16.857",
+    "createdBy": 948977337,
+    "updatedBy": 948977337
+  },
+  {
+    "machineGroupId": 579425869,
+    "actorId": 2000022982,
+    "groupDescription": "Design group",
+    "updatedDt": "2017-03-29T09:51:53.333",
+    "statusId": 1,
+    "createdDt": "2017-03-29T09:51:53.333",
+    "createdBy": 666601149,
+    "updatedBy": 666601149
+  },
+  {
+    "machineGroupId": 716106311,
+    "actorId": 2000022982,
+    "groupDescription": "Test Group 1",
+    "updatedDt": "2018-11-01T13:10:27.303",
+    "groupCode": 1,
+    "statusId": 1,
+    "createdDt": "2018-11-01T13:10:27.303",
+    "createdBy": 143533890,
+    "updatedBy": 143533890
+  },
+  {
+    "machineGroupId": 831036486,
+    "actorId": 2000022982,
+    "groupDescription": "Test Group 2",
+    "updatedDt": "2017-04-05T11:54:23.887",
+    "statusId": 1,
+    "createdDt": "2017-04-05T11:54:23.887",
+    "createdBy": 9634,
+    "updatedBy": 9634
+  },
+  {
+    "machineGroupId": 887258289,
+    "actorId": 2000022982,
+    "groupDescription": "Test Group 3",
+    "updatedDt": "2018-11-20T11:53:43.907",
+    "groupCode": 455,
+    "statusId": 1,
+    "createdDt": "2018-11-20T11:53:43.907",
+    "createdBy": 143533890,
+    "updatedBy": 143533890
+  },
+  {
+    "machineGroupId": 909377980,
+    "actorId": 2000022982,
+    "groupDescription": "Monyx",
+    "updatedDt": "2019-02-26T07:13:37.8",
+    "statusId": 1,
+    "createdDt": "2019-02-26T07:13:37.8",
+    "createdBy": 742752448,
+    "updatedBy": 742752448
+  }
+]

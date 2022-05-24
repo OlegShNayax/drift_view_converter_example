@@ -1,0 +1,1 @@
+{"isEntrypoint":false,"deps":["drift_dev|lib/src/analyzer/options.dart","drift_dev|lib/src/analyzer/runner/file_graph.dart","drift_dev|lib/src/writer/queries/sql_writer.dart","sqlparser|lib/sqlparser.dart","drift_dev|lib/src/model/model.dart"],"parts":[],"conditionalDeps":[],"sdkDeps":[],"hasMain":false}

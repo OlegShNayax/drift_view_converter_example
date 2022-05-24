@@ -1,0 +1,1 @@
+{"isEntrypoint":false,"deps":["io|lib/ansi.dart","logging|lib/logging.dart","stack_trace|lib/stack_trace.dart"],"parts":[],"conditionalDeps":[],"sdkDeps":["convert","io"],"hasMain":false}

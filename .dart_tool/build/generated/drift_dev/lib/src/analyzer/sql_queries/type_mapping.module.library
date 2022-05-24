@@ -1,0 +1,1 @@
+{"isEntrypoint":false,"deps":["drift|lib/drift.dart","drift_dev|lib/moor_generator.dart","drift_dev|lib/src/utils/type_converter_hint.dart","sqlparser|lib/sqlparser.dart","sqlparser|lib/utils/find_referenced_tables.dart","drift_dev|lib/src/analyzer/sql_queries/required_variables.dart"],"parts":[],"conditionalDeps":[],"sdkDeps":[],"hasMain":false}

@@ -1,0 +1,1 @@
+{"isEntrypoint":true,"deps":["path_drawing|lib/src/parse_path.dart","path_drawing|lib/src/dash_path.dart","path_drawing|lib/src/trim_path.dart"],"parts":[],"conditionalDeps":[],"sdkDeps":[],"hasMain":false}

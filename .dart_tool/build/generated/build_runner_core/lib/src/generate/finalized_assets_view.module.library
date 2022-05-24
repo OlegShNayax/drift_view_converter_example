@@ -1,0 +1,1 @@
+{"isEntrypoint":false,"deps":["build|lib/build.dart","path|lib/path.dart","build_runner_core|lib/src/asset_graph/graph.dart","build_runner_core|lib/src/asset_graph/node.dart","build_runner_core|lib/src/asset_graph/optional_output_tracker.dart","build_runner_core|lib/src/package_graph/package_graph.dart"],"parts":[],"conditionalDeps":[],"sdkDeps":[],"hasMain":false}

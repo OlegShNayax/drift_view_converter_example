@@ -1,0 +1,1 @@
+{"isEntrypoint":false,"deps":["drift_dev|lib/src/analyzer/runner/results.dart","path|lib/path.dart","drift_dev|lib/src/cli/cli.dart"],"parts":[],"conditionalDeps":[],"sdkDeps":["async","io"],"hasMain":false}

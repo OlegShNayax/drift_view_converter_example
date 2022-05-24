@@ -1,0 +1,1 @@
+{"isEntrypoint":false,"deps":["js|lib/js.dart","flutter_secure_storage_web|lib/src/jsonwebkey.dart"],"parts":[],"conditionalDeps":[],"sdkDeps":["convert","html","typed_data","js_util"],"hasMain":false}

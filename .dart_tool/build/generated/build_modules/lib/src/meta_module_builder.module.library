@@ -1,0 +1,1 @@
+{"isEntrypoint":false,"deps":["build|lib/build.dart","glob|lib/glob.dart","build_modules|lib/src/common.dart","build_modules|lib/src/meta_module.dart","build_modules|lib/src/module_cache.dart","build_modules|lib/src/module_library_builder.dart","build_modules|lib/src/platform.dart"],"parts":[],"conditionalDeps":[],"sdkDeps":["async"],"hasMain":false}

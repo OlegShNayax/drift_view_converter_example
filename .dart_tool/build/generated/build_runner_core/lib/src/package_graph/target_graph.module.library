@@ -1,0 +1,1 @@
+{"isEntrypoint":false,"deps":["build|lib/build.dart","build_config|lib/build_config.dart","glob|lib/glob.dart","build_runner_core|lib/src/generate/input_matcher.dart","build_runner_core|lib/src/generate/options.dart","build_runner_core|lib/src/package_graph/package_graph.dart"],"parts":[],"conditionalDeps":[],"sdkDeps":["async"],"hasMain":false}

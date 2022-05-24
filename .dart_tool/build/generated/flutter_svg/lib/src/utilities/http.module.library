@@ -1,0 +1,1 @@
+{"isEntrypoint":false,"deps":[],"parts":[],"conditionalDeps":[{"$default":"flutter_svg|lib/src/utilities/_http_io.dart","dart.library.html":"flutter_svg|lib/src/utilities/_http_web.dart"}],"sdkDeps":[],"hasMain":false}

@@ -1,0 +1,1 @@
+{"isEntrypoint":true,"deps":["collection|lib/collection.dart","floor_annotation|lib/floor_annotation.dart","floor_generator|lib/misc/extension/foreign_key_action_extension.dart"],"parts":[],"conditionalDeps":[],"sdkDeps":[],"hasMain":false}

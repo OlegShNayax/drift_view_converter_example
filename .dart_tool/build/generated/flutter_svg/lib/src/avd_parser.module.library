@@ -1,0 +1,1 @@
+{"isEntrypoint":false,"deps":["path_drawing|lib/path_drawing.dart","vector_math|lib/vector_math_64.dart","xml|lib/xml.dart","flutter_svg|lib/src/avd/xml_parsers.dart","flutter_svg|lib/src/vector_drawable.dart"],"parts":[],"conditionalDeps":[],"sdkDeps":["ui"],"hasMain":false}
