@@ -17,4 +17,15 @@ class DriftMachineInfoEntity implements Insertable<DriftMachineInfoEntity>{
             details: Value(details))
         .toColumns(nullToAbsent);
   }
+
+  factory DriftMachineInfoEntity.fromMachineInfo(MachineInfo machineInfo) {
+    return DriftMachineInfoEntity(
+        machineId: machineInfo.main!.id!.toInt(),
+        main: machineInfo.main,
+        details: machineInfo.details);
+  }
+
+  MachineInfo toMachineInfo() {
+    return MachineInfo(main: main, details: details);
+  }
 }

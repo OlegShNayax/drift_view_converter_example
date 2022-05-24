@@ -1,5 +1,6 @@
 import 'package:drift/drift.dart';
 import 'package:moma_core/database/drift/drift_database.dart';
+import 'package:moma_core/models/machine/machine.dart';
 
 class DriftMachineEntity implements Insertable<DriftMachineEntity> {
 
@@ -28,5 +29,14 @@ class DriftMachineEntity implements Insertable<DriftMachineEntity> {
         profileLutId: Value(profileLutId),
         name: Value(name)
     ).toColumns(nullToAbsent);
+  }
+
+  factory DriftMachineEntity.fromMachine(Machine machine) {
+    return DriftMachineEntity(machine.id,
+        machine.typeLutId,
+        machine.actorId,
+        machine.modelId,
+        machine.profileLutId,
+        machine.name);
   }
 }

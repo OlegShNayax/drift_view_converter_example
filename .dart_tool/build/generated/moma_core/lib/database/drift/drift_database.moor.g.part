@@ -343,8 +343,8 @@ class DriftMachineViewData extends DataClass {
   final int? modelId;
   final int? profileLutId;
   final String? name;
-  final String? main;
-  final String? details;
+  final Main? main;
+  final Details? details;
   DriftMachineViewData(
       {this.id,
       this.typeLutId,
@@ -369,10 +369,12 @@ class DriftMachineViewData extends DataClass {
           .mapFromDatabaseResponse(data['${effectivePrefix}profile_lut_id']),
       name: const StringType()
           .mapFromDatabaseResponse(data['${effectivePrefix}name']),
-      main: const StringType()
-          .mapFromDatabaseResponse(data['${effectivePrefix}main']),
-      details: const StringType()
-          .mapFromDatabaseResponse(data['${effectivePrefix}details']),
+      main: $DriftMachineInfoTableTable.$converter0.mapToDart(const StringType()
+          .mapFromDatabaseResponse(
+              data['${effectivePrefix}machine_info.main'])),
+      details: $DriftMachineInfoTableTable.$converter1.mapToDart(
+          const StringType().mapFromDatabaseResponse(
+              data['${effectivePrefix}machine_info.details'])),
     );
   }
   factory DriftMachineViewData.fromJson(Map<String, dynamic> json,
@@ -385,8 +387,8 @@ class DriftMachineViewData extends DataClass {
       modelId: serializer.fromJson<int?>(json['modelId']),
       profileLutId: serializer.fromJson<int?>(json['profileLutId']),
       name: serializer.fromJson<String?>(json['name']),
-      main: serializer.fromJson<String?>(json['main']),
-      details: serializer.fromJson<String?>(json['details']),
+      main: serializer.fromJson<Main?>(json['main']),
+      details: serializer.fromJson<Details?>(json['details']),
     );
   }
   @override
@@ -399,8 +401,8 @@ class DriftMachineViewData extends DataClass {
       'modelId': serializer.toJson<int?>(modelId),
       'profileLutId': serializer.toJson<int?>(profileLutId),
       'name': serializer.toJson<String?>(name),
-      'main': serializer.toJson<String?>(main),
-      'details': serializer.toJson<String?>(details),
+      'main': serializer.toJson<Main?>(main),
+      'details': serializer.toJson<Details?>(details),
     };
   }
 
@@ -411,8 +413,8 @@ class DriftMachineViewData extends DataClass {
           int? modelId,
           int? profileLutId,
           String? name,
-          String? main,
-          String? details}) =>
+          Main? main,
+          Details? details}) =>
       DriftMachineViewData(
         id: id ?? this.id,
         typeLutId: typeLutId ?? this.typeLutId,
@@ -467,8 +469,16 @@ class $DriftMachineViewView
   $DriftMachineInfoTableTable get machineInfoTable =>
       attachedDatabase.driftMachineInfoTable.createAlias('t1');
   @override
-  List<GeneratedColumn> get $columns =>
-      [id, typeLutId, actorId, modelId, profileLutId, name, main, details];
+  List<GeneratedColumn> get $columns => [
+        id,
+        typeLutId,
+        actorId,
+        modelId,
+        profileLutId,
+        name,
+        machineInfoTable.main,
+        machineInfoTable.details
+      ];
   @override
   String get aliasedName => _alias ?? entityName;
   @override
@@ -507,13 +517,11 @@ class $DriftMachineViewView
       type: const StringType(),
       generatedAs: GeneratedAs(machineTable.name, false));
   late final GeneratedColumn<String?> main = GeneratedColumn<String?>(
-      'main', aliasedName, true,
-      type: const StringType(),
-      generatedAs: GeneratedAs(machineInfoTable.main, false));
+      'main', aliasedName, false,
+      type: const StringType());
   late final GeneratedColumn<String?> details = GeneratedColumn<String?>(
-      'details', aliasedName, true,
-      type: const StringType(),
-      generatedAs: GeneratedAs(machineInfoTable.details, false));
+      'details', aliasedName, false,
+      type: const StringType());
   @override
   $DriftMachineViewView createAlias(String alias) {
     return $DriftMachineViewView(attachedDatabase, alias);
@@ -540,6 +548,8 @@ abstract class _$DriftDatabaseImpl extends GeneratedDatabase {
       $DriftMachineInfoTableTable(this);
   late final $DriftMachineViewView driftMachineView =
       $DriftMachineViewView(this);
+  late final DriftMachineDao driftMachineDao =
+      DriftMachineDao(this as DriftDatabaseImpl);
   @override
   Iterable<TableInfo> get allTables => allSchemaEntities.whereType<TableInfo>();
   @override

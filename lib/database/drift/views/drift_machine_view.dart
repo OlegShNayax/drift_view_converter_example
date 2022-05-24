@@ -15,9 +15,6 @@ abstract class DriftMachineView extends View {
   Expression<int?> get profileLutId => machineTable.profileLutId;
   Expression<String?> get name => machineTable.name;
 
-  // machine info
-  Expression<String?> get main => machineInfoTable.main;
-  Expression<String?> get details => machineInfoTable.details;
 
   @override
   Query as() => select([
@@ -27,8 +24,8 @@ abstract class DriftMachineView extends View {
         modelId,
         profileLutId,
         name,
-        main,
-        details,
+        machineInfoTable.main,
+        machineInfoTable.details,
       ]).from(machineTable).join([
         leftOuterJoin(machineInfoTable, machineInfoTable.machineId.equalsExp(machineTable.id)),
       ]);
