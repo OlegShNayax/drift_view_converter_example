@@ -1,4 +1,4 @@
-# moma_core
+# Drift View Example
 
 A new Flutter project.
 
