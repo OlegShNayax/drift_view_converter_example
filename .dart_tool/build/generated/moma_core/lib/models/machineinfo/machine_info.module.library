@@ -1,1 +1,0 @@
-{"isEntrypoint":true,"deps":["equatable|lib/equatable.dart","json_annotation|lib/json_annotation.dart"],"parts":["moma_core|lib/models/machineinfo/machine_info.g.dart"],"conditionalDeps":[],"sdkDeps":[],"hasMain":false}

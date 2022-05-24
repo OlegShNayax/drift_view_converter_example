@@ -4,7 +4,6 @@ import 'package:moma_core/database/drift/tables/drift_machine_table.dart';
 
 abstract class DriftMachineView extends View {
 
-
   DriftMachineTable get machineTable;
   DriftMachineInfoTable get machineInfoTable;
 

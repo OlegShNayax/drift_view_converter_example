@@ -1,7 +1,7 @@
 import 'dart:convert';
 
 import 'package:drift/drift.dart';
-import 'package:moma_core/models/machineinfo/machine_info.dart';
+import 'package:moma_core/database/drift/entities/drift_machine_info_entity.dart';
 
 
 class DriftDetailsConverter extends TypeConverter<Details?, String> {

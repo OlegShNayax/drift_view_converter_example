@@ -1,7 +1,11 @@
 import 'package:drift/drift.dart';
+import 'package:json_annotation/json_annotation.dart';
 import 'package:moma_core/database/drift/drift_database.dart';
-import 'package:moma_core/models/machine/machine.dart';
 
+part 'drift_machine_entity.g.dart';
+
+
+@JsonSerializable()
 class DriftMachineEntity implements Insertable<DriftMachineEntity> {
 
   int id;
@@ -31,12 +35,7 @@ class DriftMachineEntity implements Insertable<DriftMachineEntity> {
     ).toColumns(nullToAbsent);
   }
 
-  factory DriftMachineEntity.fromMachine(Machine machine) {
-    return DriftMachineEntity(machine.id,
-        machine.typeLutId,
-        machine.actorId,
-        machine.modelId,
-        machine.profileLutId,
-        machine.name);
-  }
+  factory DriftMachineEntity.fromJson(Map<String, dynamic> json) => _$DriftMachineEntityFromJson(json);
+
+  Map<String, dynamic> toJson() => _$DriftMachineEntityToJson(this);
 }

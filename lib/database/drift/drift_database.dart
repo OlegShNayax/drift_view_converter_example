@@ -7,7 +7,6 @@ import 'package:moma_core/database/drift/entities/drift_machine_entity.dart';
 import 'package:moma_core/database/drift/type_converter/drift_details_converter.dart';
 import 'package:moma_core/database/drift/type_converter/drift_main_converter.dart';
 import 'package:moma_core/database/drift/views/drift_machine_view.dart';
-import 'package:moma_core/models/machineinfo/machine_info.dart';
 import 'package:moor/moor.dart';
 import 'package:drift/drift.dart';
 
